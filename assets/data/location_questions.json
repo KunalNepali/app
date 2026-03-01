@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the total area of Nepal according to the new map?",
+    "options": [
+      "1,47,181 km sq.",
+      "2,67,575 km sq.",
+      "1,47,516 km sq.",
+      "None"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country borders Nepal to the north?",
+    "options": [
+      "India",
+      "China",
+      "Bhutan",
+      "Bangladesh"
+    ],
+    "correctIndex": 1
+  },
+    {
+    "question": "Nepal's East-West length, North-South length?",
+    "options": [
+      "700km, 800km",
+      "885km, 193km",
+      "880km, 190km",
+      "900km, 200km"
+    ],
+    "correctIndex": 1
+  },
+      {
+    "question": "What percentage of the total land area of Asia, the world, and South Asia is occupied by Nepal?",
+    "options": [
+      "(0.02, 0.2, 2.80)%",
+      "(0.02, 0.3, 3.80)%",
+      "(0.04, 0.1, 2.82)%",
+      "(0.03, 0.3, 2.82)%"
+    ],
+    "correctIndex": 3
+  }
+]
