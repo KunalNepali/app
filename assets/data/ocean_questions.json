@@ -1,0 +1,11 @@
+[  {
+    "question": "Which is third largest ocean of worls?",
+    "options": [
+      "Indian",
+      "Pacific",
+      "Mariana Trench",
+      "None"
+    ],
+    "correctIndex": 0
+  }
+]

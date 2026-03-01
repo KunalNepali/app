@@ -1,0 +1,11 @@
+[  {
+    "question": "Which is longest river of Nepal?",
+    "options": [
+      "Bagmati",
+      "Arun",
+      "Koshi",
+      "Karnali"
+    ],
+    "correctIndex": 3
+  }
+]

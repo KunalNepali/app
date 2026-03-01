@@ -1,3 +1,10 @@
+import 'package:app/screens/climate_quiz_page.dart';
+import 'package:app/screens/continent_quiz_page.dart';
+import 'package:app/screens/forest_quiz_page.dart';
+import 'package:app/screens/lake_pond_quiz_page.dart';
+import 'package:app/screens/mountain_range_quiz_page.dart';
+import 'package:app/screens/ocean_quiz_page.dart';
+import 'package:app/screens/river_stream_quiz_page.dart';
 import 'package:flutter/material.dart';
 import 'quiz_page.dart';
 
@@ -13,6 +20,8 @@ class GeographyPage extends StatelessWidget {
       GeoItem("Rivers and Streams", "assets/icons/river.png"),
       GeoItem("Lakes and Ponds", "assets/icons/lake.png"),
       GeoItem("Forests", "assets/icons/forest.png"),
+      GeoItem("Continents", "assets/icons/continent.png"),
+      GeoItem("Ocean", "assets/icons/ocean.png"),
     ];
 
     return Scaffold(
@@ -55,6 +64,52 @@ class GeoCard extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(builder: (context) => const QuizPage()),
+          );
+        }
+        if (item.title == "Climate") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const ClimateQuizPage()),
+          );
+        }
+        if (item.title == "Mountain Ranges") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) => const MountainRangeQuizPage(),
+            ),
+          );
+        }
+        if (item.title == "Rivers & Streams") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) => const RiverStreamQuizPage(),
+            ),
+          );
+        }
+        if (item.title == "Lakes & Ponds") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const LakePondQuizPage()),
+          );
+        }
+        if (item.title == "Forests") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const ForestQuizPage()),
+          );
+        }
+        if (item.title == "Continents") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const ContinentQuizPage()),
+          );
+        }
+        if (item.title == "Ocean") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => OceanQuizPage()),
           );
         }
       },

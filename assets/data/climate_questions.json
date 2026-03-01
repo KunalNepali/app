@@ -1,0 +1,22 @@
+[
+      {
+    "question": "Which climate zone lies between 3351m and 5000m altitude?",
+    "options": [
+      "Cool Temperate Climate",
+      "Warm Temperate Climate",
+      "Alpine Climate",
+      "Tundra Climate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which climate zone is found above 5001m altitude in Nepal?",
+    "options": [
+      "Alpine Climate",
+      "Cool Temperate Climate",
+      "Tundra Climate",
+      "Subtropical Climate"
+    ],
+    "correctIndex": 2
+  }
+]

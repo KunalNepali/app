@@ -1,5 +1,5 @@
+import 'package:app/screens/history_quiz_page.dart';
 import 'package:flutter/material.dart';
-import 'quiz_page.dart';
 
 class HistoryPage extends StatelessWidget {
   const HistoryPage({Key? key}) : super(key: key);
@@ -7,12 +7,10 @@ class HistoryPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final List<HistoryItem> items = [
-      HistoryItem("Location", "assets/icons/location.png"),
-      HistoryItem("Climate", "assets/icons/climate.png"),
-      HistoryItem("Mountain\nRanges", "assets/icons/mountain.png"),
-      HistoryItem("Rivers and Streams", "assets/icons/river.png"),
-      HistoryItem("Lakes and Ponds", "assets/icons/lake.png"),
-      HistoryItem("Forests", "assets/icons/forest.png"),
+      HistoryItem("Ancient & Medieval", "assets/icons/gopal.png"),
+      HistoryItem("Modern History", "assets/icons/pns.png"),
+      HistoryItem("Wars & Treaties", "assets/icons/war_treaty.png"),
+      HistoryItem("Prevalent", "assets/icons/present.png"),
     ];
 
     return Scaffold(
@@ -51,10 +49,10 @@ class HistoryCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
-        if (item.title == "Location") {
+        if (item.title == "Ancient & Medieval") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => const QuizPage()),
+            MaterialPageRoute(builder: (context) => const HistoryQuizPage()),
           );
         }
       },

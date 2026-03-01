@@ -1,3 +1,4 @@
+import 'package:app/screens/history_page.dart';
 import 'package:flutter/material.dart';
 import 'geography_page.dart';
 
@@ -96,7 +97,7 @@ class HomeCard extends StatelessWidget {
         if (item.title == "History") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => const GeographyPage()),
+            MaterialPageRoute(builder: (context) => const HistoryPage()),
           );
         }
       },
