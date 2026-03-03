@@ -3,14 +3,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class RiverStreamQuizPage extends StatefulWidget {
-  const RiverStreamQuizPage({Key? key}) : super(key: key);
+class OthersQuizPage extends StatefulWidget {
+  const OthersQuizPage({Key? key}) : super(key: key);
 
   @override
-  State<RiverStreamQuizPage> createState() => _RiverStreamQuizPageState();
+  State<OthersQuizPage> createState() => _OthersQuizPageState();
 }
 
-class _RiverStreamQuizPageState extends State<RiverStreamQuizPage> {
+class _OthersQuizPageState extends State<OthersQuizPage> {
   List questions = [];
   int currentIndex = 0;
   int? selectedIndex;
@@ -35,7 +35,7 @@ class _RiverStreamQuizPageState extends State<RiverStreamQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/river_stream_questions.json',
+      'assets/data/others_questions.json',
     );
     final data = json.decode(response);
 
@@ -195,7 +195,7 @@ class _RiverStreamQuizPageState extends State<RiverStreamQuizPage> {
                 borderRadius: BorderRadius.circular(20),
               ),
               child: const Text(
-                "River Stream General Knowledge",
+                "Others General Knowledge",
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
             ),

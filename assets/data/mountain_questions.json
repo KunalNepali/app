@@ -1,10 +1,3432 @@
-[  {
+[  
+  {
+    "question": "Which mountain is referred to as Nepal's Mt. Fuji?",
+    "options": [
+      "Mustang",
+      "Manaslu",
+      "Jumla",
+      "Ranimahal"
+    ],
+    "correctIndex": 1
+  },
+  {
+  "question": "Where is Mount Everest (Sagarmatha) located in Nepal?",
+  "options": [
+    "Namkha Rural Municipality, Humla",
+    "Barpak, Gorkha",
+    "Jomsom, Mustang",
+    "Khumbu Pasang Lhamu Rural Municipality, Solukhumbu"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "Approximately how old is Mount Everest?",
+  "options": [
+    "About 6 million years",
+    "About 60 million years",
+    "About 600 thousand years",
+    "About 16 million years"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "How many main Himalayan ranges and subranges are there in Nepal?",
+  "options": [
+    "18 main ranges and 28 subranges",
+    "28 main ranges and 18 subranges",
+    "30 main ranges and 20 subranges",
+    "25 main ranges and 15 subranges"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Kanchenjunga Main Peak?",
+  "options": [
+    "8586 m",
+    "8476 m",
+    "8406 m",
+    "8201 m"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "In which district is Kanchenjunga Main located?",
+  "options": [
+    "Solukhumbu",
+    "Sankhuwasabha",
+    "Morang",
+    "Taplejung"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "What is the height of Kanchenjunga Central Peak?",
+  "options": [
+    "8586 m",
+    "8406 m",
+    "8201 m",
+    "8476 m"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "Where is Kanchenjunga Central Peak located?",
+  "options": [
+    "Sankhuwasabha",
+    "Solukhumbu",
+    "Taplejung",
+    "Dolakha"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "What is the height of Kadwachen Peak?",
+  "options": [
+    "7365 m",
+    "7125 m",
+    "7903 m",
+    "6854 m"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Where is Kadwachen Peak located?",
+  "options": [
+    "Sankhuwasabha",
+    "Taplejung",
+    "Solukhumbu",
+    "Morang"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Kirat Chuli (Tent Peak)?",
+  "options": [
+    "7365 m",
+    "7125 m",
+    "6854 m",
+    "6910 m"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Which district is Kirat Chuli located in?",
+  "options": [
+    "Sankhuwasabha",
+    "Solukhumbu",
+    "Taplejung",
+    "Morang"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "What is the height of Pathibhara Chuli?",
+  "options": [
+    "7365 m",
+    "6854 m",
+    "6910 m",
+    "7125 m"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "In which subrange does Pathibhara Chuli belong?",
+  "options": [
+    "Khumjung",
+    "Mahalangur",
+    "Makalu",
+    "Kanchenjunga"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "What is the height of Ledyu Peak?",
+  "options": [
+    "6854 m",
+    "6910 m",
+    "6505 m",
+    "6930 m"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Where is Nepal Peak located?",
+  "options": [
+    "Solukhumbu",
+    "Sankhuwasabha",
+    "Taplejung",
+    "Dolakha"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "What is the height of Nepal Peak?",
+  "options": [
+    "6854 m",
+    "6910 m",
+    "6505 m",
+    "6930 m"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Yalungkang Peak?",
+  "options": [
+    "6854 m",
+     "6505 m",
+   "6910 m",
+    "6930 m"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Kanchenjunga South Peak?",
+  "options": [
+    "8406 m",
+    "8476 m",
+    "8586 m",
+    "8201 m"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Where is Kanchenjunga South located?",
+  "options": [
+    "Sankhuwasabha",
+    "Solukhumbu",
+    "Morang",
+    "Taplejung"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "What is the height of Kumbhakarna (Jannu)?",
+  "options": [
+    "7350 m",
+    "7365 m",
+    "7125 m",
+    "7710 m"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "Where is Kumbhakarna (Jannu) located?",
+  "options": [
+    "Sankhuwasabha",
+    "Solukhumbu",
+    "Taplejung",
+    "Morang"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "What is the height of Gimmigela Chuli?",
+  "options": [
+    "7365 m",
+    "7125 m",
+    "7350 m",
+    "7710 m"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "What is the height of Kang Guru Peak?",
+  "options": [
+    "6930 m",
+    "6505 m",
+    "6854 m",
+    "6980 m"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "Where is Losar Peak located?",
+  "options": [
+    "Sankhuwasabha",
+    "Taplejung",
+    "Solukhumbu",
+    "Morang"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Losar Peak?",
+  "options": [
+    "6980 m",
+    "6930 m",
+    "6505 m",
+    "6854 m"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Lumba Sumba Peak?",
+  "options": [
+    "6505 m",
+    "6854 m",
+    "6910 m",
+    "5670 m"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "What is the height of Jongsang Peak?",
+  "options": [
+    "7483 m",
+    "7365 m",
+    "7125 m",
+    "6854 m"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Where is Janak Ohmi Kanga located?",
+  "options": [
+    "Sankhuwasabha",
+    "Taplejung",
+    "Solukhumbu",
+    "Dolakha"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Janak Ohmi Kanga?",
+  "options": [
+    "7318 m",
+    "6682 m",
+    "6829 m",
+    "7129 m"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Where is Kabru Peak located?",
+  "options": [
+    "Sankhuwasabha",
+    "Solukhumbu",
+    "Dolakha",
+    "Taplejung"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "What is the height of Kabru Peak?",
+  "options": [
+    "6829 m",
+    "7318 m",
+    "6682 m",
+    "7129 m"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "Where is Rothang Peak located?",
+  "options": [
+    "Sankhuwasabha",
+    "Solukhumbu",
+    "Taplejung",
+    "Dolakha"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "What is the height of Rothang Peak?",
+  "options": [
+    "7318 m",
+    "6682 m",
+    "6829 m",
+    "7129 m"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Makalu First Peak?",
+  "options": [
+    "8463 m",
+    "7129 m",
+    "6312 m",
+    "8201 m"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "In which district is Makalu First Peak located?",
+  "options": [
+    "Solukhumbu",
+    "Taplejung",
+    "Morang",
+    "Sankhuwasabha"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "What is the height of Ekarate Danda?",
+  "options": [
+    "8463 m",
+    "7129 m",
+    "6312 m",
+    "8201 m"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Where is Varuntsa Peak located?",
+  "options": [
+    "Solukhumbu",
+    "Sankhuwasabha",
+    "Taplejung",
+    "Dolakha"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "What is the height of Varuntsa Peak?",
+  "options": [
+    "6312 m",
+    "7129 m",
+    "8463 m",
+    "8201 m"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "Which peaks belong to Khumbu/Mahalangur subrange?",
+  "options": [
+    "Khumbu, Lhotse, Cho-O-Yu",
+    "Kanchenjunga Main, Central, South",
+    "Makalu, Ekarate",
+    "All Taplejung peaks"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "What is the height of Lhotse (Khumbu subrange)?",
+  "options": [
+    "8400 m",
+    "8201 m",
+    "8848.86 m",
+    "8463 m"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Cho-O-Yu (Khumbu subrange)?",
+  "options": [
+    "8848.86 m",
+    "8201 m",
+    "8463 m",
+    "8400 m"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "What is the height of Khumbu Peak in Khumbu/Mahalangur subrange?",
+  "options": [
+    "7129 m",
+    "8201 m",
+    "8400 m",
+    "8463 m"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "In which district is Khumbu Peak located?",
+  "options": [
+    "Sankhuwasabha",
+    "Solukhumbu",
+    "Taplejung",
+    "Dolakha"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Lhotse South Peak in Khumbu subrange?",
+  "options": [
+    "8201 m",
+    "8400 m",
+    "8463 m",
+    "8848.86 m"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Where is Lhotse South Peak located?",
+  "options": [
+    "Solukhumbu",
+    "Sankhuwasabha",
+    "Taplejung",
+    "Dolakha"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Makalu Peak in Makalu subrange?",
+  "options": [
+    "7129 m",
+    "8463 m",
+    "6312 m",
+    "8201 m"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "In which district is Makalu Peak located?",
+  "options": [
+    "Solukhumbu",
+    "Taplejung",
+    "Dolakha",
+    "Sankhuwasabha"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "What is the height of Ekarate Danda in Makalu subrange?",
+  "options": [
+    "8463 m",
+    "7129 m",
+    "6312 m",
+    "8201 m"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Where is Varuntsa Peak located?",
+  "options": [
+    "Sankhuwasabha",
+    "Taplejung",
+    "Dolakha",
+    "Solukhumbu"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "What is the height of Varuntsa Peak?",
+  "options": [
+    "7129 m",
+    "6312 m",
+    "8463 m",
+    "8201 m"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "What is the height of Cho-O-Yu in Khumbu/Mahalangur subrange?",
+  "options": [
+    "8201 m",
+    "8848.86 m",
+    "8400 m",
+    "8463 m"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "In which district is Cho-O-Yu located?",
+  "options": [
+    "Sankhuwasabha",
+    "Solukhumbu",
+    "Taplejung",
+    "Dolakha"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Lhotse in Khumbu/Mahalangur subrange?",
+  "options": [
+    "8201 m",
+    "8848.86 m",
+    "8400 m",
+    "8463 m"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Where is Lhotse located?",
+  "options": [
+    "Solukhumbu",
+    "Sankhuwasabha",
+    "Taplejung",
+    "Dolakha"
+  ],
+  "correctIndex": 0
+},
+  {
+    "question": "Which mountain located in Dolakha district in the Rolwaling/Gaurishankar range has a height of 7,134 meters?",
+    "options": ["Parchamo", "Numbur", "Gaurishankar", "Khatang"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Chabe, which has a height of 6,686 meters, is located in which district and mountain range?",
+    "options": [
+      "Sindhupalchok – Jugal",
+      "Dolakha – Rolwaling/Gaurishankar",
+      "Gorkha – Ganesh",
+      "Solukhumbu – Rolwaling/Gaurishankar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Parchamo (6,187 m) lies in which district and mountain range?",
+    "options": [
+      "Rasuwa – Ganesh",
+      "Dolakha – Rolwaling/Gaurishankar",
+      "Sindhupalchok – Jugal",
+      "Dhading – Ganesh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Numbur, standing 6,957 meters tall, is located in which district(s) and mountain range?",
+    "options": [
+      "Solukhumbu/Ramechhap – Rolwaling/Gaurishankar",
+      "Gorkha – Ganesh",
+      "Sindhupalchok – Jugal",
+      "Dolakha – Rolwaling/Gaurishankar"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Khatang (6,790 m) is located in which district and mountain range?",
+    "options": [
+      "Sindhupalchok – Jugal",
+      "Dhading – Ganesh",
+      "Solukhumbu – Rolwaling/Gaurishankar",
+      "Dolakha – Rolwaling/Gaurishankar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which mountain stands 6,068 meters high in Solukhumbu district within the Rolwaling/Gaurishankar range?",
+    "options": ["Loenpo Gang", "Kwangde", "Bhairav Takura", "Paldor Chuli"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Loenpo Gang, with a height of 6,989 meters, is located in which district and range?",
+    "options": [
+      "Sindhupalchok – Jugal",
+      "Gorkha – Ganesh",
+      "Dhading – Ganesh",
+      "Dolakha – Rolwaling/Gaurishankar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Bhairav Takura (6,799 m) lies in which district and mountain range?",
+    "options": [
+      "Sindhupalchok – Jugal",
+      "Solukhumbu – Rolwaling/Gaurishankar",
+      "Gorkha – Ganesh",
+      "Rasuwa – Ganesh"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Karyolung, standing 6,511 meters tall, is located in which district and range?",
+    "options": [
+      "Dolakha – Rolwaling/Gaurishankar",
+      "Sindhupalchok – Jugal",
+      "Dhading – Ganesh",
+      "Gorkha – Ganesh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gyalzen Peak (6,151 m) belongs to which district and mountain range?",
+    "options": [
+      "Rasuwa – Ganesh",
+      "Solukhumbu – Rolwaling/Gaurishankar",
+      "Sindhupalchok – Jugal",
+      "Gorkha – Ganesh"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dorje Lakpa, which is 6,966 meters high, is located in which district and range?",
+    "options": [
+      "Gorkha – Ganesh",
+      "Sindhupalchok – Jugal",
+      "Dhading – Ganesh",
+      "Dolakha – Rolwaling/Gaurishankar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Phurba Gyachu (6,631 m) lies in which district and mountain range?",
+    "options": [
+      "Dolakha – Rolwaling/Gaurishankar",
+      "Sindhupalchok – Jugal",
+      "Gorkha – Ganesh",
+      "Rasuwa – Ganesh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Langsisa (6,427 m) is located in which district and range?",
+    "options": [
+      "Dhading – Ganesh",
+      "Sindhupalchok – Jugal",
+      "Solukhumbu – Rolwaling/Gaurishankar",
+      "Gorkha – Ganesh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ganesh I, standing 7,422 meters tall, is located in which district and mountain range?",
+    "options": [
+      "Dhading – Ganesh",
+      "Sindhupalchok – Jugal",
+      "Gorkha – Ganesh",
+      "Dolakha – Rolwaling/Gaurishankar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ganesh III (Salasungo), with a height of 7,043 meters, is located in which district and range?",
+    "options": [
+      "Gorkha – Ganesh",
+      "Dhading – Ganesh",
+      "Sindhupalchok – Jugal",
+      "Dolakha – Rolwaling/Gaurishankar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ganesh V, which is 7,670 meters high, is located in which district(s) and mountain range?",
+    "options": [
+      "Sindhupalchok – Jugal",
+      "Gorkha – Ganesh",
+      "Dhading/Rasuwa – Ganesh",
+      "Solukhumbu – Rolwaling/Gaurishankar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ganesh II (7,111 m) lies in which district and mountain range?",
+    "options": [
+      "Dhading – Ganesh",
+      "Gorkha – Ganesh",
+      "Dolakha – Rolwaling/Gaurishankar",
+      "Sindhupalchok – Jugal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ganesh IV (Pabil), standing 7,144 meters tall, is located in which district(s) and range?",
+    "options": [
+      "Dhading/Rasuwa – Ganesh",
+      "Gorkha/Dhading – Ganesh",
+      "Sindhupalchok – Jugal",
+      "Dolakha – Rolwaling/Gaurishankar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Paldor Chuli, which has a height of 5,903 meters, is located in which district(s) and mountain range?",
+    "options": [
+      "Gorkha – Ganesh",
+      "Sindhupalchok – Jugal",
+      "Dhading/Rasuwa – Ganesh",
+      "Dolakha – Rolwaling/Gaurishankar"
+    ],
+    "correctIndex": 2
+  },
+{
+    "question": "Which mountain is located in Solukhumbu district, lies in the Khumbu or Mahalangur range, and has a height of 7,855 meters?",
+    "options": [
+      "Nuptse",
+      "Lhotse",
+      "Gyachung Kang",
+      "Makalu II"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which mountain is also known as Peace Peak (Sardze Peak), located in Solukhumbu district in the Khumbu or Mahalangur range, with a height of 7,591 meters?",
+    "options": [
+      "Peak-8",
+      "Shar Tse",
+      "Shanti Shikhar (Sardze Peak)",
+      "Pasang Lhamu Chuli"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Shar Tse, with a height of 7,459 meters, is located in which district and mountain range?",
+    "options": [
+      "Gorkha – Manaslu Range",
+      "Taplejung – Kanchenjunga Range",
+      "Mustang – Annapurna Range",
+      "Solukhumbu – Khumbu or Mahalangur"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which mountain stands 7,161 meters tall in Solukhumbu district and belongs to the Khumbu or Mahalangur range?",
+    "options": [
+      "Ama Dablam",
+      "Mera Peak",
+      "Chago",
+      "Mori"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which mountain in Solukhumbu district, located in the Khumbu or Mahalangur range, has a height of 6,700 meters?",
+    "options": [
+      "Lobuje",
+      "Kusum Kanguru",
+      "Chopolu",
+      "Kshamja Tse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which mountain is 6,623 meters high, located in Solukhumbu district within the Khumbu or Mahalangur range?",
+    "options": [
+      "Naulekh",
+      "Thamserku",
+      "Chago",
+      "Gorkha Himal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mountain named Chelatse is 6,423 meters high and located in Solukhumbu district in the Khumbu or Mahalangur range?",
+    "options": [
+      "Mera Peak",
+      "Chelatse",
+      "Lobuje",
+      "Ama Dablam"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Naulekh, which is 6,240 meters high, is located in which district and mountain range?",
+    "options": [
+      "Dolpa – Dhaulagiri Range",
+      "Manang – Annapurna Range",
+      "Solukhumbu – Khumbu or Mahalangur",
+      "Rasuwa – Langtang Range"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which mountain stands 6,119 meters tall in Solukhumbu district and belongs to the Khumbu or Mahalangur range?",
+    "options": [
+      "Peak-8",
+      "Lobuje",
+      "Makalu II",
+      "Gyachung Kang"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mountain is 8,516 meters high, located in Solukhumbu district, and lies in the Khumbu or Mahalangur range?",
+    "options": [
+      "Nuptse",
+      "Lhotse",
+      "Makalu II",
+      "Shar Tse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Makalu II, with a height of 7,678 meters, is located in which district and mountain range?",
+    "options": [
+      "Myagdi – Dhaulagiri Range",
+      "Gorkha – Manaslu Range",
+      "Mustang – Annapurna Range",
+      "Solukhumbu – Khumbu or Mahalangur"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which mountain stands 7,952 meters tall in Solukhumbu district within the Khumbu or Mahalangur range?",
+    "options": [
+      "Pasang Lhamu Chuli",
+      "Peak-8",
+      "Shar Tse",
+      "Gyachung Kang"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nagozumba Kang, which is 7,743 meters high, is located in which district and mountain range?",
+    "options": [
+      "Solukhumbu – Khumbu or Mahalangur",
+      "Dolakha – Rolwaling Range",
+      "Taplejung – Kanchenjunga Range",
+      "Rasuwa – Langtang Range"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which mountain known as Peak-8 has a height of 7,590 meters and is located in Solukhumbu district in the Khumbu or Mahalangur range?",
+    "options": [
+      "Makalu II",
+      "Peak-8",
+      "Gyachung Kang",
+      "Shar Tse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pasang Lhamu Chuli, standing 7,351 meters tall, is located in which district and mountain range?",
+    "options": [
+      "Manang – Annapurna Range",
+      "Solukhumbu – Khumbu or Mahalangur",
+      "Gorkha – Manaslu Range",
+      "Dolpa – Dhaulagiri Range"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mountain stands 6,812 meters high in Solukhumbu district and lies in the Khumbu or Mahalangur range?",
+    "options": [
+      "Kusum Kanguru",
+      "Chago",
+      "Ama Dablam",
+      "Mera Peak"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Mera Peak, which is 6,654 meters high, is located in which district and mountain range?",
+    "options": [
+      "Solukhumbu – Khumbu or Mahalangur",
+      "Mustang – Annapurna Range",
+      "Rasuwa – Langtang Range",
+      "Gorkha – Manaslu Range"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Chago, standing 6,893 meters tall, is located in which district and mountain range?",
+    "options": [
+      "Dolpa – Dhaulagiri Range",
+      "Taplejung – Kanchenjunga Range",
+      "Manang – Annapurna Range",
+      "Solukhumbu – Khumbu or Mahalangur"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which mountain stands 6,367 meters high in Solukhumbu district and lies in the Khumbu or Mahalangur range?",
+    "options": [
+      "Ama Dablam",
+      "Lobuje",
+      "Kusum Kanguru",
+      "Naulekh"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Kshamja Tse, which is 6,183 meters high, is located in which district and mountain range?",
+    "options": [
+      "Dolakha – Rolwaling Range",
+      "Solukhumbu – Khumbu or Mahalangur",
+      "Rasuwa – Langtang Range",
+      "Myagdi – Dhaulagiri Range"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gorkha Himal, with a height of 6,092 meters, is located in which district and mountain range?",
+    "options": [
+      "Gorkha – Manaslu Range",
+      "Manang – Annapurna Range",
+      "Dolpa – Dhaulagiri Range",
+      "Solukhumbu – Khumbu or Mahalangur"
+    ],
+    "correctIndex": 3
+  },
+
+{
+  "question": "What is the area of the summit of Mount Everest?",
+  "options": [
+    "5 square meters",
+    "10 square meters",
+    "7 square meters",
+    "12 square meters"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "What is the Chinese name of Mount Everest?",
+  "options": [
+    "Makalu",
+    "Chomolungma",
+    "Kangchenjunga",
+    "Shishapangma"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What does 'Chomolungma' mean?",
+  "options": [
+    "Roof of the Earth",
+    "Sacred Snow Mountain",
+    "Goddess Mother of the World",
+    "Peak of Heaven"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "What is the official height of Mount Everest (2020 measurement)?",
+  "options": [
+    "8,850 meters",
+    "8,848.86 meters",
+    "8,844 meters",
+    "8,860 meters"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the height of Mount Everest in feet?",
+  "options": [
+    "29,000 feet",
+    "29,031.70 feet",
+    "28,848 feet",
+    "30,000 feet"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "Who made the fastest ascent of Mount Everest in 8 hours 10 minutes (21 May 2004)?",
+  "options": [
+    "Mingma Dorje Sherpa",
+    "Apa Sherpa",
+    "Pemba Dorje Sherpa",
+    "Lakpa Gelu Sherpa"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Who made the fastest ascent of Mount Everest in 6 hours 1 minute (2076 Jestha 14)?",
+  "options": [
+    "Pemba Dorje Sherpa",
+    "Kami Rita Sherpa",
+    "Mingma Dorje Sherpa",
+    "Nirmal Purja"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Who made the fastest descent of Everest by paragliding in 11 minutes (1988)?",
+  "options": [
+    "Marco Siffredi",
+    "Davho Karnicar",
+    "Jean-Marc Boivin",
+    "Andre Roc"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Who were the first climbers to summit Everest on 29 May 1953?",
+  "options": [
+    "Reinhold Messner and Peter Habeler",
+    "Edmund Hillary and Tenzing Norgay",
+    "Junko Tabei and Ang Tshering",
+    "Nawang Gombu and Jim Whittaker"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "On which BS date did Hillary and Tenzing summit Everest?",
+  "options": [
+    "2010 Jestha 16",
+    "2007 Baisakh 31",
+    "2012 Jestha 5",
+    "2016 Bhadra 10"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Who was the first woman to summit Mount Everest (26 May 1975)?",
+  "options": [
+    "Junko Tabei",
+    "Lydia Bradey",
+    "Bachendri Pal",
+    "Santosh Yadav"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Who was the first woman to climb Everest without oxygen (14 October 1988)?",
+  "options": [
+    "Junko Tabei",
+    "Lydia Bradey",
+    "Wanda Rutkiewicz",
+    "Santosh Yadav"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "Who was the first blind person to climb Everest (25 May 2001)?",
+  "options": [
+    "Mark Inglis",
+    "Thomas Whittaker",
+    "Erik Weihenmayer",
+    "Hari Budha Magar"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Who was the first African to climb Everest (26 May 2003)?",
+  "options": [
+    "Nelson Mandela",
+    "Haile Gebrselassie",
+    "Desmond Tutu",
+    "Sibusiso Emmanuel Vilane"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "Who was the first cancer survivor to climb Everest (27 May 2011)?",
+  "options": [
+    "Andre Roc",
+    "Marco Siffredi",
+    "Ian Toothill",
+    "Thomas Whittaker"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Who was the first deaf person to climb Everest (21 May 2016)?",
+  "options": [
+    "Tatsuo Yamada",
+    "Jean Noel Roche",
+    "Satoshi Tamura",
+    "Mark Inglis"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Who was the first double amputee (without both legs) to climb Everest (16 May 2006)?",
+  "options": [
+    "Mark Inglis",
+    "Hari Bahadur Budha Magar",
+    "Thomas Whittaker",
+    "Erik Weihenmayer"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Who was the first single leg amputee to climb Everest (27 May 1998)?",
+  "options": [
+    "Mark Inglis",
+    "Thomas Whittaker",
+    "Hari Budha Magar",
+    "Marco Siffredi"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "Who was the first Nepali without legs to climb Everest (2080 Jestha 5)?",
+  "options": [
+    "Kami Rita Sherpa",
+    "Hari Bahadur Budha Magar",
+    "Nirmal Purja",
+    "Lakpa Gelu Sherpa"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "Who made the first full ski descent of Everest (May 2001)?",
+  "options": [
+    "Marco Siffredi",
+    "Jean-Marc Boivin",
+    "Andre Roc",
+    "Davho Karnicar"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "Who was the first person to descend Everest by snowboard (7 October 2000)?",
+  "options": [
+    "Davho Karnicar",
+    "Jean-Marc Boivin",
+    "Andre Roc",
+    "Marco Siffredi"
+  ],
+  "correctIndex": 3
+},
+{
+  "question": "Which helicopter first landed on Everest summit (2062 Baisakh 31)?",
+  "options": [
+    "Bell 407",
+    "Eurocopter",
+    "Airbus H125",
+    "Mi-17"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "For how long did the helicopter remain on the summit?",
+  "options": [
+    "5 minutes 10 seconds",
+    "2 minutes 30 seconds",
+    "3 minutes 50 seconds",
+    "10 minutes"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Who were the first father-daughter pair to climb Everest (12 May 2012)?",
+  "options": [
+    "Jean Noel Roche and Bertrand Roche",
+        "Dendi Sherpa and Nima Chhamji Sherpa",
+    "Apa Sherpa and daughter",
+    "Lakpa Gelu Sherpa and daughter"
+  ],
+  "correctIndex": 1
+},
+  {
+    "question": "Which mountain stands 7,234 meters tall in Rasuwa district within the Langtang range?",
+    "options": ["Machhapuchhre", "Gangapurna", "Annapurna III","Langtang Lirung"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Langtang Ri (5,844 m) is located in which district and mountain range?",
+    "options": [
+      "Myagdi/Kaski – Annapurna",
+      "Manang/Gorkha – Mansiri",
+      "Rasuwa – Langtang",
+      "Kaski – Annapurna"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which mountain is 7,205 meters high in Rasuwa district in the Langtang range?",
+    "options": ["Annapurna IV", "Langtang Lirung", "Waden Powell Peak", "Tilicho"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Waden Powell Peak (Ukema Peak), standing 5,890 meters tall, lies in which district and range?",
+    "options": [
+      "Rasuwa – Langtang",
+      "Myagdi/Kaski – Annapurna",
+      "Manang – Annapurna",
+      "Manang/Gorkha – Mansiri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Annapurna I, which is 8,091 meters high, is located in which district(s) and mountain range?",
+    "options": [
+      "Manang/Gorkha – Mansiri",
+      "Myagdi/Kaski – Annapurna",
+      "Rasuwa/Sindhupalchok – Langtang",
+      "Kaski – Annapurna"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Bhrikuti Shikhar (Fang), standing 7,647 meters tall, is located in which district(s) and range?",
+    "options": [
+      "Myagdi/Kaski – Annapurna",
+      "Manang – Annapurna",
+      "Rasuwa – Langtang",
+      "Manang/Gorkha – Mansiri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Annapurna IV (7,525 m) lies in which district(s) and mountain range?",
+    "options": [
+      "Rasuwa – Langtang",
+      "Myagdi/Kaski – Annapurna",
+      "Manang – Annapurna",
+      "Kaski – Annapurna"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gangapurna, which is 7,455 meters high, is located in which district(s) and range?",
+    "options": [
+      "Manang – Annapurna",
+      "Myagdi/Kaski – Annapurna",
+      "Rasuwa – Langtang",
+      "Manang/Gorkha – Mansiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tare Kang (7,193 m) belongs to which district(s) and mountain range?",
+    "options": [
+      "Manang/Gorkha – Mansiri",
+      "Rasuwa – Langtang",
+      "Myagdi/Kaski – Annapurna",
+      "Kaski – Annapurna"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Lamjung Himal, standing 6,983 meters tall, is located in which district(s) and range?",
+    "options": [
+      "Rasuwa – Langtang",
+      "Manang – Annapurna",
+      "Manang/Gorkha – Mansiri",
+      "Myagdi/Kaski – Annapurna"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Hiunchuli (6,434 m) lies in which district(s) and mountain range?",
+    "options": [
+      "Manang – Annapurna",
+      "Myagdi/Kaski – Annapurna",
+      "Rasuwa – Langtang",
+      "Kaski – Annapurna"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gandharva, standing 6,248 meters tall, is located in which district(s) and range?",
+    "options": [
+      "Manang/Gorkha – Mansiri",
+      "Rasuwa – Langtang",
+      "Manang – Annapurna",
+      "Myagdi/Kaski – Annapurna"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Annapurna II, which is 7,937 meters high, lies in which district(s) and mountain range?",
+    "options": [
+      "Kaski – Annapurna",
+      "Myagdi/Kaski – Annapurna",
+      "Rasuwa – Langtang",
+      "Manang/Gorkha – Mansiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Annapurna III (7,555 m) is located in which district(s) and range?",
+    "options": [
+      "Manang – Annapurna",
+      "Myagdi/Kaski – Annapurna",
+      "Rasuwa – Langtang",
+      "Manang/Gorkha – Mansiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Khangsar Kang (7,485 m) belongs to which district(s) and mountain range?",
+    "options": [
+      "Rasuwa – Langtang",
+      "Manang/Gorkha – Mansiri",
+      "Kaski – Annapurna",
+      "Myagdi/Kaski – Annapurna"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Annapurna South, standing 7,219 meters tall, lies in which district(s) and range?",
+    "options": [
+      "Manang – Annapurna",
+      "Rasuwa – Langtang",
+      "Myagdi/Kaski – Annapurna",
+      "Manang/Gorkha – Mansiri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tilicho (7,134 m) is located in which district(s) and mountain range?",
+    "options": [
+      "Rasuwa – Langtang",
+       "Manang/Myagdi – Annapurna",
+     "Myagdi/Kaski – Annapurna",
+      "Manang/Gorkha – Mansiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Singuchuli, standing 6,501 meters tall, is located in which district(s) and range?",
+    "options": [
+      "Manang – Annapurna",
+      "Rasuwa – Langtang",
+      "Manang/Gorkha – Mansiri",
+      "Myagdi/Kaski – Annapurna"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Machhapuchhre (6,998 m) lies in which district and mountain range?",
+    "options": [
+      "Myagdi/Kaski – Annapurna",
+      "Kaski – Annapurna",
+      "Manang – Annapurna",
+      "Rasuwa – Langtang"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Manaslu, standing 8,163 meters tall, is located in which district(s) and mountain range?",
+    "options": [
+      "Myagdi/Kaski – Annapurna",
+      "Rasuwa – Langtang",
+      "Manang/Gorkha – Mansiri",
+      "Kaski – Annapurna"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Himalchuli North, standing 7,371 meters tall, is located in which district(s) and mountain range?",
+    "options": [
+      "Manang – Damodar",
+      "Myagdi – Dhaulagiri",
+      "Gorkha – Mansiri",
+      "Lamjung/Gorkha – Mansiri"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Buddha Peak (6,672 m) lies in which district(s) and range?",
+    "options": [
+      "Mustang – Damodar",
+      "Manang – Damodar",
+      "Lamjung/Gorkha – Mansiri",
+      "Dolpa/Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Thulagi Peak (7,059 m) is located in which district and mountain range?",
+    "options": [
+      "Gorkha – Mansiri",
+      "Manang – Mansiri",
+      "Manang – Damodar",
+      "Lamjung – Mansiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Himalchuli East, which is 7,693 meters high, lies in which district(s) and range?",
+    "options": [
+      "Lamjung/Gorkha – Mansiri",
+      "Myagdi – Dhaulagiri",
+      "Manang – Damodar",
+      "Gorkha – Mansiri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Himalchuli West (7,540 m) is located in which district and mountain range?",
+    "options": [
+      "Gorkha – Mansiri",
+      "Lamjung – Mansiri",
+      "Manang – Damodar",
+      "Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Manaslu North, standing 7,157 meters tall, lies in which district and range?",
+    "options": [
+      "Lamjung – Mansiri",
+      "Manang – Damodar",
+      "Gorkha – Mansiri",
+      "Mustang – Damodar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Panpoche (6,620 m) is located in which district and mountain range?",
+    "options": [
+      "Gorkha – Mansiri",
+      "Lamjung – Mansiri",
+      "Manang – Damodar",
+      "Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Panchen Himal, which is 6,049 meters high, lies in which district and range?",
+    "options": [
+      "Manang – Damodar",
+      "Gorkha – Mansiri",
+      "Mustang – Damodar",
+      "Dolpa/Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Chulu West (6,419 m) belongs to which district and mountain range?",
+    "options": [
+      "Manang – Damodar",
+      "Gorkha – Mansiri",
+      "Lamjung – Mansiri",
+      "Mustang – Damodar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Morwar Khan, standing 6,348 meters tall, is located in which district and range?",
+    "options": [
+      "Mustang – Damodar",
+      "Manang – Damodar",
+      "Gorkha – Mansiri",
+      "Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Visang (6,091 m) lies in which district and mountain range?",
+    "options": [
+      "Manang – Damodar",
+      "Lamjung – Mansiri",
+      "Dolpa/Myagdi – Dhaulagiri",
+      "Gorkha – Mansiri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Narphu (5,921 m) is located in which district and range?",
+    "options": [
+      "Mustang – Damodar",
+      "Manang – Damodar",
+      "Gorkha – Mansiri",
+      "Lamjung – Mansiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jomsom Himal, standing 6,581 meters tall, lies in which district and mountain range?",
+    "options": [
+      "Mustang – Damodar",
+      "Gorkha – Mansiri",
+      "Myagdi – Dhaulagiri",
+      "Manang – Damodar"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Bhrikuti (6,361 m) belongs to which district(s) and range?",
+    "options": [
+      "Manang/Mustang – Damodar",
+      "Gorkha – Mansiri",
+      "Mustang – Damodar",
+      "Dolpa/Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gaugiri (6,110 m) is located in which district and mountain range?",
+    "options": [
+      "Manang – Damodar",
+      "Mustang – Damodar",
+      "Gorkha – Mansiri",
+      "Lamjung – Mansiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Araniko Chuli, which is 6,039 meters high, lies in which district(s) and range?",
+    "options": [
+      "Mustang/Dolpa – Damodar",
+      "Manang – Damodar",
+      "Gorkha – Mansiri",
+      "Dolpa/Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dhaulagiri I, standing 8,167 meters tall, is located in which district and mountain range?",
+    "options": [
+      "Dolpa/Myagdi – Dhaulagiri",
+      "Gorkha – Mansiri",
+      "Mustang – Damodar",
+      "Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Dhaulagiri III (7,715 m) belongs to which district(s) and range?",
+    "options": [
+      "Myagdi – Dhaulagiri",
+      "Manang – Damodar",
+      "Gorkha – Mansiri",
+      "Dolpa/Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Dhaulagiri V, which is 7,618 meters high, lies in which district(s) and mountain range?",
+    "options": [
+      "Myagdi – Dhaulagiri",
+      "Dolpa/Myagdi – Dhaulagiri",
+      "Mustang – Damodar",
+      "Lamjung – Mansiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dr. Harka Gurung (Ngadi Chuli), which is 7,871 meters high, lies in which district(s) and range?",
+    "options": [
+      "Myagdi/Kaski – Annapurna",
+      "Manang/Gorkha – Mansiri",
+      "Rasuwa – Langtang",
+      "Manang – Annapurna"
+    ],
+    "correctIndex": 1
+  },
+{
+  "question": "Who were the first father-son pair to climb Everest (10 May 1999)?",
+  "options": [
+    "Jean Noel Roche and Bertrand Roche",
+    "Dendi Sherpa and Nima Chhamji Sherpa",
+    "Andre Roc and son",
+    "Mark Inglis and son"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "Who were the first couple to climb Everest (7 October 1976)?",
+  "options": [
+    "Jean Noel Roche and wife",
+    "Marco Siffredi and partner",
+    "Andre Roc and Dorothea Gravina",
+    "Apa Sherpa and wife"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Who was the first journalist to climb Everest (11 May 1970)?",
+  "options": [
+    "Satoshi Tamura",
+    "Ian Toothill",
+    "Tatsuo Yamada",
+    "Jean Noel Roche"
+  ],
+  "correctIndex": 2
+},
+{
+  "question": "Who was the first Nepali climber to go from Nepal to Tibet side after summiting Everest?",
+  "options": [
+    "Kami Rita Sherpa",
+    "Ang Phurwa Sherpa",
+    "Lakpa Gelu Sherpa",
+    "Mingma Dorje Sherpa"
+  ],
+  "correctIndex": 1
+},
+  {
+    "question": "Among 14 highest peaks above 8000m in entire world, how many are there in Nepal alone?",
+    "options": [
+      "14",
+      "9",
+      "10",
+      "8"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Mustang has 301 peaks that are higher than 6,000m. How many are there in entire country?",
+    "options" : [
+      "1500",
+      "1600",
+      "1300",
+      "2000"
+    ],
+    "correctIndex" : 2 
+  },  
+  {
+    "question": "Which mountain range forms Nepal's northern border?",
+    "options": [
+      "Siwalik",
+      "Mahabharat",
+      "Bhot Himal",
+      "Chure"
+    ],
+    "correctIndex": 2
+  },
+  {
     "question": "Where is Raki Mountain?",
     "options": [
-      "South Asia",
       "South America",
       "Canada",
-      "Australia"
+      "Australia",
+      "South Asia"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Dhaulagiri VI, standing 7,268 meters tall, is located in which district and mountain range?",
+    "options": [
+      "Dolpa – Kanjiroba",
+      "Myagdi/Mustang – Nilgiri",
+      "Myagdi – Dhaulagiri",
+      "Rukum/Dolpa – Dhaulagiri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gurja Himal (7,193 m) lies in which district and mountain range?",
+    "options": [
+      "Mustang – Dhaulagiri",
+      "Myagdi – Dhaulagiri",
+      "Dolpa/Myagdi – Dhaulagiri",
+      "Myagdi/Mustang – Nilgiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sita Chuchuro, which is 6,611 meters high, is located in which district(s) and range?",
+    "options": [
+      "Myagdi – Dhaulagiri",
+      "Dolpa/Myagdi – Dhaulagiri",
+      "Dolpa – Kanjiroba",
+      "Myagdi/Mustang – Nilgiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Thapa Chuli (Dhampus Peak), standing 6,012 meters tall, lies in which district and mountain range?",
+    "options": [
+      "Myagdi – Dhaulagiri",
+      "Mustang – Dhaulagiri",
+      "Dolpa/Myagdi – Dhaulagiri",
+      "Rukum/Dolpa – Dhaulagiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nilgiri North (7,061 m) belongs to which district(s) and mountain range?",
+    "options": [
+      "Myagdi/Mustang – Nilgiri",
+      "Dolpa – Kanjiroba",
+      "Myagdi/Mustang – Dhaulagiri",
+      "Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nilgiri South, which is 6,839 meters high, lies in which district(s) and range?",
+    "options": [
+      "Myagdi/Mustang – Nilgiri",
+      "Dolpa – Kanjiroba",
+      "Myagdi/Mustang – Dhaulagiri",
+      "Rukum/Dolpa – Dhaulagiri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dhaulagiri II (7,715 m) is located in which district(s) and mountain range?",
+    "options": [
+      "Myagdi – Dhaulagiri",
+      "Mustang – Dhaulagiri",
+      "Myagdi/Mustang – Nilgiri",
+      "Dolpa/Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Dhaulagiri IV, standing 7,661 meters tall, lies in which district(s) and range?",
+    "options": [
+      "Myagdi – Dhaulagiri",
+      "Dolpa/Myagdi – Dhaulagiri",
+      "Dolpa – Kanjiroba",
+      "Rukum/Dolpa – Dhaulagiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Churen Himal (7,371 m) belongs to which district(s) and mountain range?",
+    "options": [
+      "Myagdi – Dhaulagiri",
+      "Dolpa/Myagdi – Dhaulagiri",
+      "Rukum/Dolpa – Dhaulagiri",
+      "Dolpa – Kanjiroba"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Putha Hiunchuli, standing 7,246 meters tall, lies in which district(s) and range?",
+    "options": [
+      "Myagdi – Dhaulagiri",
+      "Dolpa – Kanjiroba",
+      "Rukum/Dolpa – Dhaulagiri",
+      "Myagdi/Mustang – Nilgiri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tukuche Peak (6,920 m) is located in which district(s) and mountain range?",
+    "options": [
+      "Dolpa/Myagdi – Dhaulagiri",
+      "Myagdi/Mustang – Nilgiri",
+      "Mustang – Dhaulagiri",
+      "Myagdi/Mustang – Dhaulagiri"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Manapathi, which is 6,380 meters high, lies in which district and mountain range?",
+    "options": [
+      "Dolpa – Kanjiroba",
+      "Myagdi – Dhaulagiri",
+      "Myagdi/Mustang – Nilgiri",
+      "Rukum/Dolpa – Dhaulagiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nilgiri North (7,061 m) in the Nilgiri range is located in which district(s)?",
+    "options": [
+      "Dolpa",
+      "Myagdi/Mustang",
+      "Myagdi",
+      "Rukum/Dolpa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nilgiri Central, standing 6,940 meters tall, lies in which district(s) and mountain range?",
+    "options": [
+      "Myagdi/Mustang – Dhaulagiri",
+      "Dolpa – Kanjiroba",
+      "Myagdi/Mustang – Nilgiri",
+      "Myagdi – Dhaulagiri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nilgiri South (6,839 m) in the Nilgiri range belongs to which district(s)?",
+    "options": [
+      "Dolpa",
+      "Myagdi/Mustang",
+      "Myagdi",
+      "Rukum/Dolpa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kanjiroba Main (6,883 m) is located in which district and mountain range?",
+    "options": [
+      "Dolpa – Kanjiroba",
+      "Myagdi – Dhaulagiri",
+      "Rukum/Dolpa – Dhaulagiri",
+      "Myagdi/Mustang – Nilgiri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tripura Hiunchuli (Hanging Glacier Peak), standing 6,563 meters tall, lies in which district and mountain range?",
+    "options": [
+      "Myagdi – Dhaulagiri",
+      "Dolpa – Kanjiroba",
+      "Rukum/Dolpa – Dhaulagiri",
+      "Myagdi/Mustang – Nilgiri"
+    ],
+    "correctIndex": 1
+  },
+{
+    "question": "Danphe Shail (6,103 m) is located in which district and mountain range?",
+    "options": [
+      "Mugu – Kanti",
+      "Humla – Nalakankar",
+      "Darchula – Byas Rishi",
+      "Dolpa – Kagmara"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Kanjiroba (5,960 m) lies in which district and mountain range?",
+    "options": [
+      "Mugu – Patarasi",
+      "Humla – Chandi",
+      "Bajhang – Byas Rishi",
+      "Dolpa – Kanjiroba"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Kanjiruwa (6,612 m) is located in which district and range?",
+    "options": [
+      "Dolpa – Kanjiroba",
+      "Humla – Changla",
+      "Mugu – Kanti",
+      "Bajhang/Darchula – Byas Rishi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Shey Shikhar (6,139 m) belongs to which district and mountain range?",
+    "options": [
+      "Humla – Nalakankar",
+      "Dolpa – Kanjiroba",
+      "Mugu – Patarasi",
+      "Bajhang – Surma Sarovar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Norbu Khang (6,085 m) lies in which district and range?",
+    "options": [
+      "Humla – Chandi",
+      "Dolpa – Kanjiroba",
+      "Mugu – Kanti",
+      "Darchula – Byas Rishi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jagadulla Peak (6,883 m) is located in which district(s) and mountain range?",
+    "options": [
+      "Dolpa/Jumla – Jagadulla",
+      "Mugu/Dolpa – Patarasi",
+      "Humla – Nalakankar",
+      "Bajhang – Byas Rishi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Kande Himal (6,627 m) belongs to which district(s) and range?",
+    "options": [
+      "Dolpa – Kanjiroba",
+      "Humla – Changla",
+      "Mugu/Humla/Dolpa – Jagadulla",
+      "Mugu – Kanti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Patarasi (6,450 m) lies in which district(s) and mountain range?",
+    "options": [
+      "Humla – Nalakankar",
+      "Mugu/Dolpa – Patarasi",
+      "Dolpa – Kagmara",
+      "Bajhang – Surma Sarovar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kanti Himal (6,850 m) is located in which district and range?",
+    "options": [
+      "Humla – Chandi",
+      "Dolpa – Kanjiroba",
+      "Darchula – Byas Rishi",
+      "Mugu – Kanti"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Kojichuwa (6,439 m) belongs to which district and mountain range?",
+    "options": [
+      "Humla – Nalakankar",
+      "Dolpa – Kanjiroba",
+      "Bajhang – Byas Rishi",
+      "Mugu – Kanti"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Kaptang (5,965 m) lies in which district and range?",
+    "options": [
+      "Humla – Chandi",
+      "Dolpa – Kagmara",
+      "Mugu – Kanti",
+      "Bajhang – Surma Sarovar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Chandi Himal (6,142 m) is located in which district and mountain range?",
+    "options": [
+      "Mugu – Kanti",
+      "Humla – Chandi",
+      "Dolpa – Kanjiroba",
+      "Darchula – Byas Rishi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Changla (6,612 m) belongs to which district and range?",
+    "options": [
+      "Humla – Changla",
+      "Dolpa – Chandi",
+      "Mugu – Patarasi",
+      "Bajhang – Byas Rishi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Changla Chuli (6,566 m) lies in which district and mountain range?",
+    "options": [
+      "Dolpa – Kanjiroba",
+      "Mugu – Kanti",
+      "Darchula – Byas Rishi",
+      "Humla – Changla"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Thakpu (6,395 m) belongs to which district and range?",
+    "options": [
+      "Dolpa – Kagmara",
+      "Mugu – Patarasi",
+      "Humla – Nalakankar",
+      "Bajhang – Surma Sarovar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tilakang (6,369 m) lies in which district and mountain range?",
+    "options": [
+      "Dolpa – Kanjiroba",
+      "Mugu – Kanti",
+      "Humla – Nalakankar",
+      "Darchula – Byas Rishi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nalakankar (6,062 m) is located in which district and range?",
+    "options": [
+      "Humla – Nalakankar",
+      "Mugu – Patarasi",
+      "Dolpa – Kanjiroba",
+      "Bajhang – Byas Rishi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sisne (5,911 m) belongs to which district and mountain range?",
+    "options": [
+      "Humla – Nalakankar",
+       "Eastern Rukum – Sisne",
+     "Mugu – Kanti",
+      "Dolpa – Kagmara"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Api (7,132 m) lies in which district and range?",
+    "options": [
+      "Bajhang – Surma Sarovar",
+      "Darchula – Byas Rishi",
+      "Humla – Chandi",
+      "Dolpa – Kanjiroba"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Doboye (6,808 m) is located in which district(s) and mountain range?",
+    "options": [
+      "Mugu/Dolpa – Patarasi",
+      "Humla – Nalakankar",
+      "Dolpa – Kagmara",
+      "Bajhang/Darchula – Byas Rishi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Roma (5,407 m) belongs to which district and range?",
+    "options": [
+      "Darchula – Byas Rishi",
+      "Bajhang – Byas Rishi",
+      "Humla – Chandi",
+      "Mugu – Kanti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nampa/Yokopahar (6,401 m) lies in which district(s) and mountain range?",
+    "options": [
+      "Humla – Nalakankar",
+      "Bajhang/Darchula – Byas Rishi",
+      "Dolpa – Kanjiroba",
+      "Mugu – Patarasi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Rokapa (5,467 m) is located in which district and range?",
+    "options": [
+      "Bajhang – Byas Rishi",
+      "Darchula – Byas Rishi",
+      "Humla – Chandi",
+      "Dolpa – Kagmara"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Surma Sarovar North (6,397 m) belongs to which district and mountain range?",
+    "options": [ 
+      "Humla – Nalakankar",
+      "Mugu – Kanti",
+     "Bajhang – Surma Sarovar",
+      "Dolpa – Kanjiroba"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Sarangkot (6,484 m) belongs to which mountain range?",
+    "options": [
+      "Peri",
+      "Shringi",
+      "Saipal",
+      "Pangri"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Panwari (6,887 m) is located in which district and mountain range?",
+    "options": [
+      "Manang – Peri",
+       "Manang – Gyajikang Namjung",
+     "Gorkha – Shringi",
+      "Humla – Chaila"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Peri (7,038 m) lies in which district?",
+    "options": [
+      "Manang",
+      "Dolpa",
+      "Gorkha",
+      "Bajhang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Peri (6,820 m) is located in which district?",
+    "options": [
+      "Mustang",
+      "Manang",
+      "Humla",
+      "Darchula"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kadgusp (6,981 m) belongs to which district and range?",
+    "options": [
+      "Gorkha – Shringi",
+      "Dolpa – Mukut",
+      "Bajhang – Saipal",
+      "Manang – Peri"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Phakota (6,694 m) lies in which district and mountain range?",
+    "options": [
+      "Humla – Chaila",
+      "Manang – Peri",
+      "Dolpa – Mukut",
+      "Darchula – Gorkha"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Chako (6,704 m) is located in which district and range?",
+    "options": [
+      "Gorkha – Shringi",
+      "Bajhang – Urailek",
+      "Manang – Peri",
+      "Humla – Gorkha"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Himjung Namalung (7,140 m) belongs to which district and mountain range?",
+    "options": [
+      "Gorkha – Shringi",
+      "Dolpa – Mukut",
+      "Humla – Chaila",
+      "Manang – Peri"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Ratna Chuli (7,035 m) lies in which district and range?",
+    "options": [
+      "Manang – Peri",
+      "Bajhang – Saipal",
+      "Dolpa – Mukut",
+      "Darchula – Gorkha"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cheo (6,820 m) is located in which district and mountain range?",
+    "options": [
+      "Humla – Gorkha",
+      "Bajhang – Urailek",
+      "Manang – Peri",
+      "Dolpa – Mukut"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Samar (7,187 m) belongs to which district and mountain range?",
+    "options": [
+      "Manang – Peri",
+      "Gorkha – Shringi",
+      "Humla – Chaila",
+      "Dolpa – Mukut"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Topsar Chuli (6,035 m) lies in which district and range?",
+    "options": [
+      "Manang – Peri",
+      "Bajhang – Saipal",
+      "Gorkha – Shringi",
+      "Humla – Nalakankar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Kaloparbat (5,387 m) is located in which district and mountain range?",
+    "options": [
+      "Manang – Peri",
+      "Dolpa – Mukut",
+      "Gorkha – Shringi",
+      "Bajhang – Saipal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dhulagari (6,638 m) belongs to which district and mountain range?",
+    "options": [
+      "Bajhang – Saipal",
+      "Dolpa – Mukut",
+      "Humla – Gorkha",
+      "Manang – Peri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gorakh (6,198 m) lies in which district and mountain range?",
+    "options": [
+      "Darchula – Gorkha",
+      "Manang – Peri",
+      "Dolpa – Mukut",
+      "Humla – Gorkha"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Jethi Bahurani (6,850 m) is located in which district(s) and range?",
+    "options": [
+      "Humla – Chaila",
+      "Dolpa – Mukut",
+      "Manang – Peri",
+      "Darchula/Bajhang – Gorkha"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nampa (6,729 m) belongs to which district and mountain range?",
+    "options": [
+      "Bajhang – Saipal",
+      "Humla – Nalakankar",
+      "Darchula – Gorkha",
+      "Manang – Peri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Khad Khad (6,343 m) lies in which district(s) and range?",
+    "options": [
+      "Dolpa – Mukut",
+      "Gorkha – Shringi",
+      "Manang/Mustang – Patrung",
+      "Humla – Chaila"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Lachama Chuli (6,721 m) is located in which district and mountain range?",
+    "options": [
+      "Manang – Peri",
+      "Bajhang – Urailek",
+      "Dolpa – Mukut",
+      "Humla – Chaila"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nemjung (7,140 m) belongs to which district and mountain range?",
+    "options": [
+      "Gorkha – Shringi",
+      "Manang – Manang",
+      "Humla – Gorkha",
+      "Dolpa – Mukut"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Raksha Urai (6,909 m) lies in which district and mountain range?",
+    "options": [
+      "Humla – Nalakankar",
+      "Bajhang – Urailek",
+      "Dolpa – Mukut",
+      "Manang – Peri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the largest mountain range in the world?",
+    "options": [
+      "Andes Mountain Range",
+      "Himalaya Mountain Range",
+      "Rocky Mountains",
+      "Alps Mountain Range"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the highest mountain range in the world?",
+    "options": [
+      "Karakoram Mountain Range",
+      "Himalaya Mountain Range",
+      "Caucasus Mountain Range",
+      "Andes Mountain Range"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the longest mountain range in the world?",
+    "options": [
+      "Himalaya Mountain Range",
+      "Alps Mountain Range",
+      "Andes Mountain Range",
+      "Atlas Mountain Range"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Karakoram Mountain Range is located in which continent?",
+    "options": [
+      "Europe",
+      "Africa",
+      "Asia",
+      "South America"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Atlas Mountain Range is located in which continent?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "North America"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Alps Mountain Range is located in which continent?",
+    "options": [
+      "Africa",
+      "Europe",
+      "South America",
+      "Asia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Olympic Mountain Range is located in which continent?",
+    "options": [
+      "North America",
+      "Asia",
+      "Europe",
+      "Africa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Rocky Mountains are located in which continent?",
+    "options": [
+      "South America",
+      "North America",
+      "Asia",
+      "Europe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Caucasus Mountain Range is primarily located in which country?",
+    "options": [
+      "Nepal",
+      "Russia",
+      "China",
+      "India"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Mount Everest (Sagarmatha) belongs to which mountain range?",
+    "options": [
+      "Caucasus Mountain Range",
+      "Andes Mountain Range",
+      "Himalaya Mountain Range",
+      "Karakoram Mountain Range"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Mount K2 belongs to which mountain range?",
+    "options": [
+      "Himalaya Mountain Range",
+      "Rocky Mountains",
+      "Karakoram Mountain Range",
+      "Alps Mountain Range"
+    ],
+    "correctIndex": 2
+  },
+    {
+    "question": "Mount kanchanjungha lies in?",
+    "options": [
+      "Himalaya Mountain Range",
+      "Rocky Mountains",
+      "Karakoram Mountain Range",
+      "Alps Mountain Range"
+    ],
+    "correctIndex": 0
+  },
+    {
+    "question": "Iran's Mount Damavand lies where?",
+    "options": [
+      "Himalaya Mountain Range",
+      "Rocky Mountains",
+      "Karakoram Mountain Range",
+      "Mount Alborz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who were the first successful climbers of Mount Everest (8,848.86 m) in 1953?",
+    "options": [
+      "A. Compagnoni & L. Lacedelli",
+      "Edmund Hillary & Tenzing Norgay",
+      "F. Luchsinger & E. Reiss",
+      "H. Tichy & S. Jöchler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "K2 (8,611 m), located in Pakistan/China, was first successfully climbed in 1954 by:",
+    "options": [
+      "Jean Couzy & Lionel Terray",
+      "Edmund Hillary & Tenzing Norgay",
+      "Achille Compagnoni & Lino Lacedelli",
+      "T. Imanishi & G. Norbu"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Kanchenjunga (8,586 m) was first successfully climbed in 1955 by climbers of which nationality?",
+    "options": [
+      "Swiss",
+      "Italian",
+      "Japanese",
+      "British (UK)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Lhotse (8,516 m) was first successfully climbed in 1956 by which climbers?",
+    "options": [
+      "Jean Couzy & Lionel Terray",
+      "Fritz Luchsinger & Ernst Reiss",
+      "H. Tichy & Pasang Dawa Lama",
+      "Achille Compagnoni & Lino Lacedelli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Makalu (8,463 m) was first successfully climbed in 1955 by climbers from which country?",
+    "options": [
+      "France",
+      "Switzerland",
+      "Italy",
+      "Japan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cho Oyu (8,201 m) was first successfully climbed in 1954 by:",
+    "options": [
+      "Edmund Hillary & Tenzing Norgay",
+      "F. Luchsinger & E. Reiss",
+      "H. Tichy & S. Jöchler (Austrian) with Pasang Dawa Lama (Nepali)",
+      "Jean Couzy & Lionel Terray"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dhaulagiri I (8,167 m) was first successfully climbed in 1960 by climbers from which country?",
+    "options": [
+      "Japan",
+      "Switzerland",
+      "Austria",
+      "France"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Manaslu (8,163 m) was first successfully climbed in 1956 by:",
+    "options": [
+      "Toshio Imanishi & Gyalzen Norbu",
+      "Achille Compagnoni & Lino Lacedelli",
+      "H. Tichy & Pasang Dawa Lama",
+      "Fritz Luchsinger & Ernst Reiss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the height of Dhaulagiri Sixth (Gunja Himal) and in which district is it located?",
+    "options": [
+      "7,268 m – Myagdi",
+      "7,193 m – Myagdi",
+      "7,371 m – Dolpa/Myagdi",
+      "7,246 m – Rukum/Dolpa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sita Chuchuro, part of Dhaulagiri, is located in which district and what is its height?",
+    "options": [
+      "6,611 m – Dolpa/Myagdi",
+      "6,012 m – Mustang",
+      "7,193 m – Myagdi",
+      "6,380 m – Myagdi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Thapa Chuli, part of Dhaulagiri, is located in which district and what is its height?",
+    "options": [
+      "6,012 m – Mustang",
+      "6,920 m – Myagdi/Mustang",
+      "7,246 m – Rukum/Dolpa",
+      "7,061 m – Myagdi/Mustang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nilgiri North, part of Dhaulagiri, is located in which district and what is its height?",
+    "options": [
+      "7,061 m – Myagdi/Mustang",
+      "6,839 m – Myagdi/Mustang",
+      "7,715 m – Dolpa/Myagdi",
+      "7,371 m – Dolpa/Myagdi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nilgiri South, part of Dhaulagiri, is located in which district and what is its height?",
+    "options": [
+      "6,839 m – Myagdi/Mustang",
+      "7,061 m – Myagdi/Mustang",
+      "6,940 m – Myagdi/Mustang",
+      "6,563 m – Dolpa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dhaulagiri Second is located in which district and what is its height?",
+    "options": [
+      "7,715 m – Dolpa/Myagdi",
+      "7,661 m – Dolpa/Myagdi",
+      "7,268 m – Myagdi",
+      "7,246 m – Rukum/Dolpa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dhaulagiri Fourth is located in which district and what is its height?",
+    "options": [
+      "7,661 m – Dolpa/Myagdi",
+      "7,715 m – Dolpa/Myagdi",
+      "7,371 m – Dolpa/Myagdi",
+      "7,193 m – Myagdi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Churen, part of Dhaulagiri, is located in which district and what is its height?",
+    "options": [
+      "7,371 m – Dolpa/Myagdi",
+      "7,715 m – Dolpa/Myagdi",
+      "7,061 m – Myagdi/Mustang",
+      "6,940 m – Myagdi/Mustang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pritha Hiunchuli, part of Dhaulagiri, is located in which district and what is its height?",
+    "options": [
+      "7,246 m – Rukum/Dolpa",
+      "7,268 m – Myagdi",
+      "7,061 m – Myagdi/Mustang",
+      "6,611 m – Dolpa/Myagdi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tukche Peak, part of Dhaulagiri, is located in which district and what is its height?",
+    "options": [
+      "6,920 m – Myagdi/Mustang",
+      "6,380 m – Myagdi",
+      "6,563 m – Dolpa",
+      "7,061 m – Myagdi/Mustang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Manapathi, part of Dhaulagiri, is located in which district and what is its height?",
+    "options": [
+      "6,380 m – Myagdi",
+      "6,920 m – Myagdi/Mustang",
+      "6,563 m – Dolpa",
+      "6,012 m – Mustang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nilgiri North (Niligiri), part of Nilgiri range, is located in which district and what is its height?",
+    "options": [
+      "7,061 m – Myagdi/Mustang",
+      "6,940 m – Myagdi/Mustang",
+      "6,839 m – Myagdi/Mustang",
+      "6,563 m – Dolpa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nilgiri Central is located in which district and what is its height?",
+    "options": [
+      "6,940 m – Myagdi/Mustang",
+      "6,839 m – Myagdi/Mustang",
+      "7,061 m – Myagdi/Mustang",
+      "6,920 m – Myagdi/Mustang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nilgiri South is located in which district and what is its height?",
+    "options": [
+      "6,839 m – Myagdi/Mustang",
+      "6,940 m – Myagdi/Mustang",
+      "7,061 m – Myagdi/Mustang",
+      "6,920 m – Myagdi/Mustang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Kanjirova Main Peak is located in which district and what is its height?",
+    "options": [
+      "6,883 m – Dolpa",
+      "6,563 m – Dolpa",
+      "6,940 m – Myagdi/Mustang",
+      "7,061 m – Myagdi/Mustang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tripura Hiunchuli, part of Kanjirova, is located in which district and what is its height?",
+    "options": [
+      "6,883 m – Dolpa",
+      "6,920 m – Myagdi/Mustang",
+      "6,563 m – Dolpa",
+      "6,380 m – Myagdi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Hanging Glacier Peak, part of Kanjirova, is located in which district and what is its height?",
+    "options": [
+      "6,883 m – Dolpa",
+      "6,940 m – Myagdi/Mustang",
+      "6,920 m – Myagdi/Mustang",
+      "6,563 m – Dolpa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the height and district of Danfe Shail in the Kagmara/ Kanjirova range?",
+    "options": [
+      "6,103 m – Dolpa",
+      "5,960 m – Dolpa",
+      "6,612 m – Dolpa",
+      "6,139 m – Dolpa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Kajjirova peak in Dolpa has what height?",
+    "options": [
+      "5,960 m",
+      "6,103 m",
+      "6,612 m",
+      "6,085 m"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Shei Shikhar, part of Kanjirova, is located in which district and what is its height?",
+    "options": [
+      "6,612 m – Dolpa",
+      "6,139 m – Dolpa",
+      "6,085 m – Dolpa",
+      "6,103 m – Dolpa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Norbukhang, part of Kanjirova, is located in which district and what is its height?",
+    "options": [
+      "6,139 m – Dolpa",
+      "6,085 m – Dolpa",
+      "5,960 m – Dolpa",
+      "6,103 m – Dolpa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Jagadulla Peak is located in which districts and what is its height?",
+    "options": [
+      "6,883 m – Dolpa/Jumla",
+      "6,627 m – Mugu/Humla/Dolpa",
+      "6,850 m – Mugu",
+      "6,395 m – Humla"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Patarasi, part of Mugu/Dolpa, has what height?",
+    "options": [
+      "6,627 m",
+      "6,450 m",
+      "6,612 m",
+      "6,639 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kanti Himal, located in Mugu, has what height?",
+    "options": [
+      "6,450 m",
+      "6,395 m",
+      "6,612 m",
+      "6,850 m"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Kojichuwa, part of Kanti range, is located in which district and what is its height?",
+    "options": [
+      "6,565 m – Humla",
+      "6,395 m – Humla",
+      "6,439 m – Mugu",
+      "6,612 m – Dolpa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Kapthang in Mugu has what height?",
+    "options": [
+      "6,612 m",
+      "6,439 m",
+      "5,965 m",
+      "6,450 m"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Chandi Himal, in Humla, has what height?",
+    "options": [
+      "6,395 m",
+      "6,142 m",
+      "6,612 m",
+      "5,911 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Changla, part of Chandi Himal, is located in which district and what is its height?",
+    "options": [
+      "6,566 m – Humla",
+      "6,395 m – Humla",
+      "6,142 m – Humla",
+      "6,612 m – Dolpa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Changla Chuli, part of Humla, has what height?",
+    "options": [
+      "6,395 m",
+      "6,612 m",
+      "6,142 m",
+      "6,566 m"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Thakpu, in Humla district, has what height?",
+    "options": [
+      "6,566 m",
+      "6,612 m",
+      "6,395 m",
+      "6,450 m"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tilakang, part of Nalakankar, is located in which district and what is its height?",
+    "options": [
+      "6,062 m – Humla",
+      "6,395 m – Humla",
+      "6,369 m – Humla",
+      "5,911 m – Rukum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nalakankar peak has what height?",
+    "options": [
+      "6,369 m",
+      "6,062 m",
+      "6,395 m",
+      "5,911 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sisne, part of Parvi Rukum, has what height?",
+    "options": [
+      "6,062 m",
+      "5,911 m",
+      "6,369 m",
+      "6,395 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Api, in Darchula district, has what height?",
+    "options": [
+      "7,132 m",
+      "6,808 m",
+      "5,407 m",
+      "6,401 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dovaye, part of Byas Rishi range, has what height and district?",
+    "options": [
+      "5,407 m – Bajhang",
+      "6,401 m – Bajhang/Darchula",
+      "7,132 m – Darchula",
+      "6,808 m – Bajhang/Darchula"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Roma, part of Byas Rishi range, has what height?",
+    "options": [
+      "6,401 m",
+      "6,808 m",
+      "5,407 m",
+      "7,132 m"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nampa / Yokophar, part of Byas Rishi range, has what height and districts?",
+    "options": [
+      "5,407 m – Bajhang",
+      "6,808 m – Bajhang/Darchula",
+      "6,401 m – Bajhang/Darchula",
+      "7,132 m – Darchula"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Rokapa, part of Bajhang, has what height?",
+    "options": [
+      "6,401 m",
+      "5,467 m",
+      "6,808 m",
+      "5,911 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Surma Sarovar North, part of Bajhang, has what height?",
+    "options": [
+      "5,467 m",
+      "6,397 m",
+      "6,401 m",
+      "6,808 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who was the first person to climb Mount Everest from both the South and North sides?",
+    "options": [
+      "Shri Ashu Okato (Japan)",
+      "Shri Pem Dorjee Sherpa",
+      "Martina Osizko (Poland)",
+      "Pasang Lhamu Sherpa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who was the first model female to climb Mount Everest?",
+    "options": [
+      "Martina Osizko (Poland)",
+      "Shri Pem Dorjee Sherpa",
+      "Shri Ashu Okato (Japan)",
+      "Pasang Lhamu Sherpa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which mother-daughter pair were the first to climb Mount Everest together?",
+    "options": [
+      "Shri Pem Dorjee Sherpa & Mrs. Moni Mulapati",
+      "Shri Ashu Okato & Martina Osizko",
+      "Pasang Lhamu Sherpa & daughter",
+      "Australian citizens Cheryl Bart & daughter Nikki Bart"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who was the first Nepali female climber to summit Mount Everest?",
+    "options": [
+      "Shri Indra Rai",
+      "Shri Ang Chiring Sherpa",
+      "Pasang Lhamu Sherpa",
+      "Sangeeta Rokaya"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who was the first Nepali climber from the Kirant ethnic group?",
+    "options": [
+      "Pasang Lhamu Sherpa",
+      "Shri Bishnu Bhusal",
+      "Shri Indra Rai (Udaypur)",
+      "Shri Vivek Pandey"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who was the first Nepali journalist to climb Mount Everest?",
+    "options": [
+      "Sangeeta Rokaya",
+      "Shri Bishnu Bhusal",
+      "Shri Vivek Pandey",
+      "Shri Ang Chiring Sherpa (Kantipur Daily)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which Nepali lawyer climbed Everest with the slogan 'End Chhaupadi practice'?",
+    "options": [
+      "Shri Ang Chiring Sherpa",
+      "Sangeeta Rokaya",
+      "Shri Bishnu Bhusal",
+      "Shri Vivek Pandey"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who was the first Nepali male to skydive from Mount Everest?",
+    "options": [
+      "Shri Vivek Pandey",
+      "Shri Bishnu Bhusal",
+      "Shri Ashu Okato",
+      "Shri Indra Rai"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When did the first Nepali female doctor climb Mount Everest?",
+    "options": [
+      "Dr. Nima Namgel Sherpa – 2063 Jestha 8",
+      "Raju Lama – 2079 Jestha 8",
+      "Shri Lopsang Jamdu Sherpa – 2050 Jestha 9",
+      "Dr. Preeti Bhusal – 2079 Baisakh 29"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "When did the first Nepali male doctor climb Mount Everest?",
+    "options": [
+      "Dr. Preeti Bhusal – 2079 Baisakh 29",
+      "Raju Lama – 2079 Jestha 8",
+      "Shri Lopsang Jamdu Sherpa – 2050 Jestha 9",
+      "Dr. Nima Namgel Sherpa – 2063 Jestha 8"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "When did the first Nepali singer climb Mount Everest?",
+    "options": [
+      "Dr. Preeti Bhusal – 2079 Baisakh 29",
+      "Shri Lopsang Jamdu Sherpa – 2050 Jestha 9",
+      "Raju Lama – 2079 Jestha 8",
+      "Dr. Nima Namgel Sherpa – 2063 Jestha 8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When did the first Nepali climb Mount Everest wearing Daura Suruwal and Sherpa attire?",
+    "options": [
+      "Dr. Preeti Bhusal – 2079 Baisakh 29",
+      "Raju Lama – 2079 Jestha 8",
+      "Shri Lopsang Jamdu Sherpa – 2050 Jestha 9",
+      "Dr. Nima Namgel Sherpa – 2063 Jestha 8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who made the first attempt to climb Mount Everest?",
+    "options": [
+      "Tashi & Nunshi Malik – 2013",
+      "Sir George Mallory – 1921",
+      "Alberto & Felix Inurrategui – 1992",
+      "Chirim Sherpa – 2012"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When did the first twin sisters climb Mount Everest together?",
+    "options": [
+      "May 25, 1996 – Kathy O'Dowd (South Africa)",
+      "May 19, 2013 – Tashi & Nunshi Malik (India)",
+      "May 22 & 25, 2012 – Chirim Sherpa (Nepal)",
+      "May 6, 1999 – Babu Chiri Sherpa (Nepal)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When did two brothers climb Mount Everest together?",
+    "options": [
+      "September 25, 1992 – Alberto & Felix Inurrategui (Spain)",
+      "May 19, 2013 – Tashi & Nunshi Malik (India)",
+      "May 6, 1999 – Babu Chiri Sherpa (Nepal)",
+      "May 25, 1996 – Kathy O'Dowd (South Africa)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who was the first woman to climb Mount Everest twice in the same season?",
+    "options": [
+      "Chirim Sherpa – Nepal",
+      "Tashi & Nunshi Malik – India",
+      "Babu Chiri Sherpa – Nepal",
+      "Kathy O'Dowd – South Africa (1996 May 25 & 1999)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who was the first woman to climb both the North and South sides of Mount Everest?",
+    "options": [
+      "Chirim Sherpa – Nepal",
+      "Tashi & Nunshi Malik – India",
+      "Kathy O'Dowd – South Africa",
+      "Babu Chiri Sherpa – Nepal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who was the first person to install GPS at the summit of Mount Everest?",
+    "options": [
+      "Kathy O'Dowd – South Africa",
+      "Baliberg – USA (May 1998)",
+      "Chirim Sherpa – Nepal",
+      "Tashi & Nunshi Malik – India"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the altitude of Namche Bazaar, the gateway to Mount Everest?",
+    "options": [
+      "3,450 m",
+      "8,848.86 m",
+      "8,611 m",
+      "6,103 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who stayed the longest time at the Everest summit without oxygen?",
+    "options": [
+      "Kami Rita Sherpa – 30 times (2081 Jestha 9)",
+      "Lhakpa Sherpa – 10 times (May 12, 2011)",
+      "Chirim Sherpa – May 22 & 25, 2012",
+      "Babu Chiri Sherpa – 21 hours 30 minutes (May 6, 1999)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who climbed Mount Everest the most times among men?",
+    "options": [
+      "Babu Chiri Sherpa – Nepal",
+      "Lhakpa Sherpa – Nepal (10 times)",
+      "Kami Rita Sherpa – Nepal (30 times)",
+      "Chirim Sherpa – Nepal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who climbed Mount Everest the most times among women?",
+    "options": [
+      "Lhakpa Sherpa – Nepal (10 times)",
+      "Kami Rita Sherpa – Nepal",
+      "Babu Chiri Sherpa – Nepal",
+      "Chirim Sherpa – Nepal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which day had the highest number of climbers on Everest in a single day?",
+    "options": [
+      "May 25, 1996",
+      "May 22 & 25, 2012",
+      "May 23, 2019 – 358 climbers",
+      "May 6, 1999"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Nepali spent 3 minutes on Everest summit in minimal clothing (half-naked)?",
+    "options": [
+      "Chirim Sherpa",
+      "Kami Sherpa",
+      "Babu Chiri Sherpa",
+      "Kathy O'Dowd"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the English name of Mount Everest?",
+    "options": [
+      "Sagarmatha – Goddess of the Sky",
+      "Peak XV – Old name",
+      "Everest Peak – Local name",
+      "Mount Everest – Sir George Everest (1865)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the Nepali name of Mount Everest?",
+    "options": [
+      "Mount Everest – English name",
+      "Peak XV – old name",
+      "Sagarmatha – named by Dr. Baburam Acharya",
+      "Everest – common usage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who was the oldest male to climb Everest?",
+    "options": [
+      "Tamae Watanabe – Japan, May 19, 2012",
+      "Yuichiro Miura – Japan, May 23, 2013, age 80 years 224 days",
+      "Kami Rita Sherpa – Nepal",
+      "Lhakpa Sherpa – Nepal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who was the oldest female to climb Everest?",
+    "options": [
+      "Yuichiro Miura – Japan",
+      "Kami Rita Sherpa – Nepal",
+      "Lhakpa Sherpa – Nepal",
+      "Tamae Watanabe – Japan, May 19, 2012, age 73 years"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who is the only person to climb Everest from all four directions?",
+    "options": [
+      "Lhakpa Tharke Sherpa – May 24, 2006",
+      "Kami Sherpa",
+      "Yuichiro Miura",
+      "Tamae Watanabe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who climbed Everest three times in 8 days?",
+    "options": [
+      "Lhakpa Tharke Sherpa – May 24, 2006",
+      "Kami Sherpa – May 19, 24, 27, 2012",
+      "Kushang Sherpa",
+      "Phu Dorje Sherpa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who was the second Nepali to climb Everest?",
+    "options": [
+      "Kumari Phuntok – Tibet, China, May 25, 2014, age 13 years 11 months",
+      "Phu Dorje Sherpa",
+      "Kami Sherpa",
+      "Kushang Sherpa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who was the second woman to climb Everest?",
+    "options": [
+      "Kami Sherpa",
+      "Phu Dorje Sherpa",
+      "Kumari Phuntok – Tibet, China, May 25, 2014, age 13 years 11 months",
+      "Kushang Sherpa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What special name is given to Mount Everest?",
+    "options": [
+      "Sagarmatha – Nepali name",
+      "Peak XV – Old name",
+      "Goddess of the Sky",
+      "The Third Pole – by Michael Quargd"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the Tibetan name of Mount Everest?",
+    "options": [
+      "Mitha Guti Chapu Longsa",
+      "Sagarmatha",
+      "Peak XV",
+      "Everest"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When did the youngest girl climb Mount Everest?",
+    "options": [
+      "May 19, 2012 – Kami Sherpa",
+      "May 23, 2013 – Yuichiro Miura",
+      "May 25, 2014 – Kumari Phuntok (13 years 11 months, India)",
+      "May 24, 2006 – Lhakpa Tharke Sherpa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When did the youngest boy climb Mount Everest?",
+    "options": [
+      "May 22, 2001 – Ming Kipa Sherpa, Nepal, age 14 years 9 months",
+      "May 22, 2010 – Jordan Romero, USA, age 13 years 10 months 10 days",
+      "May 29, 1953 – Tenzing Norgay Sherpa, Nepal",
+      "May 8, 1977 – Somanam Wolang Sherpa, Nepal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When did the youngest Nepali climber ascend Mount Everest?",
+    "options": [
+      "May 22, 2001 – Ming Kipa Sherpa, age 14 years 9 months",
+      "May 22, 2010 – Jordan Romero, USA, age 13 years 10 months",
+      "May 29, 1953 – Tenzing Norgay Sherpa, Nepal",
+      "May 8, 1977 – Somanam Wolang Sherpa, Nepal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who was the first Nepali to climb Mount Everest?",
+    "options": [
+      "Ang Phurba Sherpa – May 14, 1980",
+      "Somanam Wolang Sherpa – May 8, 1977",
+      "Urken Chhiring Sherpa – Dec 20, 1989",
+      "Tenzing Norgay Sherpa – May 29, 1953"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who first ascended Kanchanjunga (Nepal/India)?",
+    "options": [
+      "Tenzing Norgay Sherpa – May 29, 1953",
+      "Ang Phurba Sherpa – May 14, 1980",
+      "Urken Chhiring Sherpa – Dec 20, 1989",
+      "Somnam Wolang Sherpa – May 8, 1977"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who first ascended Lhotse?",
+    "options": [
+      "Ang Phurba Sherpa – May 14, 1980",
+      "Tenzing Norgay Sherpa – May 29, 1953",
+      "Urken Chhiring Sherpa – Dec 20, 1989",
+      "Somanam Wolang Sherpa – May 8, 1977"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who first ascended Makalu?",
+    "options": [
+      "Ang Dawa Sherpa – May 1, 1978",
+      "Ang Chepal Sherpa – April 29, 1987",
+      "Urken Chhiring Sherpa – Dec 20, 1989",
+      "Somanam Wolang Sherpa – May 8, 1977"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who first ascended Cho Oyu?",
+    "options": [
+      "Ang Furi Sherpa – Oct 13, 1977",
+      "Urken Chhiring Sherpa – Dec 20, 1989",
+      "Somnam Wolang Sherpa – May 8, 1977",
+      "Ang Chepal Sherpa – April 29, 1987"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who first ascended Dhaulagiri?",
+    "options": [
+      "Nawang Dorje Sherpa – May 22, 1973",
+      "Ang Furi Sherpa – Oct 13, 1977",
+      "Urken Chhiring Sherpa – Dec 20, 1989",
+      "Somanam Wolang Sherpa – May 8, 1977"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who first ascended Manaslu?",
+    "options": [
+      "Urken Chhiring Sherpa – Dec 20, 1989",
+      "Somanam Wolang Sherpa – May 8, 1977",
+      "Nawang Dorje Sherpa – May 22, 1973",
+      "Ang Chepal Sherpa – April 29, 1987"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who first ascended Annapurna-I?",
+    "options": [
+      "Somanam Wolang Sherpa – May 8, 1977",
+      "Urken Chhiring Sherpa – Dec 20, 1989",
+      "Ang Chepal Sherpa – April 29, 1987",
+      "Ang Furi Sherpa – Oct 13, 1977"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the nickname of the climber known as the 'Snow Tiger'?",
+    "options": [
+      "Ang Rita Sherpa",
+      "Babu Chiri Sherpa",
+      "Pasang Lhamu Sherpa",
+      "Ang Kajee Sherpa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which mountain is nicknamed 'Peak of the White Mountain'?",
+    "options": [
+      "Kangchenjunga",
+      "Dhaulagiri",
+      "Manaslu",
+      "Makalu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mountain is known as 'Ladies Peak' or a Technical Mountain?",
+    "options": [
+      "Manaslu",
+      "Sarje Himal",
+      "Kanchenjunga",
+      "Ama Dablam"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which mountain is nicknamed 'Killer Mountain'?",
+    "options": [
+      "Makalu",
+      "Manaslu",
+      "Lhotse",
+      "Dhaulagiri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mountain is nicknamed 'Shanti Peak'?",
+    "options": [
+      "Ama Dablam",
+      "Kanchenjunga",
+      "Gaurishankar",
+      "Sarje Himal"
+],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which mountain is nicknamed 'Nepal Peak, Fifth Summit'?",
+    "options": [
+      "Manaslu",
+      "Ama Dablam",
+      "Kanchenjunga",
+      "Gauri Shankar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which mountain is nicknamed 'Pathibhara Himal'?",
+    "options": [
+      "Dhaulagiri",
+      "Ama Dablam",
+      "Gauri Shankar",
+      "Kanchenjunga"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which mountain is nicknamed 'Seto Himal'?",
+    "options": [
+       "Gauri Shankar",
+  "Dhaulagiri",
+         "Manaslu",
+      "Makalu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mountain is nicknamed 'Pasang Lhamu Chuli'?",
+    "options": [
+      "Makalu",
+      "Manaslu",
+      "Ama Dablam",
+      "Jasamba"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which mountain is called 'Virgin Peak' and is generally not climbed?",
+    "options": [
+      "Dhaulagiri",
+      "Machapuchare",
+      "Kanchenjunga",
+      "Chure Mountain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mountain range is called 'Shivalik'?",
+    "options": [
+      "Himalchuli",
+      "Chure Mountains",
+      "Makalu",
+      "Dhaulagiri"
     ],
     "correctIndex": 1
   }

@@ -1,12 +1,13 @@
 import 'package:app/screens/climate_quiz_page.dart';
 import 'package:app/screens/continent_quiz_page.dart';
 import 'package:app/screens/forest_quiz_page.dart';
-import 'package:app/screens/lake_pond_quiz_page.dart';
 import 'package:app/screens/mountain_range_quiz_page.dart';
 import 'package:app/screens/ocean_quiz_page.dart';
 import 'package:app/screens/river_stream_quiz_page.dart';
+import 'package:app/screens/quiz_page.dart';
+import 'package:app/screens/others_quiz_page.dart';
+
 import 'package:flutter/material.dart';
-import 'quiz_page.dart';
 
 class GeographyPage extends StatelessWidget {
   const GeographyPage({Key? key}) : super(key: key);
@@ -16,12 +17,12 @@ class GeographyPage extends StatelessWidget {
     final List<GeoItem> items = [
       GeoItem("Location", "assets/icons/location.png"),
       GeoItem("Climate", "assets/icons/climate.png"),
-      GeoItem("Mountain\nRanges", "assets/icons/mountain.png"),
-      GeoItem("Rivers and Streams", "assets/icons/river.png"),
-      GeoItem("Lakes and Ponds", "assets/icons/lake.png"),
+      GeoItem("Mountains", "assets/icons/mountain.png"),
+      GeoItem("Rivers & Lakes", "assets/icons/river.png"),
       GeoItem("Forests", "assets/icons/forest.png"),
       GeoItem("Continents", "assets/icons/continent.png"),
       GeoItem("Ocean", "assets/icons/ocean.png"),
+      GeoItem("Others", "assets/icons/dyn.png"),
     ];
 
     return Scaffold(
@@ -72,26 +73,16 @@ class GeoCard extends StatelessWidget {
             MaterialPageRoute(builder: (context) => const ClimateQuizPage()),
           );
         }
-        if (item.title == "Mountain Ranges") {
+        if (item.title == "Mountains") {
           Navigator.push(
             context,
-            MaterialPageRoute(
-              builder: (context) => const MountainRangeQuizPage(),
-            ),
+            MaterialPageRoute(builder: (context) => MountainRangeQuizPage()),
           );
         }
-        if (item.title == "Rivers & Streams") {
+        if (item.title == "Rivers & Lakes") {
           Navigator.push(
             context,
-            MaterialPageRoute(
-              builder: (context) => const RiverStreamQuizPage(),
-            ),
-          );
-        }
-        if (item.title == "Lakes & Ponds") {
-          Navigator.push(
-            context,
-            MaterialPageRoute(builder: (context) => const LakePondQuizPage()),
+            MaterialPageRoute(builder: (context) => RiverStreamQuizPage()),
           );
         }
         if (item.title == "Forests") {
@@ -110,6 +101,12 @@ class GeoCard extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(builder: (context) => OceanQuizPage()),
+          );
+        }
+        if (item.title == "Others") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => OthersQuizPage()),
           );
         }
       },

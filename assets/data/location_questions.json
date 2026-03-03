@@ -10,7 +10,7 @@
     "correctIndex": 2
   },
   {
-    "question": "Which country borders Nepal to the north?",
+    "question": "Which country lies to the north of Nepal?",
     "options": [
       "India",
       "China",
@@ -20,7 +20,7 @@
     "correctIndex": 1
   },
     {
-    "question": "Nepal's East-West length, North-South length?",
+    "question": "Nepal's East-West and North-South length?",
     "options": [
       "700km, 800km",
       "885km, 193km",
@@ -39,26 +39,7 @@
     ],
     "correctIndex": 3
   },
-    {
-    "question": "Among 14 highest peaks above 8000m in entire world, how many are there in Nepal alone?",
-    "options": [
-      "8",
-      "14",
-      "9",
-      "10"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Mustang has 301 peaks that are higher than 6,000m. How many are there in entire country?",
-    "options" : [
-      "1500",
-      "1600",
-      "1300",
-      "2000"
-    ],
-    "correctIndex" : 2 
-  },
+
     {
     "question": "Nepal's Latitude?",
     "options" : [
@@ -209,16 +190,7 @@
     ],
     "correctIndex": 2
   },
-  {
-    "question": "Which mountain is referred to as Nepal's Mt. Fuji?",
-    "options": [
-      "Mustang",
-      "Manaslu",
-      "Jumla",
-      "Ranimahal"
-    ],
-    "correctIndex": 1
-  },
+
   {
     "question": "Which place is called Nepal's Banaras?",
     "options": [
@@ -319,26 +291,7 @@
     ],
     "correctIndex": 2
   },
-  {
-    "question": "How much water flows from all rivers and streams of Nepal per second?",
-    "options": [
-      "200 cubic meters per second",
-      "150 cubic meters per second",
-      "170 cubic meters per second",
-      "100 cubic meters per second"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the total length of all rivers and streams in Nepal?",
-    "options": [
-      "50,000 km",
-      "40,000 km",
-      "45,000 km",
-      "42,500 km"
-    ],
-    "correctIndex": 2
-  },
+
   {
     "question": "What percentage of Nepal's area is covered by water?",
     "options": [
@@ -349,36 +302,7 @@
     ],
     "correctIndex": 0
   },
-  {
-    "question": "Where does the Saptakoshi River meet the Ganga in India?",
-    "options": [
-      "Patna, Bihar",
-      "Varanasi, Uttar Pradesh",
-      "Karseela, Bihar",
-      "Sonepur, Bihar"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the hourly flow of the Koshi River?",
-    "options": [
-      "10 miles per hour",
-      "16 miles per hour",
-      "20 miles per hour",
-      "12 miles per hour"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which is the longest river in Nepal?",
-    "options": [
-      "Koshi",
-      "Karnali",
-      "Gandaki",
-      "Bagmati"
-    ],
-    "correctIndex": 1
-  },
+
   {
     "question": "Which is the longest glacier in Nepal?",
     "options": [
@@ -389,87 +313,6 @@
     ],
     "correctIndex": 0
   },
-  {
-    "question": "What is Karnali River called in India?",
-    "options": [
-      "Ganga",
-      "Yamuna",
-      "Saraswati",
-      "Ghaghara"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "From where does the Dudh Koshi River originate?",
-    "options": [
-      "Dudhkunda",
-      "Gosaikunda",
-      "Manaslu",
-      "Makalu"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which region does the Tinau River flow through?",
-    "options": [
-      "Bagmati",
-      "Lumbini",
-      "Koshi",
-      "Gandaki"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which river comes from Mansarovar and flows in Humla?",
-    "options": [
-      "Arun",
-      "Tamakoshi",
-      "Karnali",
-      "Trishuli"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the source of the Bagmati River called?",
-    "options": [
-      "Dudhkunda",
-      "Manaslu Glacier",
-      "Bagdwar",
-      "Rolwaling Glacier"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which rivers in Nepal originate from the Bhote side?",
-    "options": [
-      "Bagmati, Rapti, Karnali, Koshi",
-      "Arun, Tamakoshi, Sun Koshi, Tamor, Trishuli, Karnali",
-      "Tinau, Bheri, Seti, Karnali",
-      "Arun, Bagmati, Gandaki, Koshi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which is the highest river flowing from the highest point in Nepal?",
-    "options": [
-      "Koshi",
-      "Karnali",
-      "Bagmati",
-      "Arun"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the Tibetan name for Arun River?",
-    "options": [
-      "Yarlung Tsangpo",
-      "Phungchu",
-      "Sutlej",
-      "Tamur"
-    ],
-    "correctIndex": 1
-  },
-
 {
   "question": "Which district has the largest area in Nepal?",
   "options": [
@@ -641,26 +484,7 @@
     ],
     "correctIndex": 2
   },
-  {
-    "question": "Which river forms Nepal's western border?",
-    "options": [
-      "Mechi River",
-      "Koshi River",
-      "Mahakali River",
-      "Gandaki River"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which mountain range forms Nepal's northern border?",
-    "options": [
-      "Siwalik",
-      "Mahabharat",
-      "Bhot Himal",
-      "Chure"
-    ],
-    "correctIndex": 2
-  },
+
   {
     "question": "Which Indian states touch Nepal's southern border?",
     "options": [
@@ -761,56 +585,9 @@
     ],
     "correctIndex": 2
   },
-  {
-    "question": "Up to which altitude is Subtropical Monsoon Climate found in Nepal?",
-    "options": [
-      "600m",
-      "1200m",
-      "2100m",
-      "3000m"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the altitude range of Warm Temperate Climate in Nepal?",
-    "options": [
-      "1201m – 2100m",
-      "2101m – 3350m",
-      "3351m – 5000m",
-      "5001m and above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The Koshi river basin lies between which Himalayan ranges?",
-    "options": [
-      "Langtang and Dhaulagiri",
-      "Dhaulagiri and Byas",
-      "Kanchenjunga and Langtang",
-      "Annapurna and Manaslu"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Gandaki river basin lies between which Himalayan ranges?",
-    "options": [
-      "Kanchenjunga and Langtang",
-      "Langtang and Dhaulagiri",
-      "Dhaulagiri and Byas",
-      "Annapurna and Api"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Karnali river basin lies between which Himalayan ranges?",
-    "options": [
-      "Langtang and Dhaulagiri",
-      "Kanchenjunga and Langtang",
-      "Dhaulagiri and Byas",
-      "Mahabharat and Chure"
-    ],
-    "correctIndex": 2
-  },
+
+
+
   {
     "question": "Which is the largest province of Nepal according to area?",
     "options": [
@@ -1251,26 +1028,7 @@
     ],
     "correctIndex": 3
   },
-  {
-    "question": "Which district has the most rivers along its border?",
-    "options": [
-      "Dang",
-      "Kailali",
-      "Solukhumbu",
-      "Mustang"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which district has the least presence of rivers?",
-    "options": [
-      "Dang",
-      "Kailali",
-      "Chitwan",
-      "Baglung"
-    ],
-    "correctIndex": 0
-  },
+
   {
     "question": "Which district has the most airports in Nepal?",
     "options": [
@@ -1483,7 +1241,7 @@
     "correctIndex": 0
   },
   {
-    "question": "Which district is the smallest in population in Gandaki Province?",
+    "question": "Which district has the smallest in population in Gandaki Province?",
     "options": [
       "Parbat",
       "Manang",
@@ -1804,5 +1562,462 @@
       "85°00′ – 85°15′E"
     ],
     "correctIndex": 2
-  }
-]
+  },
+    {
+      "question": "Which district is known as the district of suspension bridges (Jholunge Pul)?",
+      "options": ["Rukum", "Baglung", "Dang", "Kailali"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which district resembles the map of Nepal in shape?",
+      "options": ["Ramechhap", "Baglung", "Jumla", "Dhading"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the highest district headquarters in Nepal?",
+      "options": ["Simikot, Humla (1946 m)", "Jaleshwor, Mahottari (61 m)", "Dunai, Dolpa", "Jumla Bazaar"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the lowest district headquarters in Nepal?",
+      "options": ["Simikot, Humla", "Birendranagar, Surkhet", "Dhangadhi", "Jaleshwor, Mahottari (61 m)"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which district has the highest number of airports?",
+      "options": ["Humla", "Dolpa", "Solukhumbu", "Surkhet"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which district has many small rivers?",
+      "options": ["Kailali", "Chitwan", "Gulmi", "Dang"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which district has most of its boundary formed by rivers?",
+      "options": ["Kailali", "Dang", "Rukum", "Baglung"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which district is known as the 'Egg Basket' of Nepal?",
+      "options": ["Dang", "Chitwan", "Kaski", "Jhapa"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which district is famous for coffee farming?",
+      "options": ["Palpa", "Kaski", "Ramechhap", "Gulmi"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which district has a volcanic sign (Dailekh - Dullu)?",
+      "options": ["Dolpa", "Jumla", "Dailekh", "Surkhet"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which are the trans-Himalayan districts?",
+      "options": ["Manang and Mustang", "Humla and Dolpa", "Jumla and Mugu", "Rukum and Rolpa"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which district is known as the district of three lakes?",
+      "options": ["Kaski","Ramechhap",  "Rukum", "Jumla"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which district stretches from the Northern Himal to the Southern Mahabharat range?",
+      "options": ["Sindhupalchok", "Dhading", "Gorkha", "Rasuwa"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which district stretches from the Northern Himal to the Southern Chure range?",
+      "options": ["Dhading", "Dolakha", "Sindhupalchok",  "Makwanpur"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which district is known as Nepal’s desert?",
+      "options": ["Mustang", "Manang", "Dolpa", "Humla"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which district is known as 'Bahra Bandal Athara Khandal'?",
+      "options": ["Rukum", "Jumla", "Dailekh", "Surkhet"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which district is known as the district of 52 ponds and 53 lakes?",
+      "options": ["Kaski", "Rukum", "Ramechhap", "Solukhumbu"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which district is known as the district of seven lakes?",
+      "options": ["Rukum", "Rasuwa", "Jumla", "Kaski"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which district is known as the district of seven ponds (Kunda)?",
+      "options": ["Rasuwa", "Kaski", "Rukum", "Dolpa"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which district is known as the 'Open Museum of the World'?",
+      "options": ["Bhaktapur", "Kathmandu", "Lalitpur", "Pokhara"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which district is known as Nepal’s Kashmir?",
+      "options": ["Mustang", "Jumla",  "Humla", "Dolpa"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which district is known as Nepal’s Switzerland?",
+      "options": ["Solukhumbu", "Manang", "Jumla",  "Dolpa"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which district looks hollow in shape?",
+      "options": ["Baglung", "Dhading", "Sindhupalchok", "Ramechhap"],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the area of Koshi Province?",
+      "options": ["25,905 sq. km", "20,300 sq. km", "9,661 sq. km", "21,733 sq. km"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the population of Koshi Province?",
+      "options": ["6,114,600 (20.96%)", "4,961,412 (17.01%)", "6,116,866 (20.98%)", "2,694,783 (9.24%)"],
+      "correctIndex": 1
+    },
+    {
+      "question": "When was Koshi Province named?",
+      "options": [ "2076 Baisakh 23", "2071 Falgun 17","2075 Ashar 18", "2078 Magh 3"],
+      "correctIndex": 1
+    },
+    {
+      "question": "How many districts are in Koshi Province?",
+      "options": ["13", "8", "14", "11"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the largest district of Koshi Province by area?",
+      "options": ["Morang", "Terhathum", "Taplejung (3,646 sq. km)", "Jhapa"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the smallest district of Koshi Province by area?",
+      "options": ["Sunsari", "Terhathum (679 sq. km)",  "Bhojpur", "Dhankuta"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Which is the smallest province of Nepal by area?",
+      "options": [ "Bagmati Province", "Lumbini Province", "Sudurpashchim Province", "Madhesh Province"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which province has no metropolitan city?",
+      "options": ["Lumbini Province", "Bagmati Province", "Koshi Province", "Madhesh Province"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the largest province of Nepal by area?",
+      "options": ["Karnali Province", "Gandaki Province", "Bagmati Province", "Sudurpashchim Province"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which province borders only China and not India?",
+      "options": ["Gandaki Province", "Bagmati Province", "Karnali Province", "Lumbini Province"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which province includes Rara Lake and Phoksundo National Park?",
+      "options": ["Gandaki Province", "Bagmati Province", "Karnali Province", "Koshi Province"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which province includes Chitwan National Park and Langtang National Park?",
+      "options": ["Koshi Province", "Bagmati Province", "Gandaki Province", "Madhesh Province"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the easternmost point of Nepal?",
+      "options": ["Taplejung", "Dodhara (Kanchanpur)", "Changla Pass (Humla)", "Lodhabari (Jhapa)"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the westernmost point of Nepal?",
+      "options": ["Taplejung", "Lodhabari (Jhapa)", "Dodhara (Kanchanpur)", "Changla Pass (Humla)"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the northernmost point of Nepal?",
+      "options": ["Changla Pass (Humla)", "Taplejung", "Dodhara (Kanchanpur)", "Lodhabari (Jhapa)"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the southernmost point of Nepal?",
+      "options": ["Dodhara (Kanchanpur)", "Lodhabari (Jhapa)", "Taplejung", "Changla Pass (Humla)"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest administrative office in Nepal?",
+      "options": ["Singha Durbar", "Narayanhiti Palace", "Bhrikutimandap", "Hanumandhoka"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the largest province of Nepal by area?",
+      "options": ["Bagmati Province", "Karnali Province", "Gandaki Province", "Sudurpashchim Province"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest district of Nepal by area?",
+      "options": ["Humla", "Dolpa (7,889 sq. km)", "Mustang", "Mugu"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest metropolitan city of Nepal?",
+      "options": ["Kathmandu Metropolitan City", "Pokhara-Lekhnath Metropolitan City", "Lalitpur Metropolitan City", "Biratnagar Metropolitan City"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest sub-metropolitan city of Nepal?",
+      "options": ["Itahari Sub-Metropolitan City", "Dharan Sub-Metropolitan City", "Ghorahi Sub-Metropolitan City", "Janakpur Sub-Metropolitan City"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the largest municipality of Nepal?",
+      "options": ["Tulsipur Municipality", "Shitganga Municipality (Arghakhanchi)", "Hetauda Municipality", "Birtamod Municipality"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest rural municipality (Gaunpalika) of Nepal?",
+      "options": ["Namkha Gaunpalika (Humla)", "Barpak Gaunpalika", "Annapurna Gaunpalika", "Kanakasundari Gaunpalika"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the largest bank in Nepal?",
+      "options": ["Rastriya Banijya Bank", "Nepal Investment Bank", "Nepal Rastra Bank (Thapathali)", "NIC Asia Bank"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the largest bell in Nepal?",
+      "options": ["Hanuman Ghanti (Hanumandhoka)", "Manakamana Bell", "Pashupati Bell", "Budhanilkantha Bell"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the largest book store in Nepal?",
+      "options": ["Pilgrims Book House", "Ekta Books (Thapathali)", "Ratna Pustak Bhandar", "Educational Book House"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest campus in Nepal?",
+      "options": ["Trichandra Campus", "Ramapur Agriculture Campus (Chitwan)", "Pulchowk Campus", "Patan Multiple Campus"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest cinema hall in Nepal?",
+      "options": ["Indra Chalachitra Hall (Biratnagar)", "QFX Civil Mall", "Big Movies City Center", "FCube Cinemas"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the largest clock tower in Nepal?",
+      "options": ["Bhimsen Tower", "Trichandra Ghantaghar (Kathmandu)", "Dharahara", "Janaki Clock Tower"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest palace gate in Nepal?",
+      "options": ["Hanuman Dhoka Gate", "Singha Durbar Gate", "Southern Gate of Narayanhiti Palace", "Bhaktapur Durbar Gate"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the largest embassy premises in Nepal?",
+      "options": ["Indian Embassy", "Chinese Embassy", "British Embassy", "American Embassy (Maharajgunj)"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which is the largest exhibition ground in Nepal?",
+      "options": ["Bhrikutimandap", "Tundikhel", "Dasarath Stadium", "Jawalakhel Ground"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the largest glacier in Nepal?",
+      "options": ["Khumbu Glacier (Rasuwa)", "Langtang Glacier", "Ngozumpa Glacier", "Rolwaling Glacier"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the largest golf course in Nepal?",
+      "options": ["Royal Nepal Golf Club", "Gokarna Golf Course, Kathmandu", "Pokhara Golf Course", "Dharan Golf Club"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest hotel in Nepal?",
+      "options": ["Hotel Yak & Yeti", "Hotel Annapurna", "Hyatt Regency, Boudha, Kathmandu", "Hotel Everest View"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the largest hunting reserve in Nepal?",
+      "options": ["Dhorpatan Hunting Reserve, Baglung", "Shuklaphanta Reserve", "Parsa Wildlife Reserve", "Koshi Tappu Reserve"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the largest hydropower project in Nepal (144 MW)?",
+      "options": ["Upper Tamakoshi", "Kaligandaki 'A' Project", "Kulekhani Project", "Marsyangdi Project"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest statue in Nepal?",
+      "options": ["Pashupati Statue", "Shiva Statue, Sanga", "Budhanilkantha Statue, Kathmandu", "Boudhanath Buddha"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the largest industrial building in Nepal?",
+      "options": ["Hetauda Cement Industry Building", "Balaju Industrial Estate", "Biratnagar Jute Mill", "Butwal Industrial Area"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the largest lake in Nepal?",
+      "options": ["Tilicho Lake", "Rara Lake", "Phewa Lake", "Begnas Lake"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest national park in Nepal (3,555 sq. km)?",
+      "options": ["Chitwan National Park", "Shey-Phoksundo National Park", "Sagarmatha National Park", "Langtang National Park"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the longest river in Nepal?",
+      "options": ["Koshi River", "Gandaki River", "Karnali River", "Bagmati River"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the longest highway in Nepal?",
+      "options": ["Tribhuvan Highway", "Mid-Hill Highway", "East-West Highway", "BP Highway"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the longest glacier in Nepal?",
+      "options": ["Khumbu Glacier", "Langtang Glacier", "Ngozumpa Glacier", "Rolwaling Glacier"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the smallest province of Nepal?",
+      "options": ["Bagmati Province", "Gandaki Province", "Madhesh Province", "Sudurpashchim Province"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the smallest district of Nepal?",
+      "options": ["Bhaktapur", "Lalitpur", "Kathmandu", "Rasuwa"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the smallest metropolitan city in Nepal?",
+      "options": ["Kathmandu Metropolitan", "Lalitpur Metropolitan", "Biratnagar Metropolitan", "Pokhara Metropolitan"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the coldest place in Nepal?",
+      "options": ["Dolpa", "Mustang", "Manang", "Humla"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the hottest place in Nepal?",
+      "options": ["Birgunj", "Dhangadhi", "Nepalgunj", "Janakpur"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which district has the most airports (3 airports)?",
+      "options": ["Humla", "Solukhumbu", "Dolpa", "Mustang"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the place with the highest rainfall in Nepal?",
+      "options": ["Pokhara", "Lumle and Pokhara", "Dharan", "Ilam"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the most spoken language in Nepal?",
+      "options": ["Maithili", "Bhojpuri", "Nepali", "Newari"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the first magazine published in Nepal (1955 BS)?",
+      "options": ["Gorkhapatra", "Sudha Sagar", "Awaj", "Samaj"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the first daily newspaper of Nepal?",
+      "options": ["Awaj (2007 BS, Falgun 8)", "Sudha Sagar", "Gorkhapatra", "Kantipur"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the highest mountain in the world located in Nepal (8,848.86 m)?",
+      "options": ["Kanchenjunga", "Lhotse", "Sagarmatha (Everest)", "Makalu"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the deepest gorge in the world (6,967 m)?",
+      "options": ["Kali Gandaki Gorge", "Andha Galchhi", "Arun Valley", "Seti Gorge"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the highest lake in the world located in Nepal?",
+      "options": ["Rara Lake", "Tilicho Lake", "Phoksundo Lake", "Gosaikunda"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the highest hotel in the world located in Nepal (3,780 m)?",
+      "options": ["Hyatt Regency", "Hotel Everest View", "Yak & Yeti", "Annapurna Hotel"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the highest national park in the world located in Nepal?",
+      "options": ["Sagarmatha National Park", "Langtang National Park", "Shey-Phoksundo National Park", "Makalu Barun National Park"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the highest flowing river in the world from Nepal?",
+      "options": ["Karnali River", "Arun River", "Koshi River", "Gandaki River"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which flower is found at the highest altitude in Nepal?",
+      "options": ["Rhododendron", "Stellaria decumbens", "Snow Lotus", "Brahma Kamal"],
+      "correctIndex": 1
+    },
+{
+      "question": "Which flower is found at the highest altitude in Nepal?",
+      "options": ["Rhododendron", "Stellaria decumbens", "Snow Lotus", "Brahma Kamal"],
+      "correctIndex": 1
+    },
+    {
+  "question": "Which insect species is found only in Nepal?",
+  "options": [
+    "Calis nenish",
+    "Apis cerana",
+    "Danaus chrysippus",
+    "Papilio polytes"
+  ],
+  "correctIndex": 0
+},
+    {
+  "question": "Which butterfly species is found only in Nepal?",
+  "options": [
+    "Danaus gilippus",
+    "Black Swallow Tail",
+    "Papilio rutulus",
+    "Pentiya Sherpa"
+  ],
+  "correctIndex": 3
+},
+    {
+  "question": "Who was world's largest?",
+  "options": [
+    "Capuchins",
+    "Black Swallow Tail",
+    "Babua Hanuman",
+    "Macaques"
+  ],
+  "correctIndex": 2
+}
+
+  ]

@@ -7,5 +7,2313 @@
       "Antartica"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Africa lies between which latitudes?",
+    "options": ["10°S to 78°N", "39°N to 71°N", "66°S to 90°S", "35°S to 37°N"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Asia lies between which latitudes?",
+    "options": ["56°S to 12°N", "10°N to 80°N", "10°S to 78°N", "10°S to 40°S"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Europe lies between which latitudes?",
+    "options": ["39°N to 71°N", "35°S to 37°N", "10°N to 80°N", "66°S to 90°S"],
+    "correctIndex": 0
+  },
+  {
+    "question": "North America lies between which latitudes?",
+    "options": ["10°S to 78°N", "10°N to 80°N", "35°S to 37°N", "56°S to 12°N"],
+    "correctIndex": 1
+  },
+  {
+    "question": "South America lies between which latitudes?",
+    "options": ["35°S to 37°N", "39°N to 71°N", "56°S to 12°N", "10°S to 40°S"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Australia lies between which latitudes?",
+    "options": ["10°S to 40°S", "10°S to 78°N", "10°N to 80°N", "66°S to 90°S"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Antarctica lies between which latitudes?",
+    "options": ["56°S to 12°N", "35°S to 37°N", "66°S to 90°S", "10°S to 40°S"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Africa lies between which longitudes?",
+    "options": ["25°E to 180°E", "20°W to 160°W", "35°W to 80°W", "20°W to 50°E"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Asia lies between which longitudes?",
+    "options": ["114°E to 180°E", "25°E to 180°E", "20°W to 65°E", "20°W to 160°W"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Europe lies between which longitudes?",
+    "options": ["20°W to 65°E", "35°W to 80°W", "114°E to 180°E", "20°W to 50°E"],
+    "correctIndex": 0
+  },
+  {
+    "question": "North America lies between which longitudes?",
+    "options": ["114°E to 180°E", "20°W to 160°W", "35°W to 80°W", "20°W to 50°E"],
+    "correctIndex": 1
+  },
+  {
+    "question": "South America lies between which longitudes?",
+    "options": ["25°E to 180°E", "114°E to 153°E", "35°W to 80°W", "20°W to 65°E"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Australia lies between which longitudes?",
+    "options": ["35°W to 80°W", "114°E to 180°E", "20°W to 160°W", "20°W to 50°E"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Antarctica lies between which longitudes as listed here?",
+    "options": ["114°E to 180°E", "20°W to 50°E", "35°W to 80°W", "114°E to 153°E"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the area of Africa (in square kilometers) as listed here?",
+    "options": ["29,785,000 sq km", "43,999,000 sq km", "24,320,000 sq km", "13,000,000 sq km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the highest point in Africa listed here?",
+    "options": [ "Mount Everest (Nepal) – 8,848.86 m", "Mount Elbrus – 5,642 m", "Mount Aconcagua – 6,960 m", "Mount Kibo (Tanzania) – 5,895 m"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the lowest point in Africa listed here?",
+    "options": ["Dead Sea – (-)408 m", "Death Valley (USA) – (-)86 m", "Lake Assal (Djibouti) – (-)40 m", "Air Lake – (-)27 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which city is listed as Africa’s largest city by population?",
+    "options": ["Tokyo (Japan)", "Lagos (Nigeria)", "London (England)", "Sydney (Australia)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the area of Antarctica (in square kilometers) as listed here?",
+    "options": [ "10,498,000 sq km", "17,798,500 sq km","13,000,000 sq km", "7,686,880 sq km"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the highest point in Antarctica listed here?",
+    "options": [ "Mount Kosciuszko – 2,228 m", "Mount McKinley – 6,194 m", "Mount Elbrus – 5,642 m", "Vinson Range – 4,897 m"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the lowest point in Antarctica listed here?",
+    "options": [ "Air Lake – (-)27 m", "Caspian Sea – (-)28 m", "Lake Assal – (-)40 m", "McMurdo Station – 1,258 m"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the area of Asia (in square kilometers) as listed here?",
+    "options": ["43,999,000 sq km", "29,785,000 sq km", "24,320,000 sq km", "10,498,000 sq km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the highest point in Asia listed here?",
+    "options": ["Mount Kibo – 5,895 m", "Mount Aconcagua – 6,960 m", "Mount Everest (Nepal) – 8,848.86 m", "Mount Elbrus – 5,642 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the lowest point in Asia listed here?",
+    "options": [ "Lake Assal – (-)40 m", "Death Valley – (-)86 m","Dead Sea – (-)408 m", "Air Lake – (-)27 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which city is listed as Asia’s largest city by population?",
+    "options": [ "Lagos (Nigeria)", "Mexico City (Mexico)", "Tokyo (Japan)","São Paulo (Brazil)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the area of Australia (in square kilometers) as listed here?",
+    "options": ["13,000,000 sq km", "10,498,000 sq km", "17,798,500 sq km", "7,686,880 sq km"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the highest point in Australia listed here?",
+    "options": ["Mount Kosciuszko – 2,228 m", "Vinson Range – 4,897 m", "Mount Elbrus – 5,642 m", "Mount McKinley – 6,194 m"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the lowest point in Australia listed here?",
+    "options": ["Air Lake – (-)27 m", "Dead Sea – (-)408 m", "Lake Assal – (-)40 m", "Caspian Sea – (-)28 m"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which city is listed as Australia’s largest city by population?",
+    "options": ["London (England)","Sydney (Australia)",  "Tokyo (Japan)", "Lagos (Nigeria)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the area of Europe (in square kilometers) as listed here?",
+    "options": ["24,320,000 sq km", "43,999,000 sq km", "10,498,000 sq km", "29,785,000 sq km"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the highest point in Europe listed here?",
+    "options": ["Mount Elbrus – 5,642 m", "Mount Kosciuszko – 2,228 m", "Mount Kibo – 5,895 m", "Mount Aconcagua – 6,960 m"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the lowest point in Europe listed here?",
+    "options": [ "Air Lake – (-)27 m", "Lake Assal – (-)40 m", "Death Valley – (-)86 m", "Caspian Sea – (-)28 m"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which city is listed as Europe’s largest city by population?",
+    "options": ["Tokyo (Japan)", "London (England)", "Lagos (Nigeria)", "Mexico City (Mexico)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the area of North America (in square kilometers) as listed here?",
+    "options": ["24,320,000 sq km", "10,498,000 sq km", "17,798,500 sq km", "7,686,880 sq km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the highest point in North America listed here?",
+    "options": ["Mount Elbrus – 5,642 m", "Mount Kosciuszko – 2,228 m", "Mount McKinley – 6,194 m", "Vinson Range – 4,897 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the lowest point in North America listed here?",
+    "options": ["Death Valley (USA) – (-)86 m", "Dead Sea – (-)408 m", "Caspian Sea – (-)28 m", "Lake Assal – (-)40 m"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which city is listed as North America’s largest city by population?",
+    "options": ["São Paulo (Brazil)", "Mexico City (Mexico)", "Lagos (Nigeria)", "Sydney (Australia)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the area of South America (in square kilometers) as listed here?",
+    "options": [ "24,320,000 sq km", "10,498,000 sq km", "29,785,000 sq km", "17,798,500 sq km"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the highest point in South America listed here?",
+    "options": ["Mount Everest – 8,848.86 m", "Mount McKinley – 6,194 m", "Mount Aconcagua – 6,960 m", "Mount Kibo – 5,895 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the lowest point in South America listed here?",
+    "options": [ "Air Lake – (-)27 m","Valdes Peninsula (Argentina) – (-)40 m", "Caspian Sea – (-)28 m", "Death Valley – (-)86 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which city is listed as South America’s largest city by population?",
+    "options": ["São Paulo (Brazil)", "Mexico City (Mexico)", "Tokyo (Japan)", "London (England)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the largest continent in the world by area?",
+    "options": ["Africa", "Asia", "North America", "Antarctica"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the smallest continent in the world by area?",
+    "options": ["Europe", "Antarctica", "South America", "Australia"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which continent is commonly known as the \"Dark Continent\"?",
+    "options": ["Africa", "Asia", "South America", "Australia"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent has the highest number of countries?",
+    "options": ["Asia", "Europe", "North America", "Africa"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Amazon Rainforest is located on which continent?",
+    "options": ["Africa", "Asia", "South America", "Australia"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the only continent that stretches across all four hemispheres?",
+    "options": ["Africa", "Europe", "Australia", "Antarctica"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent lies entirely in the Southern Hemisphere?",
+    "options": ["Africa", "Asia", "Antarctica", "Europe"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Continents cover approximately what percentage of Earth’s total surface are ?",
+    "options": ["29.2%", "41.7%", "45.3%", "23.4%"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many continents are there in the world?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which continent has no permanent human settlement?",
+    "options": ["Australia", "Antarctica", "Europe", "South America"],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to area, what is the correct order of continents from largest to smallest as stated here?",
+    "options": [
+      "Asia, Africa, North America, South America, Antarctica, Europe, Australia",
+      "Asia, Europe, Africa, North America, South America, Antarctica, Australia",
+      "Africa, Asia, North America, South America, Europe, Antarctica, Australia",
+      "North America, Asia, Africa, South America, Europe, Antarctica, Australia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which country is listed as the largest in the world by are ?",
+    "options": ["Canada", "China", "Russia", "United States"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which set shows the world’s largest countries by area in the order stated here?",
+    "options": [
+      "Russia, Canada, China, USA, Brazil, Australia, India",
+      "Russia, China, Canada, USA, Brazil, Australia, India",
+      "USA, Russia, Canada, China, Brazil, India, Australia",
+      "Russia, Canada, USA, China, Brazil, Australia, India"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which list matches the world’s most populous countries in the order stated here?",
+    "options": [
+      "India, China, USA, Russia",
+      "China, USA, India, Russia",
+      "China, India, USA, Russia",
+      "USA, China, India, Russia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which set matches the world’s smallest countries by area as listed here?",
+    "options": [
+      "Monaco, Vatican City, Tuvalu, Nauru",
+      "Vatican City, Monaco, Nauru, Tuvalu",
+      "Vatican City, Tuvalu, Monaco, Nauru",
+      "Nauru, Tuvalu, Monaco, Vatican City"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which set matches the world’s smallest countries by population as listed here?",
+    "options": [
+      "Vatican City, Monaco, Tuvalu, Nauru",
+      "Monaco, Vatican City, Nauru, Tuvalu",
+      "Tuvalu, Nauru, Monaco, Vatican City",
+      "Vatican City, Tuvalu, Monaco, Nauru"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent is known for having the most diverse climate and habitat ?",
+    "options": ["Africa", "North America", "Asia", "South America"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the world’s longest mountain range?",
+    "options": ["Himalayas", "Alps", "Andes", "Rockies"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the world’s largest desert?",
+    "options": ["Gobi", "Kalahari", "Arabian", "Sahara"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which continent has the highest population densit ?",
+    "options": ["Africa", "Asia", "Europe", "North America"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which continent has the lowest populatio ?",
+    "options": ["Africa", "Asia", "Australia", "Antarctica"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the most populous city in Afric ?",
+    "options": ["Cairo", "Nairobi", "Johannesburg", "Lagos"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Mount Everest (Sagarmatha) is located on which continent?",
+    "options": ["Africa", "Europe", "Asia", "South America"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the most populous country in Europe as stated here?",
+    "options": ["France", "Germany", "United Kingdom", "Russia"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which continent is stated here to have the most extensive river system?",
+    "options": ["Africa", "Asia", "North America", "South America"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the coldest continent on Earth?",
+    "options": ["Africa", "Asia", "Europe", "Antarctica"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which continent has the world's largest rainforest?",
+    "options": ["Africa", "Asia", "South America", "Australia"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the driest continent on Earth?",
+    "options": ["Africa", "Asia", "Europe", "Antarctica"],
+    "correctIndex": 3
+  },
+  {
+    "question": "On which continent are there no active volcanoe ?",
+    "options": ["Africa", "Asia", "Antarctica", "Australia"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Asia is bordered by which ocean to the east?",
+    "options": ["Indian Ocean", "Pacific Ocean", "Arctic Ocean", "Atlantic Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Asia is bordered by which continent to the wes ?",
+    "options": ["Africa", "Europe", "North America", "Australia"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Asia is bordered by which ocean to the nort ?",
+    "options": ["Arctic Ocean", "Indian Ocean", "Pacific Ocean", "Southern Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Asia is bordered by which ocean to the south?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Southern Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the area of Asia mentioned here?",
+    "options": ["43,999,000 sq km", "29,785,000 sq km", "24,320,000 sq km", "10,498,000 sq km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Asia is stated here to cover roughly what percentage of Earth’s land area?",
+    "options": ["About 10%", "About 20%", "About 30%", "About 45%"],
+    "correctIndex": 2
+  },
+  {
+    "question": "About what percentage of the world’s population is said to live in Asia?",
+    "options": ["About 30%", "About 40%", "About 50%", "About 60%"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Asia is referred to as the \"continent of diversity/contrasts\" (विषमताको महादेश) mainly because of which reason mentioned here?",
+    "options": [
+      "Because it has no deserts",
+      "Because it has no oceans around it",
+      "Because it has wide diversity in landforms, climate, biodiversity, and cultures",
+      "Because it is the smallest continent"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which continent is described here as the geographically youngest continent?",
+    "options": ["Europe", "Asia", "Africa", "South America"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Mount Everest (Sagarmatha) is in Asia and is stated here to be how high?",
+    "options": ["6,967 m","8,848.86 m",  "4,919 m", "5,642 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Mount Everest (Sagarmatha) is stated here to be how high in feet?",
+    "options": ["29,031.70 ft", "27,690 ft", "14,000 ft", "7,600 ft"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The 'Roof of the World' mentioned here refers to which plateau?",
+    "options": ["Tibetan Plateau", "Pamir Plateau", "Deccan Plateau", "Colorado Plateau"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Pamir Plateau area is stated here to be approximately how large?",
+    "options": ["200,000 sq km", "3,250,000 sq km", "4,399,900 sq km", "1,300,000 sq km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tilicho Lake is stated here as the world’s highest-altitude lake at what elevation?",
+    "options": ["4,580 m", "4,360 m", "4,919 m", "3,613 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is stated here as the world’s largest peninsula?",
+    "options": [ "Indian Peninsula", "Iberian Peninsula", "Scandinavian Peninsula", "Arabian Peninsula"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the area of the Arabian Peninsula mentioned here?",
+    "options": ["200,000 sq km", "4,399,900 sq km", "7,686,880 sq km", "3,250,000 sq km"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is stated here as the world’s deepest gorge?",
+    "options": ["Kali Gandaki Gorge", "Grand Canyon", "Yarlung Tsangpo Gorge", "Fish River Canyon"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The depth of the Kali Gandaki Gorge is given here as approximately how many meters?",
+    "options": ["8,848.86 m", "6,967 m", "4,919 m", "5,895 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Arun Valley is stated here to be the world’s deepest valley at about what depth?",
+    "options": ["1,258 m", "6,967 m", "457 m", "167 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Great Wall mentioned here is stated to be approximately how long?",
+    "options": ["1,400 miles", "884 miles", "2,228 miles", "4,919 miles"],
+    "correctIndex": 0
+  },
+  {
+    "question": "According to this text, who built the Great Wall mentioned here?",
+    "options": [ "Emperor Akbar", "Emperor Qin Shi Huang","Genghis Khan", "Alexander the Great"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which desert is described here as Asia’s largest desert?",
+    "options": ["Arabian Desert", "Gobi Desert", "Sahara Desert", "Kalahari Desert"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many landlocked countries are stated here to be in Asia?",
+    "options": ["10", "11", "12", "13"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country is mentioned here as the largest landlocked country in Asia?",
+    "options": ["Kazakhstan", "Armenia", "Nepal", "Mongolia"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which country is mentioned here as the smallest landlocked country in Asia?",
+    "options": ["Armenia", "Kazakhstan", "Nepal", "Bhutan"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The grassland 'Steppes' are mentioned here as a notable feature of which continent?",
+    "options": [ "Africa", "Europe", "South America", "Asia"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which lake is mentioned here as Asia’s largest lake?",
+    "options": ["Lake Baikal", "Caspian Sea", "Aral Sea", "Lake Chilika"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which river is mentioned here as Asia’s largest/longest river (5,776 km)?",
+    "options": ["Yasikyang", "Yangtze", "Ganga", "Mekong"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Amazon River is located on which continent?",
+    "options": ["Africa", "South America", "Asia", "Australia"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which continent has the largest ice desert (polar desert)?",
+    "options": ["Africa", "Asia", "North America", "Antarctica"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which continent is stated here to have the oldest continuous civilization?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Great Barrier Reef is located on which continent?",
+    "options": ["Africa", "Asia", "Australia", "South America"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which continent is stated here to have the largest economy?",
+    "options": ["Africa", "Asia", "Europe", "North America"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which continent is stated here to have the most developed countries?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which continent is stated here to have the highest number of landlocked countries?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The European Union (EU) is located on which continent?",
+    "options": ["Africa", "Asia", "Europe", "North America"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which continent is stated here to have the highest per-capita GDP?",
+    "options": ["Africa", "Asia", "Europe", "North America"],
+    "correctIndex": 3
+  },
+{
+    "question": "Which is the largest country in Asia by area?",
+    "options": ["China", "India", "Russia", "Kazakhstan"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country has the highest population in Asi ?",
+    "options": ["India", "Indonesia", "China", "Pakistan"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the largest desert in Asi ?",
+    "options": ["Gobi Desert", "Thar Desert", "Arab Desert", "Kyzylkum Desert"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the longest river in Asi ?",
+    "options": ["Yangtze River", "Ganga River", "Mekong River", "Yellow River"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Mount Everest lies on the border of which two countries?",
+    "options": ["China and India", "Nepal and China", "India and Nepal", "Bhutan and Nepal"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "options": ["Osaka", "Tokyo", "Kyoto", "Hiroshima"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the capital city of South Korea?",
+    "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the capital city of Thailand?",
+    "options": ["Phuket", "Pattaya", "Bangkok", "Chiang Mai"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the capital city of Malaysia?",
+    "options": ["Kuala Lumpur", "Penang", "Johor Bahru", "Malacca"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the capital city of Saudi Arabia?",
+    "options": ["Jeddah", "Riyadh", "Mecca", "Medina"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mountain range forms a traditional boundary between Europe and Asia?",
+    "options": ["Himalayas", "Ural Mountains", "Andes", "Rocky Mountains"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which plateau is commonly called the \"Roof of the World\"?",
+    "options": ["Deccan Plateau", "Tibetan Plateau", "Iranian Plateau", "Anatolian Plateau"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sea lies between Saudi Arabia and Africa?",
+    "options": ["Mediterranean Sea", "Red Sea", "Arabian Sea", "Black Sea"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the world’s largest inland water body?",
+    "options": ["Caspian Sea", "Black Sea", "Aral Sea", "Dead Sea"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the highest peak of the Himalayas?",
+    "options": ["Mount Everest", "K2", "Kanchenjunga", "Lhotse"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which climate zone is dominant in Southeast Asia?",
+    "options": ["Arid", "Mediterranean", "Tropical", "Tundra"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Asian country is most affected by the monsoo ?",
+    "options": ["Japan", "Saudi Arabia", "India", "Mongolia"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Taiga biome is mainly found in which country?",
+    "options": ["China", "India", "Russia", "Japan"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the largest lake in Asia?",
+    "options": ["Lake Baikal", "Caspian Sea", "Aral Sea", "Dead Sea"],
+    "correctIndex": 1
+  },
+
+  {
+    "question": "Which desert is located in Mongolia and China?",
+    "options": ["Thar Desert", "Arab Desert", "Taklamakan Desert", "Gobi Desert"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which country is the largest producer of rice in Asi ?",
+    "options": ["Thailand", "Vietnam", "India", "China"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which Asian country is best known for its large oil reserve ?",
+    "options": ["Japan", "South Korea", "Saudi Arabia", "India"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Persian Gulf is rich in which natural resourc ?",
+    "options": ["Gold", "Diamonds", "Coal", "Oil"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which country produces the most palm oil in Asi ?",
+    "options": ["Malaysia", "India", "Thailand", "Indonesia"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which country is the largest tea producer in Asi ?",
+    "options": ["Sri Lanka", "Japan", "China", "India"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Asian country has the most island ?",
+    "options": ["Philippines", "Indonesia", "China", "Japan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which river is known as the \"Yellow River\"?",
+    "options": ["Mekong", "Indrawati", "Huang He (Hoang He)", "Yangtze"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which strait separates Malaysia and Indonesi ?",
+    "options": ["Lombok Strait", "Makassar Strait", "Sunda Strait", "Strait of Malacca"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which African country is stated here to have the longest coastline?",
+    "options": ["Egypt", "Madagascar", "Somalia", "South Africa"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Sahara Desert spreads across how many African countrie ?",
+    "options": ["5", "8", "10", "11"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the longest river in Africa?",
+    "options": ["Niger River", "Zambezi River", "Congo River", "Nile River"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which ancient civilization was centered in the Nile River valley?",
+    "options": ["Mesopotamian", "Carthaginian", "Egyptian", "Ethiopian"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which African country is often called the \"Cradle of Humankind\" because many early human fossils were found ther ?",
+    "options": ["Kenya", "Ethiopia", "Tanzania", "South Africa"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which city was the capital of the ancient Carthage civilizatio ?",
+    "options": ["Alexandria", "Cairo", "Timbuktu", "Carthage"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nelson Mandela became the first Black president of which country?",
+    "options": ["Kenya", "Zimbabwe", "South Africa", "Namibia"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The historic city of Timbuktu is located in which African country?",
+    "options": ["Mali", "Ghana", "Nigeria", "Senegal"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which country is stated here to be Africa’s largest oil producer?",
+    "options": ["Angola", "Libya", "Algeria", "Nigeria"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which island is mentioned here as the most populous?",
+    "options": ["Honshu", "Borneo", "Java", "Sumatra"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Aral Sea lies between which two countries?",
+    "options": ["Turkey and Syria", "Iran and Iraq", "Kazakhstan and Uzbekistan", "Turkmenistan and Afghanistan"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Africa stretches approximately between which latitude ?",
+    "options": ["37°N to 35°S", "10°S to 78°N", "66°S to 90°S", "39°N to 71°N"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Africa stretches approximately between which longitude ?",
+    "options": ["25°E to 180°E", "20°W to 50°E", "35°W to 80°W", "114°E to 180°E"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which water body lies to the east of Africa as stated here?",
+    "options": ["Red Sea", "Atlantic Ocean", "Mediterranean Sea", "Southern Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which ocean lies to the west of Africa as stated here?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Southern Ocean", "Pacific Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sea lies to the north of Africa as stated here?",
+    "options": ["Red Sea", "Arabian Sea", "Mediterranean Sea", "Black Sea"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ocean lies to the south of Africa as stated here?",
+    "options": ["Atlantic Ocean", "Indian Ocean","Southern Ocean",  "Pacific Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the area of Africa mentioned here?",
+    "options": ["43,999,000 sq km", "24,320,000 sq km", "10,498,000 sq km", "29,785,000 sq km"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Africa is stated here to cover about what percentage of the world’s land area?",
+    "options": ["About 20%", "About 30%", "About 10%", "About 15%"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Africa is stated here to have about what percentage of the world���s population?",
+    "options": ["About 10%", "About 15%", "About 20%", "About 30%"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How many landlocked countries are stated here to be in Africa?",
+    "options": ["10", "12", "16", "20"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country is mentioned here as Africa’s largest landlocked country?",
+    "options": ["Rwanda", "Mali", "Niger", "Chad"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which country is mentioned here as Africa’s smallest landlocked country?",
+    "options": ["Chad", "Rwanda", "Uganda", "Zambia"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who is stated here to have publicized information about Africa in 1856?",
+    "options": ["David Livingstone", "Marco Polo", "Ibn Battuta", "Zheng He"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Africa’s highest peak is stated here as which mountain?",
+    "options": ["Mount Kenya", "Kilimanjaro", "Atlas Mountains", "Drakensberg"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kilimanjaro’s height is given here as approximately how many meters?",
+    "options": [ "5,895 m", "4,897 m", "6,194 m", "5,815 m"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Sahara Desert area is given here as approximately how large?",
+    "options": ["3.25 million sq km", "0.2 million sq km", "1.3 million sq km", "8.4 million sq km"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Nile River length is given here as approximately how many kilometers?",
+    "options": ["6,690 km", "5,776 km", "4,500 km", "7,200 km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is stated here as Africa’s largest lake?",
+    "options": [ "Lake Tanganyika", "Lake Malawi", "Lake Victoria","Lake Chad"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Pyramids of Giza are located in which country?",
+    "options": ["Algeria","Egypt",  "Nigeria", "Sudan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is stated here as Africa’s longest mountain range?",
+    "options": ["Drakensberg", "Ruwenzori Mountains", "Ethiopian Highlands", "Atlas Mountains"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Africa’s grasslands are referred to by which names here?",
+    "options": ["Savanna and Veld", "Steppe and Prairie", "Tundra and Taiga", "Pampas and Llanos"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which country is stated here to be the largest in Africa by area?",
+    "options": ["Sudan", "Algeria", "Democratic Republic of the Congo", "Libya"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country is stated here to be the most populous in Africa?",
+    "options": ["Egypt", "Nigeria", "Algeria", "Libya"],
+    "correctIndex": 1
+  },
+
+  {
+    "question": "Which African country has three capital cities?",
+    "options": ["Nigeria", "Egypt", "Tanzania", "South Africa"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which island nation near Africa’s southeast coast is famous for its unique biodiversity?",
+    "options": ["Seychelles", "Comoros", "Mauritius", "Madagascar"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which African country was never colonized by European power ?",
+    "options": ["Liberia", "Ghana", "Morocco", "Ethiopia"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which African country is stated here to have the highest number of pyramids?",
+    "options": ["Nigeria", "Egypt", "Ethiopia", "Sudan"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the world’s second-largest freshwater lake by volum ?",
+    "options": ["Lake Victoria", "Lake Malawi", "Lake Chad", "Lake Tanganyika"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which African country is stated here to be the largest coffee exporter?",
+    "options": ["Ethiopia", "Mozambique", "Ivory Coast", "Angola"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cape of Good Hope is located in which country?",
+    "options": ["Kenya", "Uganda", "South Africa", "Namibia"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which city is the most populous in Afric ?",
+    "options": ["Kinshasa", "Johannesburg", "Cairo", "Lagos"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Lalibela’s rock-hewn churches are located in which country?",
+    "options": ["Sudan", "Kenya", "Egypt", "Ethiopia"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Where is the headquarters of the African Union (AU) located?",
+    "options": ["Nairobi", "Johannesburg", "Addis Ababa", "Cairo"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country is stated here to have Africa’s largest economy by GDP?",
+    "options": ["South Africa", "Egypt", "Kenya", "Nigeria"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which African country is stated here to be famous for the diamond industry?",
+    "options": ["Botswana", "Namibia", "Sierra Leone", "South Africa"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which African country is the largest producer of coco ?",
+    "options": ["Ghana", "Nigeria", "Cameroon", "Ivory Coast"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the highest mountain in Africa?",
+    "options": ["Mount Kenya", "Mount Meru", "Mount Elgon", "Mount Kilimanjaro"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Lake Victoria touches which three countries?",
+    "options": ["Tanzania, Uganda, Rwanda", "Kenya, Uganda, Rwanda", "Rwanda, Burundi, Tanzania", "Kenya, Tanzania, Uganda"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Serengeti National Park, famous for the annual wildebeest migration, is in which country?",
+    "options": ["Kenya", "Botswana", "South Africa", "Tanzania"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Namib Desert is located in which African country?",
+    "options": ["Botswana", "South Africa", "Angola", "Namibia"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Victoria Falls is located on which river?",
+    "options": ["Nile River", "Congo River", "Limpopo River", "Zambezi River"],
+    "correctIndex": 3
+  },
+  {
+    "question": "North America stretches approximately between which latitude ?",
+    "options": ["10°N to 80°N", "10°S to 78°N", "39°N to 71°N", "66°S to 90°S"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which ocean lies to the east of North America?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Arctic Ocean", "Indian Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which ocean lies to the west of North America?",
+    "options": ["Indian Ocean", "Arctic Ocean", "Atlantic Ocean", "Pacific Ocean"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which ocean lies to the north of North Americ ?",
+    "options": ["Southern Ocean", "Arctic Ocean", "Atlantic Ocean", "Indian Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "North America is also known as which of the followin ?",
+    "options": ["New World", "Old World", "Dark Continent", "Land of the Rising Sun"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is stated here to have discovered North America in 1442?",
+    "options": ["Amerigo Vespucci", "Christopher Columbus", "Marco Polo", "Ferdinand Magellan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "North America is named after which explore ?",
+    "options": ["Amerigo Vespucci", "Christopher Columbus", "David Livingstone", "Zheng He"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the highest mountain in North America as stated here?",
+    "options": ["Mount McKinley (Denali)", "Mount Elbrus", "Mount Kosciuszko", "Mount Kilimanjaro"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Mount McKinley (Denali) is stated here to be approximately how high?",
+    "options": ["6,194 m", "5,895 m", "4,897 m", "8,848.86 m"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which lake is mentioned here as the world’s largest freshwater lake in North America?",
+    "options": ["Lake Superior", "Lake Victoria", "Lake Tanganyika", "Lake Baikal"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is listed here as North America’s largest national park (44,807 sq km)?",
+    "options": ["Wood Buffalo National Park", "Yellowstone National Park", "Serengeti National Park", "Kruger National Park"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is stated here as the world’s oldest national park, established on 1 March 1872?",
+    "options": ["Yellowstone National Park", "Wood Buffalo National Park", "Yosemite National Park", "Banff National Park"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The grasslands of North America are commonly called what?",
+    "options": ["Prairie", "Savanna", "Steppe", "Tundra"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is stated here as the largest desert in North America?",
+    "options": ["Sonoran Desert", "Sahara Desert", "Gobi Desert", "Arab Desert"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is stated here as the longest glacier in North America (204 km)?",
+    "options": ["Bering Glacier", "Khumbu Glacier", "Dojampa Glacier", "Thulagi Glacier"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river system is stated here as the longest in North America (6,240 km)?",
+    "options": ["Mississippi–Missouri", "Rio Grande", "Yukon", "Colorado"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which country is the largest in North America by area?",
+    "options": ["United States", "Mexico", "Canada", "Greenland"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country has the highest population in North America?",
+    "options": ["Mexico", "Canada", "United States", "Cuba"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the longest river in North Americ ?",
+    "options": ["Missouri River", "Mississippi River", "Rio Grande", "Yukon River"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the largest island in North America?",
+    "options": ["Vancouver Island", "Cuba", "Greenland", "Hispaniola"],
+    "correctIndex": 2
+  } ,
+  {
+    "question": "Which U.S. state is famous for Creole and Cajun culture?",
+    "options": ["Florida", "Louisiana", "Georgia", "Texas"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which island group in the Caribbean is a U.S. territory?",
+    "options": ["Bahamas", "Cayman Islands", "Virgin Islands", "Turks and Caicos"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which U.S. national park is famous for geothermal activity and wildlife?",
+    "options": ["Grand Canyon National Park", "Yellowstone National Park", "Yosemite National Park", "Zion National Park"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which Canadian province is mainly French-speaking?",
+    "options": ["Ontario", "Quebec", "British Columbia", "Alberta"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which North American country is stated here to have the world’s second-largest Spanish-speaking population?",
+    "options": ["Mexico", "United States", "Canada", "Guatemala"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tijuana lies on the border between which two countries?",
+    "options": ["United States and Canada", "United States and Mexico", "Mexico and Guatemala", "Canada and Greenland"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country is famous for the Yucatán Peninsula and the Chiapas region’s rainforests and biodiversit ?",
+    "options": ["Canada", "Mexico", "United States", "Belize"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country is the largest producer of maple syrup?",
+    "options": ["United States", "Mexico", "Canada", "Belize"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the largest freshwater lake in North America by surface area?",
+    "options": ["Lake Michigan", "Lake Erie", "Lake Superior", "Lake Huron"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Grand Canyon is located in which U.S. state?",
+    "options": ["Colorado", "Utah", "Arizona", "Nevada"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Niagara Falls lies on the border between which two countries?",
+    "options": ["United States and Mexico", "United States and Canada", "Canada and Mexico", "United States and Cuba"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mountain range is located in the eastern United States?",
+    "options": ["Rocky Mountains", "Appalachian Mountains", "Sierra Nevada", "Cascades"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Yucatán Peninsula is part of which country?",
+    "options": ["United States", "Canada", "Mexico", "Guatemala"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the largest U.S. state by area?",
+    "options": ["Texas", "California", "Alaska", "Montana"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the currency of Mexico?",
+    "options": ["Dollar", "Peso", "Lira", "Euro"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Rocky Mountains extend across which three North American countrie ?",
+    "options": [
+      "United States, Canada, and Mexico",
+      "United States, Canada, and Guatemala",
+      "United States, Canada, and Belize",
+      "United States, Canada, and Costa Rica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which city is considered the birthplace of jazz music?",
+    "options": ["New York", "Chicago", "New Orleans", "Los Angeles"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Mayan civilization was located mainly in which modern countr ?",
+    "options": ["United States", "Canada", "Mexico", "Jamaica"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who built the cliff dwellings in the U.S. Southwes ?",
+    "options": ["Navajo", "Apache", "Anasazi", "Iroquois"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Canadian city is famous for the annual 'Calgary Stampede'?",
+    "options": ["Toronto", "Vancouver", "Montreal", "Calgary"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which country produces the most oil in North Americ ?",
+    "options": ["Mexico", "United States", "Canada", "Venezuela"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which three countries are members of NAFTA (North American Free Trade Agreement) as stated here?",
+    "options": [
+      "United States, Mexico, and Canada",
+      "United States, Mexico, and Brazil",
+      "United States, Canada, and Cuba",
+      "United States, Canada, and Venezuela"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "By GDP, which country is the largest economy in North Americ ?",
+    "options": ["Mexico", "United States", "Canada", "Cuba"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which North American country is stated here to contribute the most to global technology and innovation (especially Silicon Valley)?",
+    "options": ["Canada", "Mexico", "United States", "Cuba"],
+    "correctIndex": 2
+  },
+  {
+    "question": "South America extends between which latitudes?",
+    "options": ["56°S to 12°N", "35°S to 37°N", "10°N to 80°N", "66°S to 90°S"],
+    "correctIndex": 0
+  },
+  {
+    "question": "South America extends between which longitudes?",
+    "options": ["35°W to 80°W", "20°W to 50°E", "25°E to 180°E", "114°E to 153°E"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which ocean lies to the east and north of South Americ ?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which ocean lies to the west of South America?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Southern Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ocean lies to the south of South Americ ?",
+    "options": ["Indian Ocean", "Arctic Ocean", "Southern Ocean", "Atlantic Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "South America is listed here as the ____ largest continent by area.",
+    "options": ["second", "third", "fourth", "fifth"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the area of South America mentioned here?",
+    "options": ["17,798,500 sq km", "24,320,000 sq km", "10,498,000 sq km", "29,785,000 sq km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "South America is said here to cover roughly what percentage of the world’s land area?",
+    "options": ["About 12%", "About 20%", "About 30%", "About 15%"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What shared geographic shape is mentioned for both North America and South America?",
+    "options": [
+      "Wider in the north and narrower toward the south",
+      "Narrower in the north and wider toward the south",
+      "Equal width from north to south",
+      "Wider in the south and narrower toward the north"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many landlocked countries are mentioned here in South America?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which two countries are mentioned here as landlocked in South America?",
+    "options": ["Bolivia and Paraguay", "Chile and Peru", "Brazil and Argentina", "Ecuador and Colombia"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which mountain range is described here as the world’s longest and located in South America?",
+    "options": ["Andes", "Himalayas", "Rockies", "Alps"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Andes mountain range length is given here as approximately how many kilometers?",
+    "options": ["7,200 km", "6,296 km", "6,690 km", "5,776 km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent is described here as the richest in water resources (जलस्रोतमा सबैभन्दा धनी)?",
+    "options": ["South America", "Africa", "Asia", "Europe"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which country is mentioned here as a coffee-producing country in South America?",
+    "options": ["Brazil", "Bolivia", "Paraguay", "Chile"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river is described here as the world’s second longest and largest, at about 6,296 km?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi–Missouri River"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the grasslands of South America calle ?",
+    "options": ["Pampas", "Prairie", "Savanna", "Steppe"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which desert is mentioned here as the largest desert of South America?",
+    "options": ["Patagonian (Chile) Desert", "Atacama Desert", "Sahara Desert", "Gobi Desert"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which lake is mentioned here as the highest-altitude lake in South America, located in Bolivia at about 3,810 m?",
+    "options": ["Lake Titicaca", "Lake Victoria", "Lake Superior", "Lake Baikal"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the largest country in South America by area?",
+    "options": ["Argentina", "Brazil", "Peru", "Chile"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the smallest country in South America by are ?",
+    "options": ["Guyana", "Uruguay", "Paraguay", "Suriname"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the most populous city in South Americ ?",
+    "options": ["Rio de Janeiro", "Buenos Aires", "Lima", "São Paulo"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the longest river in South America?",
+    "options": ["Paraná River", "Amazon River", "Orinoco River", "Magdalena River"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Andes mountain range extends across how many South American countrie ?",
+    "options": ["6", "7", "8", "5"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ancient civilization was centered in modern-day Per ?",
+    "options": ["Aztec", "Maya", "Olmec", "Inca"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Machu Picchu is located in which country?",
+    "options": ["Chile", "Colombia", "Bolivia", "Peru"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which country is famous for the annual Rio de Janeiro Carnival?",
+    "options": ["Argentina", "Brazil", "Venezuela", "Colombia"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Simón Bolívar, a key figure in South American independence, was born in which country?",
+    "options": ["Colombia", "Argentina", "Chile", "Venezuela"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Galápagos Islands, known for unique wildlife, belong to which country?",
+    "options": ["Ecuador", "Peru", "Colombia", "Chile"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which country is stated here to produce the most coffee in South America?",
+    "options": ["Colombia", "Brazil", "Peru", "Venezuela"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which countries are included in MERCOSUR as stated here?",
+    "options": [
+      "Brazil, Chile, Argentina, Venezuela",
+      "Brazil, Bolivia, Argentina, Chile",
+      "Brazil, Colombia, Peru, Ecuador",
+      "Brazil, Argentina, Paraguay, Uruguay"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which country is South America’s largest exporter of coppe ?",
+    "options": ["Argentina", "Bolivia", "Peru", "Chile"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which country has experienced severe economic crisis and hyperinflation in recent year ?",
+    "options": ["Ecuador", "Argentina", "Bolivia", "Venezuela"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Mendoza region is especially famous for wine production in which country?",
+    "options": ["Uruguay", "Chile", "Brazil", "Argentina"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the world’s driest non-polar desert located in South Americ ?",
+    "options": ["Atacama Desert", "Patagonian Desert", "Monte Desert", "Sechura Desert"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the world’s highest waterfall, located in Venezuel ?",
+    "options": ["Salto Grande", "Iguazu Falls", "Angel Falls", "Kaieteur Falls"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Amazon rainforest spreads across how many South American countrie ?",
+    "options": ["7", "9", "11", "5"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Nazca Lines archaeological site is located in which country?",
+    "options": ["Peru", "Chile", "Colombia", "Argentina"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the highest-altitude capital city in South Americ ?",
+    "options": ["Bogotá", "Quito", "Lima", "La Paz"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Antarctica extends between which latitude ?",
+    "options": ["66°S to 90°S", "56°S to 12°N", "39°N to 71°N", "10°S to 40°S"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Antarctica extends between which longitude ?",
+    "options": ["114°E to 153°E", "20°W to 160°W", "35°W to 80°W", "20°W to 50°E"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Antarctica is described here as being known as which kind of continent?",
+    "options": ["The youngest continent", "The most populated continent", "The driest continent", "The largest continent"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Antarctica is listed here as the ____ largest continent by area.",
+    "options": ["third", "fourth", "fifth", "sixth"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the area of Antarctica mentioned here?",
+    "options": ["13,000,000 sq km", "10,418,000 sq km", "24,320,000 sq km", "7,686,880 sq km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Antarctica is located mainly around which pole?",
+    "options": ["South Pole", "North Pole", "Equator", "Tropic of Capricorn"],
+    "correctIndex": 0
+  },
+  {
+    "question": "About what percentage of Antarctica is said here to be covered by ice year-round?",
+    "options": ["98%", "70%", "50%", "30%"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Antarctica is stated here to be the most recently discovered continent.",
+    "options": ["True", "False", "Not mentioned", "Both true and false"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which two seas are stated here to extend into Antarctica?",
+    "options": ["Weddell Sea and Ross Sea", "Red Sea and Black Sea", "Arabian Sea and Caspian Sea", "Mediterranean Sea and Baltic Sea"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is stated here as the world’s longest glacier (400 km) located in Antarctica?",
+    "options": ["Lambert Glacier", "Bering Glacier", "Khumbu Glacier", "Dojampa Glacier"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Antarctica’s highest mountain range/peak is stated here as which one?",
+    "options": ["Vinson Massif", "Mount Erebus", "Mount Sidley", "Mount Berlin"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What height is given here for Vinson Massif?",
+    "options": ["4,892 m", "4,897 m", "5,642 m", "6,194 m"],
+    "correctIndex": 0
+  },
+  {
+    "question": "In which year did a new international provision get signe  to restrict mineral extraction in Antarctica for the next 50 years?",
+    "options": ["1991", "1983", "1967", "1872"],
+    "correctIndex": 0
+  },
+  {
+    "question": "On what date is this provision said to have been signe ?",
+    "options": ["23 June 1991", "1 March 1872", "1 January 1967", "23 June 1983"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many nations are stated here to have ratified the Antarctica provision mentioned?",
+    "options": ["12", "7", "9", "16"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the largest ice shelf in Antarctic ?",
+    "options": ["Larsen Ice Shelf", "Ronne Ice Shelf", "Ross Ice Shelf", "Amery Ice Shelf"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the highest peak in Antarctic ?",
+    "options": ["Mount Erebus", "Mount Sidley", "Mount Berlin", "Mount Vinson"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which treaty system is meant to keep Antarctica reserved for scientific and peaceful purposes?",
+    "options": [
+      "Antarctic Conservation Treaty",
+      "Antarctic Protection Act",
+      "Antarctic Treaty System",
+      "Antarctic Environmental Agreement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who was the first explorer to reach the South Pol ?",
+    "options": ["Robert Falcon Scott", "Roald Amundsen", "Ernest Shackleton", "James Cook"],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to the text, what is the main reason Antarctica is extremely cold?",
+    "options": [
+      "High altitude (altitude)",
+      "Lack of sunlight",
+      "High reflectivity of the ice-covered surface",
+      "Very far from the equator"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which species is considered a 'keystone' species in the Antarctic ecosyste ?",
+    "options": ["Penguin", "Seal", "Whale", "Krill"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Europe extends between which latitude ?",
+    "options": ["36°N to 71°N", "39°N to 71°N", "10°N to 80°N", "35°S to 37°N"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Europe extends between which longitude ?",
+    "options": ["20°W to 65°W", "20°W to 65°E", "35°W to 80°W", "25°E to 180°E"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which continent lies to the east of Europ ?",
+    "options": ["Africa", "Asia", "North America", "Australia"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ocean lies to the west of Europ ?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which ocean lies to the north of Europ ?",
+    "options": ["Arctic Ocean", "Indian Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which sea lies to the south of Europ ?",
+    "options": ["Red Sea", "Mediterranean Sea", "Black Sea", "Arabian Sea"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Europe is described here as which of the following?",
+    "options": [
+      "The 6th largest continent and the 2nd smallest continent by area",
+      "The 2nd largest continent by area",
+      "The largest continent by area",
+      "The youngest continent by area"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the area of Europe mentioned here?",
+    "options": ["10,418,000 sq km", "10,498,000 sq km", "13,000,000 sq km", "17,798,500 sq km"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Europe is stated here to cover about what percentage of the world’s land area?",
+    "options": ["7%", "9%", "12%", "20%"],
+    "correctIndex": 0
+  },
+  {
+    "question": "A landform surrounded by water on three sides and land on one side is called what?",
+    "options": ["Peninsula", "Isthmus", "Archipelago", "Delta"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Europe is nicknamed the \"peninsula of peninsulas\" mainly because it is itself a peninsula and contains many peninsulas.",
+    "options": ["True", "False", "Not mentioned", "Both true and false"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river is mentioned as an international river flowing through 10 countries in Europe?",
+    "options": ["Danube", "Rhine", "Volga", "Seine"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is stated here as the longest mountain range in Europe?",
+    "options": ["Alps", "Atlas", "Andes", "Himalayas"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Europe’s highest peak is stated here as which one?",
+    "options": ["Mount Elbrus", "Mount Everest", "Vinson Massif", "Mount Kilimanjaro"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Europe and Asia together are collectively known as what?",
+    "options": ["Eurasia", "Afro-Eurasia", "Oceania", "Pangaea"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the world’s smallest country by area as stated here?",
+    "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What area is stated here for Vatican City?",
+    "options": ["0.44 sq km", "1.85 sq km", "7.00 sq km", "12.00 sq km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which grassland type is mentioned for Europe in this text?",
+    "options": ["Steppes", "Prairie", "Pampas", "Savanna"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is stated here as Europe’s largest river (4,506 km) and is in Russia?",
+    "options": ["Yenisei", "Danube", "Rhine", "Seine"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river is mentioned as Europe’s important river for trade, located in Germany?",
+    "options": ["Rhine", "Danube", "Volga", "Thames"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many landlocked countries are stated here to be in Europe?",
+    "options": ["16", "18", "12", "20"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country is mentioned here as Europe’s largest landlocked country?",
+    "options": ["Belarus", "Vatican City", "Austria", "Hungary"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which country is mentioned here as Europe’s smallest landlocked country?",
+    "options": ["Vatican City", "Belarus", "Austria", "Hungary"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the largest country in Europe by are ?",
+    "options": ["France", "Germany", "Russia", "Ukraine"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the smallest country in Europe by are ?",
+    "options": ["San Marino", "Monaco", "Liechtenstein", "Vatican City"],
+    "correctIndex": 3
+  },
+
+  {
+    "question": "Which is the most populous country in Europ ?",
+    "options": ["France", "United Kingdom", "Italy", "Germany"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the longest river in Europ ?",
+    "options": ["Danube", "Rhine", "Elbe", "Volga"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which mountain range forms a natural boundary between Europe and Asia?",
+    "options": ["Alps", "Pyrenees", "Ural Mountains", "Carpathians"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Renaissance began in which European country?",
+    "options": ["France", "Germany", "Spain", "Italy"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which European country is considered the birthplace of democracy?",
+    "options": ["Greece", "Italy", "Germany", "France"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which war was mainly fought from 1914 to 1918?",
+    "options": ["First World War", "Second World War", "Napoleonic Wars", "Crimean War"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which city is famous for the historic Colosseum?",
+    "options": ["Athens", "Paris", "Rome", "London"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country is famous for high-quality watches and banking?",
+    "options": ["Germany", "Switzerland", "France", "Italy"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In which city is the headquarters of the European Union (EU) located?",
+    "options": ["Berlin", "Paris", "Brussels", "Rome"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which currency is used by most countries of the European Union?",
+    "options": ["Pound Sterling", "Swiss Franc", "Swedish Krona", "Euro"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which European country is stated here to produce the most wine?",
+    "options": ["Italy", "Spain", "Germany", "France"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Where is the European Central Bank (ECB) located?",
+    "options": ["Berlin", "Frankfurt", "Paris", "Rome"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which European country is famous for fjords?",
+    "options": ["Sweden", "Finland", "Denmark", "Norway"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Pyrenees Mountains form a natural border between which two countries?",
+    "options": ["Spain and Portugal", "France and Germany", "France and Spain", "Italy and Switzerland"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sea lies between Italy and the Balkan Peninsula?",
+    "options": ["Baltic Sea", "North Sea", "Mediterranean Sea", "Adriatic Sea"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Lake Geneva is shared by which two countries?",
+    "options": ["Germany and Switzerland", "France and Switzerland", "Italy and Switzerland", "Austria and Switzerland"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Alps are mainly located in which two countrie ?",
+    "options": ["France and Italy", "Germany and Austria", "Switzerland and Austria", "Italy and Switzerland"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which country is famous for tulips and windmills?",
+    "options": ["Belgium", "Netherlands", "Denmark", "Sweden"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which European city is famous for canals and gondola rides?",
+    "options": ["Amsterdam", "Venice", "Copenhagen", "Stockholm"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Eiffel Tower is in which country?",
+    "options": ["Spain", "Italy", "France", "Germany"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the capital city of the United Kingdom?",
+    "options": ["Edinburgh", "Dublin", "Cardiff", "London"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Oktoberfest is most famously associated with which country?",
+    "options": ["Austria", "Belgium", "Germany", "Switzerland"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Acropolis and Parthenon are famous landmarks of which country?",
+    "options": ["Italy", "Greece", "Turkey", "Cyprus"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the capital city of Spain?",
+    "options": ["Barcelona", "Seville", "Madrid", "Valencia"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which European country is stated here to have received the most Nobel Prizes?",
+    "options": ["Germany", "United Kingdom", "France", "Sweden"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Transylvania is a historic region in which country?",
+    "options": ["Hungary", "Romania", "Bulgaria", "Serbia"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which city is famous for its strong ancient walls still surrounding the old town?",
+    "options": ["Rome", "York", "Dubrovnik", "Krakow"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is stated here to be the world’s northernmost human settlement?",
+    "options": ["Khatanga, Russia", "Cape Chelyuskin, Russia", "Longyearbyen, Norway", "Dixon, Russia"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Australia (Oceania) lies roughly between which latitude ?",
+    "options": ["50°N to 50°S", "10°S to 40°S", "50°S to 50°S", "66°S to 90°S"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Australia (continent) lies roughly between which longitude ?",
+    "options": ["35°W to 80°W", "114°E to 123°E", "20°W to 50°E", "25°E to 180°E"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Australia is also known by which nicknam ?",
+    "options": ["Island continent", "Dark continent", "Old world", "Polar continent"],
+    "correctIndex": 0
+  },
+  {
+    "question": "This text states Australia is known as a continent with no ______?",
+    "options": ["deserts", "rivers", "active volcanoes", "mountains"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Australia is stated here to be world-leading in which activities?",
+    "options": ["Rice farming and tea production", "Sheep rearing and wool production", "Coffee production and oil export", "Silk production and fisheries"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who is stated here to have first carried out extensive study of Australia in 1779?",
+    "options": ["Amerigo Vespucci", "James Cook", "David Livingstone", "Roald Amundsen"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Politically Australia is considered one country, but geographically it is stated here to include how many countries?",
+    "options": ["7", "9", "12", "13"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the largest desert in Australia as stated here?",
+    "options": ["Great Victoria Desert", "Gibson Desert", "Simpson Desert", "Tanami Desert"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the longest river in Australia as stated here?",
+    "options": ["Cooper Creek", "Murray–Darling", "Murrumbidgee", "Darling River"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Murray–Darling river length is given here as approximately how many kilometers?",
+    "options": ["2,740 km", "6,240 km", "7,200 km", "1,400 km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the highest peak in Australia as stated here?",
+    "options": ["Mount Cook", "Mount Wilhelm", "Mount Kosciuszko", "Mount Elbrus"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country is the largest in the Australia continent by area?",
+    "options": ["New Zealand", "Papua New Guinea", "Australia", "Fiji"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the smallest country in the Australia continent by are ?",
+    "options": ["Nauru", "Tonga", "Vanuatu", "Tuvalu"],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to this set, which is the longest river in Australia?",
+    "options": ["Murray River", "Darling River", "Cooper Creek", "Murrumbidgee River"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Great Barrier Reef lies off the coast of which Australian stat ?",
+    "options": ["Western Australia", "Victoria", "Queensland", "New South Wales"],
+    "correctIndex": 2
+  },
+  {
+    "question": "In which year did Australia become a federal nation?",
+    "options": ["1788", "1901", "1851", "1921"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who are the indigenous people of New Zealan ?",
+    "options": ["Aboriginal Australians", "Maori", "Torres Strait Islanders", "Polynesians"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who designed the Sydney Opera House?",
+    "options": ["Frank Gehry", "Zaha Hadid", "Jørn Utzon", "Norman Foster"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which event is celebrated in Australia every year on January 26?",
+    "options": ["ANZAC Day", "Australia Day", "Boxing Day", "Labour Day"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Australia’s main financial/economic center is considered to be in which cit ?",
+    "options": ["Sydney", "Melbourne", "Perth", "Brisbane"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is stated here as Australia’s biggest export item?",
+    "options": ["Gold", "Coal", "Iron ore", "Wheat"],
+    "correctIndex": 2
+  },
+  {
+    "question": "As of 2023, which political party is stated here to be leading in Australia?",
+    "options": ["Liberal Party", "Labor Party", "National Party", "Greens Party"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Australian Stock Exchange (ASX) is located in which city?",
+    "options": ["Melbourne", "Sydney", "Canberra", "Brisbane"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which New Zealand city is known for geothermal activity and Maori culture?",
+    "options": ["Auckland", "Wellington", "Rotorua", "Christchurch"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the highest mountain in Australi ?",
+    "options": ["Mount Kosciuszko", "Mount Wilhelm", "Mount Cook", "Mount Elgon"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the largest desert in Australia according to this MCQ set?",
+    "options": ["Great Sandy Desert", "Gibson Desert", "Simpson Desert", "Tanami Desert"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Daintree Rainforest is in which Australian state?",
+    "options": ["Victoria", "Queensland", "New South Wales", "Western Australia"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the longest river in New Zealand?",
+    "options": ["Waikato River", "Clutha River", "Manawatu River", "Whanganui River"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which marine animal is stated here to be found only in Australian waters?",
+    "options": ["Great white shark", "Dugong", "Sea turtle", "Blue whale"],
+    "correctIndex": 1
+  },
+  {
+    "question": "On Australia’s coat of arms, which animal is shown along with the emu?",
+    "options": ["Koala", "Kangaroo", "Platypus", "Wombat"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the capital city of New Zealand?",
+    "options": ["Auckland", "Wellington", "Christchurch", "Hamilton"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which place is known as Australia’s \"Apple Island\"?",
+    "options": ["Fraser Island", "Kangaroo Island", "Tasmania", "Lord Howe Island"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Australian state is stated here to produce the most wine?",
+    "options": ["New South Wales", "Victoria", "Western Australia", "South Australia"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Melbourne Cup horse race is held in which city every year?",
+    "options": ["Sydney", "Melbourne", "Perth", "Brisbane"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which continent is known as the \"peninsula of peninsulas\" (प्रायद्विपहरुको पनि प्रायद्विप)?",
+    "options": ["Europe", "Africa", "Asia", "South America"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent is stated here as the 6th largest by area?",
+    "options": ["Antarctica", "Europe", "Australia", "South America"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which continent is associated with the Scandinavian Peninsula (स्केण्डेभिनियन टापु)?",
+    "options": ["Europe", "North America", "Asia", "Australia"],
+    "correctIndex": 0
+  },
+
+  {
+    "question": "What is the world’s highest mountain?",
+    "options": ["K2", "Mount Kilimanjaro", "Denali", "Mount Everest"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the highest mountain in Africa?",
+    "options": ["Mount Elgon", "Mount Kenya", "Mount Meru", "Mount Kilimanjaro"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the highest peak in North America?",
+    "options": ["Mount Whitney", "Denali (Mount McKinley)", "Mount Logan", "Mount Rainier"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the highest mountain in Europ ?",
+    "options": ["Mont Blanc", "Mount Elbrus", "Matterhorn", "Grossglockner"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the highest mountain in South America?",
+    "options": ["Mount Roraima", "Mount Aconcagua", "Mount Fitz Roy", "Mount Chimborazo"],
+    "correctIndex": 1
+  },
+
+  {
+    "question": "What is the world’s longest rive ?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the longest river in South America?",
+    "options": ["Orinoco River", "Paraná River", "Amazon River", "Magdalena River"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the longest river in North Americ ?",
+    "options": ["Colorado River", "Missouri River", "Mississippi River", "Yukon River"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the longest river in Europ ?",
+    "options": ["Danube River", "Rhine River", "Dniester River", "Volga River"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the longest river in Asi ?",
+    "options": ["Ganges River", "Mekong River", "Yellow River", "Yangtze River"],
+    "correctIndex": 3
+  },
+
+  {
+    "question": "What is the world’s largest deser ?",
+    "options": ["Gobi Desert", "Sahara Desert", "Arabian Desert", "Antarctic Desert"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the world’s largest hot deser ?",
+    "options": ["Gobi Desert", "Sahara Desert", "Arabian Desert", "Kalahari Desert"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the largest desert in North Americ ?",
+    "options": ["Mojave Desert", "Sonoran Desert", "Chihuahuan Desert", "Great Basin Desert"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the largest desert in Australi ?",
+    "options": ["Simpson Desert", "Great Victoria Desert", "Great Sandy Desert", "Gibson Desert"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the largest desert in South Americ ?",
+    "options": ["Atacama Desert", "Patagonian Desert", "Sechura Desert", "Monte Desert"],
+    "correctIndex": 1
+  },
+
+  {
+    "question": "Which is the world’s largest lake by surface are ?",
+    "options": ["Lake Superior", "Caspian Sea", "Lake Victoria", "Lake Baikal"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the largest freshwater lake in North America by surface area?",
+    "options": ["Lake Huron", "Lake Michigan", "Lake Ontario", "Lake Superior"],
+    "correctIndex": 3
+  },
+
+  {
+    "question": "Who performs the traditional war dance called Haka?",
+    "options": ["Aboriginal Australians", "Maori", "Torres Strait Islanders", "Polynesians"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Australia’s famous Harbour Bridge is in which city?",
+    "options": ["Melbourne", "Brisbane", "Perth", "Sydney"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which unusual animal found in Australia lays egg ?",
+    "options": ["Koala", "Platypus", "Kangaroo", "Wombat"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which island country lies to the southeast of Australia and is part of the continen ?",
+    "options": ["New Guinea", "Fiji", "New Zealand", "Samoa"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Uluru is also famously known as which sit ?",
+    "options": ["Great Barrier Reef", "Sydney Opera House", "Ayers Rock", "Blue Mountains"],
+    "correctIndex": 2
+  },
+
+  {
+    "question": "Which continent is described here as a polar continent, uninhabited, and an ice-sheet continent?",
+    "options": ["Antarctica", "Europe", "Australia", "Africa"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent is stated here to be the last discovered and the coldest?",
+    "options": ["Antarctica", "Europe", "Asia", "South America"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent is stated here to be the 5th largest by area?",
+    "options": ["Europe", "Antarctica", "South America", "Australia"],
+    "correctIndex": 1
+  },
+
+  {
+    "question": "Which continent is described here as the island continent and 'kangaroo continent'?",
+    "options": ["Australia", "Africa", "Asia", "Europe"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent is stated here to be the 7th (smallest) by area?",
+    "options": ["Australia", "Europe", "Antarctica", "South America"],
+    "correctIndex": 0
+  },
+
+  {
+    "question": "Which continent is described here as being crossed by the Equator and narrowing from north to south?",
+    "options": ["South America", "Europe", "Australia", "Antarctica"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent is stated here to be the 4th largest by area?",
+    "options": ["Europe", "South America", "Australia", "Antarctica"],
+    "correctIndex": 1
+  },
+
+  {
+    "question": "Which continent is described as a high plateau continent and also called the 'Dark/Black continent'?",
+    "options": ["Africa", "Asia", "Europe", "North America"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent is described here as the 'Zoo of the World' and having ethnic and linguistic diversity?",
+    "options": ["Africa", "Asia", "Europe", "Australia"],
+    "correctIndex": 0
+  },
+
+  {
+    "question": "Which continent is called the 'continent of diversity/contrasts' and is the largest by area?",
+    "options": ["Asia", "Africa", "Europe", "North America"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent is stated here to be the most populous and also called 'Home of Man'?",
+    "options": ["Asia", "Europe", "Australia", "South America"],
+    "correctIndex": 0
+  },
+
+  {
+    "question": "Which continent is known as the 'New World' and is in the Western Hemispher ?",
+    "options": ["North America", "Europe", "Asia", "Africa"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which continent is stated here to have no landlocked countries and is the 3rd largest by area?",
+    "options": ["North America", "Europe", "Asia", "Australia"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the largest lake in Afric ?",
+    "options": ["Lake Tanganyika", "Lake Malawi", "Lake Chad", "Lake Victoria"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the largest lake in South Americ ?",
+    "options": ["Lake Poopó", "Lake Maracaibo", "Lake Parime", "Lake Titicaca"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the largest lake in Europ ?",
+    "options": ["Lake Geneva", "Lake Vänern", "Lake Balaton", "Lake Ladoga"],
+    "correctIndex": 3
+  },
+
+  {
+    "question": "What is the deepest place in the world’s oceans?",
+    "options": ["Java Trench", "Mariana Trench", "Puerto Rico Trench", "Tonga Trench"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the deepest lake in the world?",
+    "options": ["Lake Superior", "Lake Vostok", "Lake Tanganyika", "Lake Baikal"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the deepest point in North Americ ?",
+    "options": ["Grand Canyon", "Eagle Mountain", "Badwater Basin", "Death Valley"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the deepest point in Afric ?",
+    "options": ["Lake Assal", "Danakil Depression", "Lake Tanganyika", "Qattara Depression"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the deepest point in South Americ ?",
+    "options": ["Atacama Trench", "Amazon Basin", "Valdes Peninsula", "Death Valley"],
+    "correctIndex": 0
+  },
+
+  {
+    "question": "What is the highest waterfall in the worl ?",
+    "options": ["Niagara Falls", "Angel Falls", "Victoria Falls", "Yosemite Falls"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the highest waterfall in Afric ?",
+    "options": ["Tugela Falls", "Victoria Falls", "Kalambo Falls", "Ouzoud Falls"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the highest waterfall in North Americ ?",
+    "options": ["Niagara Falls", "Yosemite Falls", "Ribbon Falls", "Multnomah Falls"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the highest waterfall in Europ ?",
+    "options": ["Rhine Falls", "Staubbach Falls", "Krimml Waterfalls", "Vinnufossen"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the highest waterfall in South Americ ?",
+    "options": ["Kaieteur Falls", "Iguazu Falls", "Angel Falls", "Gocta Falls"],
+    "correctIndex": 2
+  },
+
+  {
+    "question": "Which is the highest peak of Asia (as listed here), and what is its height?",
+    "options": [
+      "Kilimanjaro — 5,895 m",
+      "Everest — 8,848.86 m",
+      "McKinley — 6,194 m",
+      "Vinson Massif — 4,892 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the highest peak of Africa (as listed here), and what is its height?",
+    "options": [
+      "Kosciuszko — 2,228 m",
+      "Elbrus — 5,642 m",
+      "Kilimanjaro — 5,895 m",
+      "Aconcagua — 6,962 m"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the highest peak of North America (as listed here), and what is its country?",
+    "options": [
+      "McKinley — USA",
+      "Aconcagua — Argentina",
+      "Elbrus — Russia",
+      "Kosciuszko — Australia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the highest peak of South America (as listed here), and what is its height?",
+    "options": [
+      "Everest — 8,848.86 m",
+      "Aconcagua — 6,962 m",
+      "Elbrus — 5,642 m",
+      "McKinley — 6,194 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the highest peak of Europe (as listed here), and what is its country?",
+    "options": [
+      "Kilimanjaro — Tanzania",
+      "Elbrus — Russia",
+      "Kosciuszko — Australia",
+      "Vinson Massif — Antarctica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the highest peak of Australia (continent) listed here, and what is its height?",
+    "options": [
+      "Elbrus — 5,642 m",
+      "McKinley — 6,194 m",
+      "Aconcagua — 6,962 m",
+      "Kosciuszko — 2,228 m"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the highest peak of Antarctica listed here, and what is its height?",
+    "options": [
+      "Kosciuszko — 2,228 m",
+      "Everest — 8,848.86 m",
+      "Vinson Massif — 4,892 m",
+      "Kilimanjaro — 5,895 m"
+    ],
+    "correctIndex": 2
   }
+
 ]

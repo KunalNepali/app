@@ -195,7 +195,7 @@ class _QuizPageState extends State<QuizPage> {
                 borderRadius: BorderRadius.circular(20),
               ),
               child: const Text(
-                "Geography General Knowledge",
+                "Location General Knowledge",
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
             ),

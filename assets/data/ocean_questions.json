@@ -1,5 +1,6 @@
-[  {
-    "question": "Which is third largest ocean of worls?",
+[ 
+  {
+    "question": "Which is third largest ocean of world?",
     "options": [
       "Indian",
       "Pacific",
@@ -7,5 +8,949 @@
       "None"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "The water-covered part of Earth's surface is called what?",
+    "options": ["Continent", "Ocean", "Plateau", "Desert"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Approximately what percentage of Earth’s surface is covered by water?",
+    "options": ["29.2%", "45.31%", "70.8% (about 71%)", "81%"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Oceans cover approximately what percentage of Earth’s total water sphere (जलमण्डल)?",
+    "options": ["11.1%", "81%", "70.8%", "88.9%"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Seas, lakes, ponds, streams and rivers together cover about what percentage?",
+    "options": ["11.1%", "81%", "70.8%", "88.9%"],
+    "correctIndex": 0
+  },
+  {
+    "question": "In which hemisphere are land and water surfaces said to be nearly equal?",
+    "options": ["Northern Hemisphere", "Southern Hemisphere", "Eastern Hemisphere", "Western Hemisphere"],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the Southern Hemisphere, water surface is said to be about how many times greater than land surface?",
+    "options": ["About 2 times", "About 5 times", "About 10 times", "About 15 times"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which instrument is used to measure the depth of the ocean/sea?",
+    "options": ["Seismograph", "Fathometer", "Barometer", "Altimeter"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sunlight reaches approximately how deep into the sea?",
+    "options": ["30 feet", "300 feet", "300 meters", "3,000 feet"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ocean is also called the \"Sea of Atlas\" (एटलसको सागर)?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "correctIndex": 1
+  },
+
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Southern Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The deepest place on Earth is located in which ocean?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the deepest place in the Pacific Ocean?",
+    "options": ["Tonga Trench", "Mariana Trench", "Kermadec Trench", "Java Trench"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following countries does NOT lie on the Pacific Ocean coast?",
+    "options": ["Japan", "Chile", "Canada", "Egypt"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which island group is located in the Pacific Ocean?",
+    "options": ["Caribbean Islands", "Maldives", "Hawaiian Islands", "Canary Islands"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which major ocean current flows in the Pacific Ocean?",
+    "options": ["Gulf Stream", "Kuroshio (Karushio) Current", "Benguela Current", "Canary Current"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which major city is located on the Pacific coast?",
+    "options": ["New York City", "Mumbai", "Los Angeles", "Buenos Aires"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Most of the Pacific Ocean lies on which tectonic plate?",
+    "options": ["Eurasian Plate", "North American Plate", "Pacific Plate", "African Plate"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the event called when Pacific Ocean surface temperature periodically increases?",
+    "options": ["La Niña", "El Niño", "North Atlantic Oscillation", "Indian Ocean Dipole"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the largest island in the Pacific Ocean?",
+    "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sea lies within the Pacific Ocean?",
+    "options": ["Red Sea", "Mediterranean Sea", "South China Sea", "Baltic Sea"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which volcanic island chain in the Pacific includes 135+ islands?",
+    "options": ["Aleutian Islands", "Galápagos Islands", "Hawaiian Islands", "Maldives"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following animals is NOT native to the Pacific Ocean?",
+    "options": ["Blue Whale", "Great White Shark", "Emperor Penguin", "Sea Otter"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who is credited with first crossing the Pacific Ocean?",
+    "options": ["Christopher Columbus", "Ferdinand Magellan", "James Cook", "Vasco da Gama"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a major economic activity in the Pacific Ocean?",
+    "options": ["Oil drilling", "Fishing", "Coal mining", "Timber harvesting"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the world’s largest coral reef system located in the Pacific region?",
+    "options": ["Great Barrier Reef", "Red Sea Coral Reef", "Belize Barrier Reef", "Andros Coral Reef"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which major Pacific geologic feature is associated with volcanic activity?",
+    "options": ["Mid-Atlantic Ridge", "Ring of Fire", "Mariana Trench", "Abyssal Plain"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which U.S. state lies in the Pacific Ocean?",
+    "options": ["Florida", "Hawaii", "Alaska", "California"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main cause of tsunamis in the Pacific Ocean?",
+    "options": ["Hurricanes", "Underwater earthquakes", "Volcanic eruptions", "Wind patterns"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which line passes through the Pacific Ocean?",
+    "options": ["Prime Meridian", "Tropic of Cancer", "International Date Line", "Tropic of Capricorn"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a main reason for high biodiversity in the Pacific Ocean?",
+    "options": ["High nutrient levels", "Stable temperatures", "Large area and diverse habitats", "High salinity"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Pacific Ocean current affects the weather of South America’s west coast?",
+    "options": ["Gulf Stream", "Kuroshio Current", "Humboldt Current", "North Equatorial Current"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the Pacific Ocean Garbage Patch mainly?",
+    "options": ["Fishing ground", "Marine biodiversity hotspot", "Accumulation zone for oceanic debris", "Coral reef preservation area"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country in the Pacific region is stated here to have no permanent army?",
+    "options": ["Japan", "New Zealand", "Papua New Guinea", "Costa Rica"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ocean is surrounded by Africa in West and Australia in East",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Southern Ocean", "Indian Ocean"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the second-largest ocean on Earth?",
+    "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ocean touches the eastern coast of the United States?",
+    "options": ["Indian Ocean", "Pacific Ocean", "Arctic Ocean", "Atlantic Ocean"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which country does NOT border the Atlantic Ocean?",
+    "options": ["Brazil", "Spain", "Canada", "Australia"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the deepest location in the Atlantic Ocean?",
+    "options": ["Mariana Trench", "Tonga Trench", "Java Trench", "Puerto Rico Trench"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which major ocean current flows northward along the eastern coast of the United States?",
+    "options": ["Gulf Stream", "Kuroshio Current", "Benguela Current", "Canary Current"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which island group is located in the Atlantic Ocean?",
+    "options": ["Hawaiian Islands", "Maldives", "Caribbean Islands", "Galápagos Islands"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which major city is located on the Atlantic coast?",
+    "options": ["Los Angeles", "Mumbai", "New York City", "Buenos Aires"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Most of the Atlantic Ocean is stated here to lie on which tectonic plate?",
+    "options": ["Pacific Plate", "North American Plate", "Eurasian Plate", "Atlantic Plate"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which periodic warm-cold ocean-atmosphere effect is associated with the Atlantic Ocean?",
+    "options": ["El Niño", "La Niña", "North Atlantic Oscillation", "Indian Ocean Dipole"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the largest island in the Atlantic Ocean?",
+    "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which sea lies within the Atlantic Ocean?",
+    "options": ["Red Sea", "Mediterranean Sea", "Coral Sea", "Baltic Sea"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which Atlantic island chain is said here to include 700+ islands?",
+    "options": ["Aleutian Islands", "Galápagos Islands", "Hawaiian Islands", "Bahamas"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following animals is NOT native to the Atlantic Ocean?",
+    "options": ["Blue Whale", "Great White Shark", "Emperor Penguin", "Atlantic Puffin"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who is credited with discovering the Atlantic route toward the Americas?",
+    "options": ["Christopher Columbus", "Ferdinand Magellan", "James Cook", "Vasco da Gama"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which economic activity is important in the Atlantic Ocean?",
+    "options": ["Oil extraction", "Fishing", "Coal mining", "Timber harvesting"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which major Atlantic current is stated here as influencing Western Europe’s climate?",
+    "options": ["Great Barrier Reef", "North Atlantic Drift", "Gulf Stream", "Benguela Current"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which major Atlantic ocean-floor feature is linked to volcanic activity?",
+    "options": ["Mid-Atlantic Ridge", "Mariana Trench", "Ring of Fire", "Abyssal Plain"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which U.S. state is stated here to have a long Atlantic coastline?",
+    "options": ["California", "Hawaii", "Florida", "Alaska"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is stated here as the main cause of hurricanes in the Atlantic Ocean?",
+    "options": ["Underwater earthquakes", "Volcanic eruptions", "Wind patterns", "Very high sea-surface temperatures"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which longitude line passes through the Atlantic Ocean?",
+    "options": ["Prime Meridian", "Tropic of Cancer", "International Date Line", "Tropic of Capricorn"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is stated here as the main reason for high biodiversity in the Atlantic Ocean?",
+    "options": ["High nutrient levels", "Stable temperatures", "Large area and diverse habitats", "High salinity"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Atlantic current affects the climate of Africa’s west coast?",
+    "options": ["Gulf Stream", "Kuroshio Current", "Benguela Current", "North Equatorial Current"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main role of the Sargasso Sea in the Atlantic?",
+    "options": ["Fishing zone", "Marine biodiversity hub", "Ocean garbage accumulation zone", "Coral reef preservation area"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which Atlantic country is famous for major contributions to maritime trade and exploration?",
+    "options": ["Japan", "Portugal", "Papua New Guinea", "Costa Rica"],
+    "correctIndex": 1
+  },
+
+  {
+    "question": "Which ocean is described here as the third-largest ocean?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Arctic Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ocean is also known as the \"Ocean of Monsoon\" (मनसुनी महासागर)?",
+    "options": ["Arctic Ocean", "Atlantic Ocean", "Pacific Ocean", "Indian Ocean"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which ocean is also nicknamed the \"Oil Ocean\" (तेलको महासागर)?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Southern Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The winds originating from the Indian Ocean are called what?",
+    "options": ["Trade winds", "Westerlies", "Monsoon winds", "Polar winds"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following ports/cities are stated here to lie on the Indian Ocean?",
+    "options": [
+      "Mumbai, Kolkata, Chennai, Colombo",
+      "Tokyo, Shanghai, Bangkok, Manila",
+      "New York, Los Angeles, Miami, Boston",
+      "Lisbon, London, Paris, Berlin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Indian Ocean island is famous for unique biodiversity and lemurs?",
+    "options": ["Sri Lanka", "Seychelles", "Mauritius", "Madagascar"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which Indian Ocean island-country/group is famous for luxury resorts?",
+    "options": ["Bahamas", "Maldives", "Philippines", "Fiji"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who is credited with discovering the sea route to India across the Indian Ocean?",
+    "options": ["Christopher Columbus", "Ferdinand Magellan", "Vasco da Gama", "James Cook"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a major ocean current of the Indian Ocean?",
+    "options": ["Kuroshio Current", "Gulf Stream", "Canary Current", "Agulhas Current"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which seasonal wind brings heavy rain to South Asia?",
+    "options": ["Trade winds", "Westerlies", "Monsoon", "Cyclone"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which strait is located in/connected to the Indian Ocean region?",
+    "options": ["Gibraltar Strait", "Hormuz Strait", "Bering Strait", "Drake Passage"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country is historically famous for the spice trade in the Indian Ocean?",
+    "options": ["Japan", "Kenya", "India", "Australia"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is stated here as the main cause of tsunamis in the Indian Ocean?",
+    "options": ["Hurricanes", "Volcanic eruptions", "Underwater earthquakes", "Wind patterns"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which latitude line passes through the Indian Ocean?",
+    "options": ["Tropic of Cancer", "Equator", "Arctic Circle", "Antarctic Circle"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is stated here as the main reason for high biodiversity in Indian Ocean coral reefs?",
+    "options": ["High nutrient levels", "Stable temperatures", "High salinity", "Large area and diverse habitats"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the largest island in the Indian Ocean?",
+    "options": ["Madagascar", "Sri Lanka", "Maldives", "Sumatra"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which ocean has the warmest average temperatures?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which current flows westward from the Equator in the Indian Ocean?",
+    "options": ["Gulf Stream", "Agulhas Current", "North Equatorial Current", "Kuroshio Current"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which country does NOT border the Indian Ocean?",
+    "options": ["India", "Kenya", "Saudi Arabia", "Brazil"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which trench is located in the Indian Ocean?",
+    "options": ["Mariana Trench", "Tonga Trench", "Puerto Rico Trench", "Java Trench"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which major river flows into the Indian Ocean?",
+    "options": ["Amazon", "Ganga", "Mississippi", "Nile"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main economic activity in the Indian Ocean?",
+    "options": ["Timber extraction", "Fishing", "Coal mining", "Oil extraction"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ocean-atmosphere event is stated here to affect the Indian Ocean periodically?",
+    "options": ["El Niño", "La Niña", "North Atlantic Oscillation", "Indian Ocean Dipole"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which island nation is located in the Indian Ocean?",
+    "options": ["Japan", "Iceland", "Maldives", "Fiji"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sea is part of the Indian Ocean?",
+    "options": ["Mediterranean Sea", "Caribbean Sea", "Red Sea", "Baltic Sea"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Indian Ocean current affects the climate of Africa’s east coast?",
+    "options": ["Gulf Stream", "Kuroshio Current", "North Equatorial Current", "Agulhas Current"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main role of the Indian Ocean in global trade?",
+    "options": ["Oil extraction hub", "Fishing zone", "Major trade route", "Timber transport zone"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Indian Ocean country is noted here for large population and major maritime influence?",
+    "options": ["Maldives", "Sri Lanka", "Madagascar", "India"],
+    "correctIndex": 3
+  },
+
+  {
+    "question": "The Southern Ocean is also known by which name(s)?",
+    "options": ["Antarctic Ocean only", "South Polar Ocean only", "Austral Ocean only", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Southern Ocean connects with which oceans?",
+    "options": ["Pacific Ocean only", "Atlantic Ocean only", "Indian Ocean only", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the powerful circular current in the Southern Ocean?",
+    "options": ["Gulf Stream", "Kuroshio Current", "Antarctic Circumpolar Current", "Agulhas Current"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which continent is surrounded by the Southern Ocean?",
+    "options": ["Africa", "Australia", "Antarctica", "South America"],
+    "correctIndex": 2
+  },
+  {
+    "question": "In which year did the International Hydrographic Organization (IHC) officially recognize the Southern Ocean?",
+    "options": ["1919", "1937", "2000", "191"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which major treaty is stated here to protect the Southern Ocean’s environment and ecology?",
+    "options": ["Montreal Protocol", "Antarctic Treaty", "Kyoto Protocol", "Paris Agreement"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of water is mainly found in the Southern Ocean?",
+    "options": ["Fresh water", "Brackish water", "Salty water", "Mineral water"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main reason for high productivity and biodiversity in the Southern Ocean?",
+    "options": ["Warm temperatures", "High nutrient levels", "High salinity", "Shallow depth"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which species is commonly found in the Southern Ocean?",
+    "options": ["Polar bear", "Emperor penguin", "Kangaroo", "Leopard seal"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is stated here as the major threat to marine life in the Southern Ocean?",
+    "options": ["Overfishing", "Oil spills", "Climate change", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the southernmost point of the Southern Ocean?",
+    "options": ["Cape Horn", "South Pole", "Cape of Good Hope", "Drake Passage"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which oceanographic feature is found on the boundary of the Southern Ocean?",
+    "options": ["Mid-Atlantic Ridge", "Ring of Fire", "Sub-Antarctic Front", "Mariana Trench"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of climate is dominant in the Southern Ocean?",
+    "options": ["Tropical", "Temperate", "Polar", "Desert"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which factor makes the Southern Ocean important in the global ocean conveyor belt?",
+    "options": ["Warm currents", "Cold currents", "Deep water formation", "Surface evaporation"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the role of the Southern Ocean in absorbing carbon dioxide?",
+    "options": ["Major source", "Minor sink", "Major absorber (sink)", "No role"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which whale species is commonly found in the Southern Ocean?",
+    "options": ["Blue whale", "Beluga whale", "Narwhal", "Gray whale"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of ice is commonly found in the Southern Ocean?",
+    "options": ["Sea ice", "Glacier ice", "Pack ice", "Iceberg"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main purpose of research stations in the Southern Ocean region?",
+    "options": ["Tourism", "Military activity", "Scientific research", "Commercial fishing"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the large flightless bird commonly found in the Southern Ocean region?",
+    "options": ["Albatross", "Puffin", "Emperor penguin", "Kiwi"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which major environmental issue is associated with the Southern Ocean?",
+    "options": ["Acid rain", "Coral bleaching", "Ozone layer depletion", "Deforestation"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the underwater mountain range spread in the Southern Ocean?",
+    "options": ["Mid-Atlantic Ridge", "East Pacific Rise", "Scotia Ridge", "Kermadec Ridge"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which marine mammal migrates to the Southern Ocean in summer for feeding?",
+    "options": ["Humpback whale", "Narwhal", "Dugong", "Manatee"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of algae plays an important role in the Southern Ocean ecosystem?",
+    "options": ["Red algae", "Green algae", "Diatoms", "Cyanobacteria"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which activities are stated here to be strictly regulated in the Southern Ocean?",
+    "options": ["Fishing and tourism", "Shipping operations", "Mineral mining", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the smallest ocean in the world by area?",
+    "options": [ "Indian Ocean", "Arctic Ocean","Atlantic Ocean", "Southern Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Arctic Ocean is located mainly around which pole?",
+    "options": [ "South Pole", "North Pole","Equator", "Tropic of Capricorn"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which continent does NOT border the Arctic Ocean?",
+    "options": ["Asia", "Europe", "North America", "South America"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following countries has a coastline on the Arctic Ocean?",
+    "options": ["Brazil", "South Africa", "Russia", "Australia"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an Arctic Ocean marginal sea?",
+    "options": ["Barents Sea", "Red Sea", "Arabian Sea", "Coral Sea"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which strait connects the Arctic Ocean and the Pacific Ocean?",
+    "options": ["Strait of Hormuz", "Strait of Malacca","Bering Strait",  "Drake Passage"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sea route becomes more accessible when Arctic sea ice melts in summer?",
+    "options": ["Suez Canal Route", "Panama Canal Route", "Cape of Good Hope Route", "Northern Sea Route"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which current carries relatively warm water into the Arctic region via the North Atlantic?",
+    "options": ["North Atlantic Drift", "Humboldt Current", "Kuroshio Current", "Benguela Current"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main reason the Arctic Ocean is covered with sea ice for much of the year?",
+    "options": [
+      "High salinity making water freeze quickly",
+      "Strong earthquakes under the ocean",
+      "Low solar angle and very cold temperatures",
+      "Very shallow depth everywhere"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which term best describes the ice that forms on the surface of the Arctic Ocean?",
+    "options": ["Glacier ice", "Sea ice", "Lava ice", "Permafrost"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which animal is commonly associated with the Arctic Ocean region?",
+    "options": ["Kangaroo","Polar bear",  "Giraffe", "Emperor penguin"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which marine mammal is well known in Arctic waters and uses tusks?",
+    "options": ["Dugong", "Manatee", "Sea otter", "Walrus"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Greenland is located in which ocean region?",
+    "options": ["Arctic Ocean region", "Indian Ocean region", "Southern Ocean region", "Pacific Ocean region"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which statement about the Arctic Ocean is correct?",
+    "options": [
+      "It is the deepest ocean on Earth",
+      "It is the shallowest of the world’s oceans on average",
+      "It contains the Mariana Trench",
+      "It surrounds Antarctica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which environmental issue is strongly linked to the Arctic Ocean today?",
+    "options": [ "Monsoon failure", "Desertification of the Sahara", "Sea ice decline due to global warming","Volcanic winter"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which international body is mainly responsible for cooperation among Arctic states and indigenous peoples?",
+    "options": ["Arctic Council", "European Union", "OPEC", "NATO"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an indigenous people group of the Arctic region?",
+    "options": ["Maori", "Zulu", "Maya", "Inuit"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which ocean lies south of the Arctic Ocean?",
+    "options": ["Southern Ocean","Atlantic Ocean",  "Indian Ocean", "None—Arctic touches only land"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the central Arctic Ocean region around the North Pole that remains covered by sea ice for long periods?",
+    "options": ["Coral triangle", "Sargasso Sea", "Mid-Atlantic Ridge", "Polar ice cap"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following resources is often discussed in relation to the Arctic Ocean seabed?",
+    "options": ["Oil and natural gas", "Coal deposits in deserts", "Gold reefs in tropical seas", "Coffee plantations"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the biggest island in Atlantic Ocean?",
+    "options": ["Iceland", "Greenland", "Great Britian", "New Foundland"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the deepest place in Atlantic Ocean?",
+    "options": ["Romanche Trench", "New Foundland","Puerto Rico Trench", "Molloy Deep"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the longest mountain range in Atlantic Ocean?",
+    "options": ["Andes", "Alpas","Mid-Atlantic Ridge", "Rocky Mountain"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the largest bay in Atlantic Ocean?",
+    "options": ["Bay of Biscay", "Chesapeake Bay","Bay Of Fundy", "Hudson Bay"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the largest Gulf in Atlantic Ocean?",
+    "options": ["Gulf of Guinea", "Gulf of Bothnia","Gulf Of St. Lawrence", "Gulf of Mexico"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the biggest island in Pacific Ocean?",
+    "options": ["Greenland", "New Guinea", "Borneo", "Honshu"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the deepest place in Pacific Ocean?",
+    "options": ["Puerto Rico Trench", "Java Trench", "Mariana Trench", "Tonga Trench"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the longest mountain range in Pacific Ocean?",
+    "options": ["Mid-Atlantic Ridge", "East Pacific Rise", "Alps", "Andes"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the largest bay in Pacific Ocean?",
+    "options": ["Bay of Bengal", "Hudson Bay", "Gulf of California", "Gulf of Alaska"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the largest Gulf in Pacific Ocean?",
+    "options": ["Gulf of Thailand", "Gulf of Alaska", "Gulf of California", "Gulf of Guinea"],
+    "correctIndex": 1
+  },
+
+  {
+    "question": "Which is the biggest island in Indian Ocean?",
+    "options": ["Sri Lanka", "Madagascar", "Sumatra", "Maldives"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the deepest place in Indian Ocean?",
+    "options": ["Mariana Trench", "Puerto Rico Trench", "Java Trench", "Molloy Deep"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is the longest mountain range in Indian Ocean?",
+    "options": ["Mid-Atlantic Ridge", "Andes", "Himalayas", "Mid-Indian Ridge"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the largest bay in Indian Ocean?",
+    "options": ["Bay of Bengal", "Bay of Biscay", "Bay of Fundy", "Hudson Bay"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the largest Gulf in Indian Ocean?",
+    "options": ["Gulf of Mexico","Persian Gulf", "Gulf of Bothnia", "Gulf of St. Lawrence"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the biggest island in Arctic Ocean?",
+    "options": ["Iceland", "Greenland", "Svalbard", "Novaya Zemlya"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the deepest place in Arctic Ocean?",
+    "options": ["Molloy Deep", "Mariana Trench", "Puerto Rico Trench", "Java Trench"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the longest mountain range in Arctic Ocean?",
+    "options": ["Mid-Atlantic Ridge", "East Pacific Rise", "Andes", "Gakkel Ridge"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the largest bay in Arctic Ocean region?",
+    "options": ["Bay of Bengal", "Chesapeake Bay", "Bay of Biscay", "Baffin Bay"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the largest Gulf/Sea area connected to Arctic Ocean (commonly asked)?",
+    "options": ["Gulf of Alaska", "Barents Sea", "Gulf of Mexico", "Persian Gulf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the largest ocean in the world?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Approximately what percentage of Earth’s surface is covered by oceans?",
+    "options": ["50%", "60%", "70%", "80%"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ocean lies between Africa, Asia, Australia and the Western Hemisphere?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Southern Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the deepest part of the world’s oceans called?",
+    "options": ["Mariana Trench", "Puerto Rico Trench", "Java Trench", "Tonga Trench"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the second-largest ocean in the world?",
+    "options": ["Indian Ocean", "Southern Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ocean is famous for the \"Ring of Fire\" (active volcanoes and earthquake zone)?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Southern Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ocean surrounds Antarctica?",
+    "options": ["Arctic Ocean", "Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the warmest ocean?",
+    "options": ["Arctic Ocean", "Indian Ocean", "Southern Ocean", "Atlantic Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are the main causes of ocean currents?",
+    "options": ["Earth’s rotation", "Tides", "Wind patterns", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the saltiest ocean?",
+    "options": ["Arctic Ocean", "Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the smallest and shallowest ocean?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Southern Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the boundary current flowing along the eastern coast of the United States?",
+    "options": ["Kuroshio Current", "Gulf Stream", "Brazil Current", "East Australian Current"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In which ocean are the most coral reefs found?",
+    "options": ["Atlantic Ocean", "Arctic Ocean", "Indian Ocean", "Pacific Ocean"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the periodic warming of sea surface caused by ocean-atmosphere interaction called?",
+    "options": ["El Niño", "La Niña", "Monsoon", "Cyclone"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is the most powerful ocean current with the largest flow of water?",
+    "options": ["California Current", "Agulhas Current", "Antarctic Circumpolar Current", "Canary Current"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Bermuda Triangle is associated with which ocean?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are the two main types of ocean currents?",
+    "options": ["Surface currents and deep currents", "Warm currents and cold currents", "Fast currents and slow currents", "Salty currents and fresh currents"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The largest \"warm pool\" (largest warm water region) is in which ocean?",
+    "options": ["Atlantic Ocean", "Arctic Ocean", "Indian Ocean", "Pacific Ocean"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main cause of ocean tides?",
+    "options": ["Wind", "Earth’s rotation", "Moon’s gravity", "Sun’s gravity"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ocean is mostly affected by monsoon winds?",
+    "options": ["Pacific Ocean", "Indian Ocean", "Southern Ocean", "Arctic Ocean"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ocean is connected to the Mediterranean Sea through the Strait of Gibraltar?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Southern Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main cause of ocean gyres (Gyres) forming?",
+    "options": ["Ocean salinity", "Temperature differences", "Wind patterns", "Plate tectonics"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ocean basin is covered by thick ice layers in winter?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Southern Ocean"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ocean current carries warm water from the tropics and makes Western Europe warmer?",
+    "options": ["California Current", "Canary Current", "Gulf Stream", "Labrador Current"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the rise and fall of sea level caused by the gravitational pull of the Moon and the Sun called?",
+    "options": ["Waves", "Currents", "Tides", "Upwelling"],
+    "correctIndex": 2
+  }, 
+  {
+    "question": "Which was the first country in the world to issue a one-million currency note?",
+    "options": ["Zimbabwe", "Venezuela", "Germany", "Japan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the first AI ship to cross the Atlantic Ocean?",
+    "options": ["Titanic II", "Mayflower 400", "SeaBot One", "Arctic Voyager"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where was the world’s first genetically modified rubber planted?",
+    "options": ["Kerala, India", "Assam, India", "Bangladesh", "Sri Lanka"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which was the first country to implement a 4.5-day workweek?",
+    "options": ["UAE", "Qatar", "Saudi Arabia", "Oman"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which place is stated here as the first to implement a 100% paperless system?",
+    "options": ["Singapore", "Dubai", "Estonia", "Sweden"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where was the first case of the new COVID variant Omicron reported?",
+    "options": ["India", "United Kingdom", "South Africa", "Brazil"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where was the first death from the COVID variant Omicron reported?",
+    "options": ["United States", "United Kingdom (UK)", "South Africa", "France"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which was the first country to grant legal rights to wildlife?",
+    "options": ["Ecuador", "Brazil", "Australia", "India"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which was the first country to implement a COVID-19 DNA vaccine?",
+    "options": ["United States", "China", "India", "Russia"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which was the first country to start dual-mode vehicles?",
+    "options": ["Germany", "Japan", "South Korea", "United Kingdom"],
+    "correctIndex": 1
   }
 ]

@@ -1,6 +1,7 @@
 import 'package:app/screens/history_page.dart';
+import 'package:app/screens/nepal_police_quiz.dart';
 import 'package:flutter/material.dart';
-import 'geography_page.dart';
+import 'package:app/screens/geography_page.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -98,6 +99,12 @@ class HomeCard extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(builder: (context) => const HistoryPage()),
+          );
+        }
+        if (item.title == "Nepal Police") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const NepalPolicePage()),
           );
         }
       },

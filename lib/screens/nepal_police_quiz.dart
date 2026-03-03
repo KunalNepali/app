@@ -3,14 +3,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class RiverStreamQuizPage extends StatefulWidget {
-  const RiverStreamQuizPage({Key? key}) : super(key: key);
+class NepalPolicePage extends StatefulWidget {
+  const NepalPolicePage({Key? key}) : super(key: key);
 
   @override
-  State<RiverStreamQuizPage> createState() => _RiverStreamQuizPageState();
+  State<NepalPolicePage> createState() => _NepalPolicePageState();
 }
 
-class _RiverStreamQuizPageState extends State<RiverStreamQuizPage> {
+class _NepalPolicePageState extends State<NepalPolicePage> {
   List questions = [];
   int currentIndex = 0;
   int? selectedIndex;
@@ -35,7 +35,7 @@ class _RiverStreamQuizPageState extends State<RiverStreamQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/river_stream_questions.json',
+      'assets/data/nepal_police_questions.json',
     );
     final data = json.decode(response);
 
@@ -195,7 +195,7 @@ class _RiverStreamQuizPageState extends State<RiverStreamQuizPage> {
                 borderRadius: BorderRadius.circular(20),
               ),
               child: const Text(
-                "River Stream General Knowledge",
+                "Nepal Police General Knowledge",
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
             ),
@@ -208,7 +208,18 @@ class _RiverStreamQuizPageState extends State<RiverStreamQuizPage> {
               style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
 
-            const SizedBox(height: 25),
+            const SizedBox(height: 20),
+
+            // Optional Image (if exists)
+            if (question['image'] != null)
+              Padding(
+                padding: const EdgeInsets.only(bottom: 20),
+                child: Image.asset(
+                  question['image'],
+                  height: 120,
+                  fit: BoxFit.contain,
+                ),
+              ),
 
             // Options
             Expanded(
