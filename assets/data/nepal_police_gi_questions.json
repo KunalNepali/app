@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the max age of inspector for service?",
+    "options": [
+      "60 years",
+      "55 years",
+      "53 years",
+      "None"
+    ],
+    "correctIndex": 2
+  }
+]

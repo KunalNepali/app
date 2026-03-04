@@ -1,7 +1,7 @@
-import 'package:app/screens/constitution_page.dart';
+import 'package:app/screens/constitution_page.dart' as constitution;
 import 'package:app/screens/genetics_page.dart';
 import 'package:app/screens/history_page.dart';
-import 'package:app/screens/nepal_police_quiz.dart';
+import 'package:app/screens/nepal_pol_page.dart'; // ✅ import the correct file
 import 'package:flutter/material.dart';
 import 'package:app/screens/geography_page.dart';
 
@@ -106,13 +106,15 @@ class HomeCard extends StatelessWidget {
         if (item.title == "Nepal Police") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => const NepalPolicePage()),
+            MaterialPageRoute(builder: (context) => const NepalPolPage()),
           );
         }
         if (item.title == "Constitution") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => const ConstitutionPage()),
+            MaterialPageRoute(
+              builder: (context) => const constitution.ConstitutionPage(),
+            ),
           );
         }
         if (item.title == "Genetics") {
