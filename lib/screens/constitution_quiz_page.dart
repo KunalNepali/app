@@ -3,21 +3,20 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class LakePondQuizPage extends StatefulWidget {
-  const LakePondQuizPage({super.key});
+class ConstitutionQuizPage extends StatefulWidget {
+  const ConstitutionQuizPage({super.key});
 
   @override
-  State<LakePondQuizPage> createState() => _LakePondQuizPageState();
+  State<ConstitutionQuizPage> createState() => _ConstitutionQuizPageState();
 }
 
-class _LakePondQuizPageState extends State<LakePondQuizPage> {
+class _ConstitutionQuizPageState extends State<ConstitutionQuizPage> {
   List questions = [];
   int currentIndex = 0;
   int? selectedIndex;
   bool answered = false;
 
   int score = 0;
-
   Timer? timer;
   int remainingSeconds = 59;
 
@@ -35,7 +34,7 @@ class _LakePondQuizPageState extends State<LakePondQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/lake_pond_questions.json',
+      'assets/data/constitution_questions.json',
     );
     final data = json.decode(response);
 
@@ -195,7 +194,7 @@ class _LakePondQuizPageState extends State<LakePondQuizPage> {
                 borderRadius: BorderRadius.circular(20),
               ),
               child: const Text(
-                "Lakes and Ponds General Knowledge",
+                "Constitution General Knowledge",
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
             ),

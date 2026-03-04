@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class QuizPage extends StatefulWidget {
-  const QuizPage({Key? key}) : super(key: key);
+  const QuizPage({super.key});
 
   @override
   State<QuizPage> createState() => _QuizPageState();

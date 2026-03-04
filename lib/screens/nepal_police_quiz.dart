@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class NepalPolicePage extends StatefulWidget {
-  const NepalPolicePage({Key? key}) : super(key: key);
+  const NepalPolicePage({super.key});
 
   @override
   State<NepalPolicePage> createState() => _NepalPolicePageState();

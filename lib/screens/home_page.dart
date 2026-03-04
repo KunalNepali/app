@@ -1,10 +1,11 @@
+import 'package:app/screens/constitution_page.dart';
 import 'package:app/screens/history_page.dart';
 import 'package:app/screens/nepal_police_quiz.dart';
 import 'package:flutter/material.dart';
 import 'package:app/screens/geography_page.dart';
 
 class HomePage extends StatelessWidget {
-  const HomePage({Key? key}) : super(key: key);
+  const HomePage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -83,7 +84,7 @@ class HomePage extends StatelessWidget {
 class HomeCard extends StatelessWidget {
   final HomeItem item;
 
-  const HomeCard({Key? key, required this.item}) : super(key: key);
+  const HomeCard({super.key, required this.item});
 
   @override
   Widget build(BuildContext context) {
@@ -105,6 +106,12 @@ class HomeCard extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(builder: (context) => const NepalPolicePage()),
+          );
+        }
+        if (item.title == "Constitution") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const ConstitutionPage()),
           );
         }
       },

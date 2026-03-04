@@ -2,7 +2,7 @@ import 'package:app/screens/history_quiz_page.dart';
 import 'package:flutter/material.dart';
 
 class HistoryPage extends StatelessWidget {
-  const HistoryPage({Key? key}) : super(key: key);
+  const HistoryPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -43,7 +43,7 @@ class HistoryPage extends StatelessWidget {
 class HistoryCard extends StatelessWidget {
   final HistoryItem item;
 
-  const HistoryCard({Key? key, required this.item}) : super(key: key);
+  const HistoryCard({super.key, required this.item});
 
   @override
   Widget build(BuildContext context) {

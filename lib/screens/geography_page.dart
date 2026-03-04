@@ -10,7 +10,7 @@ import 'package:app/screens/others_quiz_page.dart';
 import 'package:flutter/material.dart';
 
 class GeographyPage extends StatelessWidget {
-  const GeographyPage({Key? key}) : super(key: key);
+  const GeographyPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -55,7 +55,7 @@ class GeographyPage extends StatelessWidget {
 class GeoCard extends StatelessWidget {
   final GeoItem item;
 
-  const GeoCard({Key? key, required this.item}) : super(key: key);
+  const GeoCard({super.key, required this.item});
 
   @override
   Widget build(BuildContext context) {

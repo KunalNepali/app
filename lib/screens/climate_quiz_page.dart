@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class ClimateQuizPage extends StatefulWidget {
-  const ClimateQuizPage({Key? key}) : super(key: key);
+  const ClimateQuizPage({super.key});
 
   @override
   State<ClimateQuizPage> createState() => _ClimateQuizPageState();

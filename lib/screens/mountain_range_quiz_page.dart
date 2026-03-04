@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class MountainRangeQuizPage extends StatefulWidget {
-  const MountainRangeQuizPage({Key? key}) : super(key: key);
+  const MountainRangeQuizPage({super.key});
 
   @override
   State<MountainRangeQuizPage> createState() => _MountainRangeQuizPageState();

@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class RiverStreamQuizPage extends StatefulWidget {
-  const RiverStreamQuizPage({Key? key}) : super(key: key);
+  const RiverStreamQuizPage({super.key});
 
   @override
   State<RiverStreamQuizPage> createState() => _RiverStreamQuizPageState();

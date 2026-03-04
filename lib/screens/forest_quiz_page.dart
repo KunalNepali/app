@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class ForestQuizPage extends StatefulWidget {
-  const ForestQuizPage({Key? key}) : super(key: key);
+  const ForestQuizPage({super.key});
 
   @override
   State<ForestQuizPage> createState() => _ForestQuizPageState();
