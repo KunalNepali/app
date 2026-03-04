@@ -1,4 +1,5 @@
 import 'package:app/screens/constitution_page.dart';
+import 'package:app/screens/genetics_page.dart';
 import 'package:app/screens/history_page.dart';
 import 'package:app/screens/nepal_police_quiz.dart';
 import 'package:flutter/material.dart';
@@ -112,6 +113,12 @@ class HomeCard extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(builder: (context) => const ConstitutionPage()),
+          );
+        }
+        if (item.title == "Genetics") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const GeneticsPage()),
           );
         }
       },

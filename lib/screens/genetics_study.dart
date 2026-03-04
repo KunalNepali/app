@@ -1,16 +1,16 @@
 import 'package:app/screens/consitution_anusuchi_study.dart';
 import 'package:flutter/material.dart';
-import 'constitution_gi_study.dart';
+import 'genetics_gi_study.dart';
 
-class ConstitutionStudyPage extends StatelessWidget {
-  const ConstitutionStudyPage({Key? key}) : super(key: key);
+class GeneticsStudyPage extends StatelessWidget {
+  const GeneticsStudyPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("Constitution Study"),
+        title: const Text("Genetics Study"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -24,14 +24,13 @@ class ConstitutionStudyPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const ConstitutionGIPage(),
+                    builder: (context) => const GeneticsGIPage(),
                   ),
                 );
               },
               child: const StudyCard(
-                title: "संविधान: भाग, लेखन समिति, अनुसूची र विषयहरू",
-                content:
-                    "हालसम्म नेपालमा जारी भएका संविधानहरू, नेपालको संविधान लेखन समितिः अध्यक्ष र सदस्य सचिव, नेपालको वर्तमान संविधान : भाग र विषयहरु, नेपालको वर्तमान संविधान : अनुसूची र विषयहरु",
+                title: "General Information On Genetics",
+                content: "Gene, Genetics and Forensic",
               ),
             ),
             GestureDetector(
@@ -43,10 +42,6 @@ class ConstitutionStudyPage extends StatelessWidget {
                   ),
                 );
               },
-              child: const StudyCard(
-                title: "अनुसूची",
-                content: "अनुसूची १ - ९",
-              ),
             ),
           ],
         ),
