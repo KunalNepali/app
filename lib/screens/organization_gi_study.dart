@@ -2,14 +2,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class NepalPoliceGIPage extends StatefulWidget {
-  const NepalPoliceGIPage({Key? key}) : super(key: key);
+class OrganizationGIPage extends StatefulWidget {
+  const OrganizationGIPage({Key? key}) : super(key: key);
 
   @override
-  State<NepalPoliceGIPage> createState() => _NepalPoliceGIPageState();
+  State<OrganizationGIPage> createState() => _OrganizationGIPageState();
 }
 
-class _NepalPoliceGIPageState extends State<NepalPoliceGIPage> {
+class _OrganizationGIPageState extends State<OrganizationGIPage> {
   List<Map<String, dynamic>> data = [];
 
   @override
@@ -19,17 +19,19 @@ class _NepalPoliceGIPageState extends State<NepalPoliceGIPage> {
   }
 
   Future<void> loadData() async {
-    final String response = await rootBundle.loadString(
-      'assets/data/nepal_police_gi_questions.json',
-    );
+    try {
+      final String response = await rootBundle.loadString(
+        'assets/data/organization_gi_questions.json',
+      );
 
-    print(response); // check if JSON prints
+      final List<dynamic> decoded = json.decode(response);
 
-    final List<dynamic> decoded = json.decode(response);
-
-    setState(() {
-      data = decoded.cast<Map<String, dynamic>>();
-    });
+      setState(() {
+        data = decoded.cast<Map<String, dynamic>>();
+      });
+    } catch (e) {
+      debugPrint('Error loading JSON: $e');
+    }
   }
 
   // ---------------- SECTION BUILDER ----------------
@@ -149,7 +151,7 @@ class _NepalPoliceGIPageState extends State<NepalPoliceGIPage> {
     return Scaffold(
       backgroundColor: const Color(0xFFF4F6F8),
       appBar: AppBar(
-        title: const Text("Nepal Police Related Information"),
+        title: const Text("SAART, BIMTEC, NATO, INTERPOLE"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,

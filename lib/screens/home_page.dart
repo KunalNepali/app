@@ -2,6 +2,7 @@ import 'package:app/screens/constitution_page.dart' as constitution;
 import 'package:app/screens/genetics_page.dart';
 import 'package:app/screens/history_page.dart';
 import 'package:app/screens/nepal_pol_page.dart'; // ✅ import the correct file
+import 'package:app/screens/organization_page.dart';
 import 'package:flutter/material.dart';
 import 'package:app/screens/geography_page.dart';
 
@@ -121,6 +122,12 @@ class HomeCard extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(builder: (context) => const GeneticsPage()),
+          );
+        }
+        if (item.title == "Institution") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const OrganizationPage()),
           );
         }
       },
