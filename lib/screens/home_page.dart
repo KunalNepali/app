@@ -1,4 +1,6 @@
 import 'package:app/screens/constitution_page.dart' as constitution;
+import 'package:app/screens/development_page.dart';
+import 'package:app/screens/environment_page.dart';
 import 'package:app/screens/genetics_page.dart';
 import 'package:app/screens/history_page.dart';
 import 'package:app/screens/nepal_pol_page.dart'; // ✅ import the correct file
@@ -153,6 +155,18 @@ class HomeCard extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(builder: (context) => const UNPage()),
+          );
+        }
+        if (item.title == "Development") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const DevelopmentPage()),
+          );
+        }
+        if (item.title == "Environment") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const EnvironmentPage()),
           );
         }
       },
