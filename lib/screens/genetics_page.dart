@@ -1,5 +1,5 @@
-import 'package:app/screens/genetics_gi_study.dart';
-import 'package:app/screens/genetics_quiz_page.dart';
+import 'package:app/screens/genetics_quiz.dart';
+import 'package:app/screens/genetics_study.dart';
 import 'package:flutter/material.dart';
 
 class GeneticsPage extends StatelessWidget {
@@ -30,7 +30,7 @@ class GeneticsPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const GeneticsGIPage(),
+                    builder: (context) => const GeneticsStudyPage(),
                   ),
                 );
               },
@@ -45,7 +45,7 @@ class GeneticsPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const GeneticsQuizPage(),
+                    builder: (context) => const GeneticsQuizPartPage(),
                   ),
                 );
               },

@@ -1,6 +1,6 @@
+import 'package:app/screens/constitution_quiz.dart';
 import 'package:flutter/material.dart';
 import 'constitution_study.dart';
-import 'constitution_quiz_page.dart';
 
 class ConstitutionPage extends StatelessWidget {
   const ConstitutionPage({Key? key}) : super(key: key);
@@ -47,7 +47,7 @@ class ConstitutionPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const ConstitutionQuizPage(),
+                    builder: (context) => const ConstitutionQuizPartPage(),
                   ),
                 );
               },

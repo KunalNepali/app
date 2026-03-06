@@ -1,5 +1,6 @@
+import 'package:app/screens/environment_gi_study_pt1.dart';
+import 'package:app/screens/environment_gi_study_pt2.dart';
 import 'package:flutter/material.dart';
-import 'genetics_gi_study.dart';
 
 class GeneticsStudyPage extends StatelessWidget {
   const GeneticsStudyPage({Key? key}) : super(key: key);
@@ -23,24 +24,22 @@ class GeneticsStudyPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const GeneticsGIPage(),
+                    builder: (context) => const Environment1GIPage(),
                   ),
                 );
               },
-              child: const StudyCard(
-                title: "General Information On Genetics",
-                content: "Gene, Genetics and Forensic",
-              ),
+              child: const StudyCard(title: "Part 1", content: "Part-1 Notes"),
             ),
             GestureDetector(
               onTap: () {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const GeneticsGIPage(),
+                    builder: (context) => const Environment2GIPage(),
                   ),
                 );
               },
+              child: const StudyCard(title: "Part - 2 ", content: "Part - 2"),
             ),
           ],
         ),
