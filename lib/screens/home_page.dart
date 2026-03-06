@@ -3,6 +3,9 @@ import 'package:app/screens/genetics_page.dart';
 import 'package:app/screens/history_page.dart';
 import 'package:app/screens/nepal_pol_page.dart'; // ✅ import the correct file
 import 'package:app/screens/organization_page.dart';
+import 'package:app/screens/technology_page.dart';
+import 'package:app/screens/un_page.dart';
+import 'package:app/screens/world_news_page.dart';
 import 'package:flutter/material.dart';
 import 'package:app/screens/geography_page.dart';
 
@@ -37,7 +40,11 @@ class HomePage extends StatelessWidget {
         subtitle: "Computer, internet, etc",
         icon: "assets/icons/tech.png",
       ),
-      HomeItem(title: "UN", subtitle: "Missions", icon: "assets/icons/un.png"),
+      HomeItem(
+        title: "UN",
+        subtitle: "UN related Missions",
+        icon: "assets/icons/un.png",
+      ),
       HomeItem(
         title: "Institution",
         subtitle: "saarc, interpole, nato",
@@ -128,6 +135,24 @@ class HomeCard extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(builder: (context) => const OrganizationPage()),
+          );
+        }
+        if (item.title == "World News") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const WorldNewsPage()),
+          );
+        }
+        if (item.title == "Technology") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const TechnologyPage()),
+          );
+        }
+        if (item.title == "UN") {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const UNPage()),
           );
         }
       },
