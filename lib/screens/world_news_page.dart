@@ -1,4 +1,4 @@
-import 'package:app/screens/world_news_gi_study.dart';
+import 'package:app/screens/world_news_gi_study_pt1.dart';
 import 'package:app/screens/world_news_quiz_page.dart';
 import 'package:flutter/material.dart';
 
@@ -30,7 +30,7 @@ class WorldNewsPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const WorldNewsGIPage(),
+                    builder: (context) => const WorldNews1GIPage(),
                   ),
                 );
               },

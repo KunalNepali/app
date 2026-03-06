@@ -2,14 +2,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class WorldNewsGIPage extends StatefulWidget {
-  const WorldNewsGIPage({Key? key}) : super(key: key);
+class WorldNews1GIPage extends StatefulWidget {
+  const WorldNews1GIPage({Key? key}) : super(key: key);
 
   @override
-  State<WorldNewsGIPage> createState() => _WorldNewsGIPageState();
+  State<WorldNews1GIPage> createState() => _WorldNews1GIPageState();
 }
 
-class _WorldNewsGIPageState extends State<WorldNewsGIPage> {
+class _WorldNews1GIPageState extends State<WorldNews1GIPage> {
   List<Map<String, dynamic>> data = [];
 
   @override

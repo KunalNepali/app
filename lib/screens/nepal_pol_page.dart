@@ -1,5 +1,5 @@
-import 'package:app/screens/nepal_police_gi_study.dart';
-import 'package:app/screens/nepal_police_quiz.dart';
+import 'package:app/screens/nepal_police_parts_page.dart';
+import 'package:app/screens/nepal_police_quiz_page.dart';
 import 'package:flutter/material.dart';
 
 class NepalPolPage extends StatelessWidget {
@@ -30,7 +30,7 @@ class NepalPolPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const NepalPoliceGIPage(),
+                    builder: (context) => const NepalPolicePartsStudyPage(),
                   ),
                 );
               },
@@ -47,7 +47,7 @@ class NepalPolPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const NepalPolicePage(),
+                    builder: (context) => const NepalPoliceQuizPage(),
                   ),
                 );
               },

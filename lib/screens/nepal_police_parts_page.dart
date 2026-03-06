@@ -1,16 +1,16 @@
-import 'package:app/screens/technology1_quiz_page.dart';
-import 'package:app/screens/technology2_quiz_page.dart';
+import 'package:app/screens/nepal_police_gi_study.dart';
+import 'package:app/screens/nepal_police_gi_study1.dart';
 import 'package:flutter/material.dart';
 
-class TechnologyQuizPage extends StatelessWidget {
-  const TechnologyQuizPage({Key? key}) : super(key: key);
+class NepalPolicePartsStudyPage extends StatelessWidget {
+  const NepalPolicePartsStudyPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("Technology Quiz"),
+        title: const Text("Nepal Police Study"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -24,25 +24,22 @@ class TechnologyQuizPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const Tech1QuizPage(),
+                    builder: (context) => const NepalPoliceGIPage(),
                   ),
                 );
               },
-              child: const StudyCard(title: "Part 1", content: "Part-1 Quiz"),
+              child: const StudyCard(title: "Part 1", content: "Part-1 Notes"),
             ),
             GestureDetector(
               onTap: () {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const Tech2QuizPage(),
+                    builder: (context) => const NepalPolice1GIPage(),
                   ),
                 );
               },
-              child: const StudyCard(
-                title: "Part - 2",
-                content: "Part - 2 Quiz",
-              ),
+              child: const StudyCard(title: "Part - 2 ", content: "Part - 2"),
             ),
           ],
         ),
