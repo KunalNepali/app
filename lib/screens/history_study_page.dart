@@ -1,8 +1,8 @@
 import 'package:app/screens/history_quiz_page.dart';
 import 'package:flutter/material.dart';
 
-class HistoryMcqPage extends StatelessWidget {
-  const HistoryMcqPage({super.key});
+class HistoryStudyPage extends StatelessWidget {
+  const HistoryStudyPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -16,7 +16,7 @@ class HistoryMcqPage extends StatelessWidget {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("History Mcq"),
+        title: const Text("Study History Notes"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,

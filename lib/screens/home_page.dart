@@ -3,7 +3,7 @@ import 'package:app/screens/development_page.dart';
 import 'package:app/screens/environment_page.dart';
 import 'package:app/screens/genetics_page.dart';
 import 'package:app/screens/geography_study_mcq_page.dart';
-import 'package:app/screens/history_page.dart';
+import 'package:app/screens/history_study_mcq_page.dart';
 import 'package:app/screens/nepal_pol_page.dart'; // ✅ import the correct file
 import 'package:app/screens/organization_page.dart';
 import 'package:app/screens/technology_page.dart';
@@ -112,7 +112,9 @@ class HomeCard extends StatelessWidget {
         if (item.title == "History") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => const HistoryPage()),
+            MaterialPageRoute(
+              builder: (context) => const HistoryStudyMcqPage(),
+            ),
           );
         }
         if (item.title == "Nepal Police") {

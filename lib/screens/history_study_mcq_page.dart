@@ -1,16 +1,16 @@
-import 'package:app/screens/geography_quiz_page.dart';
-import 'package:app/screens/geography_study_page.dart';
+import 'package:app/screens/history_page.dart';
+import 'package:app/screens/history_study_page.dart';
 import 'package:flutter/material.dart';
 
-class GeographyStudyMcqPage extends StatelessWidget {
-  const GeographyStudyMcqPage({Key? key}) : super(key: key);
+class HistoryStudyMcqPage extends StatelessWidget {
+  const HistoryStudyMcqPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("Geography"),
+        title: const Text("History"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -30,7 +30,7 @@ class GeographyStudyMcqPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const GeographyQuizPage(),
+                    builder: (context) => const HistoryStudyPage(),
                   ),
                 );
               },
@@ -45,7 +45,7 @@ class GeographyStudyMcqPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const GeographyMcqPage(),
+                    builder: (context) => const HistoryMcqPage(),
                   ),
                 );
               },
