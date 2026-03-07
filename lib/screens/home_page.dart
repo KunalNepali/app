@@ -2,6 +2,7 @@ import 'package:app/screens/constitution_page.dart' as constitution;
 import 'package:app/screens/development_page.dart';
 import 'package:app/screens/environment_page.dart';
 import 'package:app/screens/genetics_page.dart';
+import 'package:app/screens/geography_study_mcq_page.dart';
 import 'package:app/screens/history_page.dart';
 import 'package:app/screens/nepal_pol_page.dart'; // ✅ import the correct file
 import 'package:app/screens/organization_page.dart';
@@ -9,7 +10,6 @@ import 'package:app/screens/technology_page.dart';
 import 'package:app/screens/un_page.dart';
 import 'package:app/screens/world_news_page.dart';
 import 'package:flutter/material.dart';
-import 'package:app/screens/geography_page.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -104,7 +104,9 @@ class HomeCard extends StatelessWidget {
         if (item.title == "Geography") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => const GeographyPage()),
+            MaterialPageRoute(
+              builder: (context) => const GeographyStudyMcqPage(),
+            ),
           );
         }
         if (item.title == "History") {

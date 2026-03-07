@@ -9,8 +9,8 @@ import 'package:app/screens/others_quiz_page.dart';
 
 import 'package:flutter/material.dart';
 
-class GeographyPage extends StatelessWidget {
-  const GeographyPage({super.key});
+class GeographyMcqPage extends StatelessWidget {
+  const GeographyMcqPage({super.key});
 
   @override
   Widget build(BuildContext context) {
