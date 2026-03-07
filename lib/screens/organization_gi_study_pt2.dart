@@ -2,14 +2,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class WorldNews2GIPage extends StatefulWidget {
-  const WorldNews2GIPage({Key? key}) : super(key: key);
+class Organization2GIPage extends StatefulWidget {
+  const Organization2GIPage({Key? key}) : super(key: key);
 
   @override
-  State<WorldNews2GIPage> createState() => _WorldNews2GIPageState();
+  State<Organization2GIPage> createState() => _Organization2GIPageState();
 }
 
-class _WorldNews2GIPageState extends State<WorldNews2GIPage> {
+class _Organization2GIPageState extends State<Organization2GIPage> {
   List<Map<String, dynamic>> data = [];
 
   @override
@@ -21,7 +21,7 @@ class _WorldNews2GIPageState extends State<WorldNews2GIPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/world_news_gi_questions.json',
+        'assets/data/organization_gi_questions.json',
       );
 
       final List<dynamic> decoded = json.decode(response);
@@ -151,7 +151,7 @@ class _WorldNews2GIPageState extends State<WorldNews2GIPage> {
     return Scaffold(
       backgroundColor: const Color(0xFFF4F6F8),
       appBar: AppBar(
-        title: const Text("Politics, social events, culture, economy,awards"),
+        title: const Text("SAARC, BIMSTEC, NATO, INTERPOLE"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,

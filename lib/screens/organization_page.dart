@@ -1,5 +1,5 @@
-import 'package:app/screens/organization_gi_study.dart';
 import 'package:app/screens/organization_quiz_page.dart';
+import 'package:app/screens/organization_study_parts.dart';
 import 'package:flutter/material.dart';
 
 class OrganizationPage extends StatelessWidget {
@@ -10,7 +10,7 @@ class OrganizationPage extends StatelessWidget {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("Genetics"),
+        title: const Text("Institutions"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -30,7 +30,7 @@ class OrganizationPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const OrganizationGIPage(),
+                    builder: (context) => const OrganizationStudyPartsPage(),
                   ),
                 );
               },
@@ -45,7 +45,7 @@ class OrganizationPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const OrganizationQuizPage(),
+                    builder: (context) => const OrganizationQuizPartPage(),
                   ),
                 );
               },

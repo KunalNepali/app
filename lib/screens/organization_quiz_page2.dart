@@ -3,14 +3,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class WorldNewsQuizPage extends StatefulWidget {
-  const WorldNewsQuizPage({super.key});
+class OrganizationQuizPage2 extends StatefulWidget {
+  const OrganizationQuizPage2({super.key});
 
   @override
-  State<WorldNewsQuizPage> createState() => _WorldNewsQuizPageState();
+  State<OrganizationQuizPage2> createState() => _OrganizationQuizPage2State();
 }
 
-class _WorldNewsQuizPageState extends State<WorldNewsQuizPage> {
+class _OrganizationQuizPage2State extends State<OrganizationQuizPage2> {
   List questions = [];
   int currentIndex = 0;
   int? selectedIndex;
@@ -34,7 +34,7 @@ class _WorldNewsQuizPageState extends State<WorldNewsQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/world_news_quiz_questions.json',
+      'assets/data/organization_quiz_questions.json',
     );
     final data = json.decode(response);
 
