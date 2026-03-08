@@ -33,6 +33,7 @@ class NepalPoliceQuizPage extends StatelessWidget {
               child: const StudyCard(
                 title: "यातायात व्यवस्था सम्बन्धित",
                 content: "Part-1 Quiz",
+                icon: "assets/icons/car_logo_.png",
               ),
             ),
             GestureDetector(
@@ -47,6 +48,7 @@ class NepalPoliceQuizPage extends StatelessWidget {
               child: const StudyCard(
                 title: "ट्राफिक संकेतहरु",
                 content: "Traffic Signs Quiz",
+                icon: "assets/icons/traffic_logo_.png",
               ),
             ),
             GestureDetector(
@@ -61,6 +63,7 @@ class NepalPoliceQuizPage extends StatelessWidget {
               child: const StudyCard(
                 title: "नेपाल प्रहरी इतिहास",
                 content: "History Quiz",
+                icon: "assets/icons/scroll.png",
               ),
             ),
             GestureDetector(
@@ -75,6 +78,7 @@ class NepalPoliceQuizPage extends StatelessWidget {
               child: const StudyCard(
                 title: "सांगठनिक संरचना ",
                 content: "नेपाल प्रहरी संरचना Quiz",
+                icon: "assets/icons/structure.png",
               ),
             ),
           ],
@@ -87,9 +91,14 @@ class NepalPoliceQuizPage extends StatelessWidget {
 class StudyCard extends StatelessWidget {
   final String title;
   final String content;
+  final String icon;
 
-  const StudyCard({Key? key, required this.title, required this.content})
-    : super(key: key);
+  const StudyCard({
+    Key? key,
+    required this.title,
+    required this.content,
+    required this.icon,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -100,15 +109,27 @@ class StudyCard extends StatelessWidget {
         color: Colors.grey.shade300,
         borderRadius: BorderRadius.circular(20),
       ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
+      child: Row(
         children: [
-          Text(
-            title,
-            style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+          Image.asset(icon, width: 45, height: 45),
+          const SizedBox(width: 14),
+
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  title,
+                  style: const TextStyle(
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+                const SizedBox(height: 8),
+                Text(content),
+              ],
+            ),
           ),
-          const SizedBox(height: 10),
-          Text(content),
         ],
       ),
     );
