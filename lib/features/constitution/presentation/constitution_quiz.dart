@@ -1,5 +1,5 @@
-import 'package:app/screens/constitution_quiz_page.dart';
-import 'package:app/screens/constitution_quiz_page2.dart';
+import 'constitution_quiz_page.dart';
+import 'constitution_quiz_page2.dart';
 import 'package:flutter/material.dart';
 
 class ConstitutionQuizPartPage extends StatelessWidget {

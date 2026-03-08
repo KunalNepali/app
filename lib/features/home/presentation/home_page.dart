@@ -1,14 +1,15 @@
-import 'package:app/screens/constitution_page.dart' as constitution;
-import 'package:app/screens/development_page.dart';
-import 'package:app/screens/environment_page.dart';
-import 'package:app/screens/genetics_page.dart';
-import 'package:app/screens/geography_study_mcq_page.dart';
-import 'package:app/screens/history_study_mcq_page.dart';
-import 'package:app/screens/nepal_pol_page.dart'; // ✅ import the correct file
-import 'package:app/screens/organization_page.dart';
-import 'package:app/screens/technology_page.dart';
-import 'package:app/screens/un_page.dart';
-import 'package:app/screens/world_news_page.dart';
+import 'package:app/features/development/presentation/development_page.dart';
+import 'package:app/features/environment/presentation/environment_page.dart';
+import 'package:app/features/genetics/presentation/genetics_page.dart';
+import 'package:app/features/geography/presentation/geography_study_mcq_page.dart';
+import 'package:app/features/history/presentation/history_study_mcq_page.dart';
+import 'package:app/features/nepal_police/presentation/nepal_pol_page.dart';
+import 'package:app/features/organization/presentation/organization_page.dart';
+import 'package:app/features/technology/presentation/technology_page.dart';
+import 'package:app/features/un/presentation/un_page.dart';
+import 'package:app/features/world_news/presentation/world_news_page.dart';
+import 'package:app/features/constitution/presentation/constitution_page.dart'
+    as constitution;
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {

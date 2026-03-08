@@ -1,4 +1,4 @@
-import 'package:app/screens/consitution_anusuchi_study.dart';
+import 'constitution_anusuchi_study.dart';
 import 'package:flutter/material.dart';
 import 'constitution_gi_study.dart';
 
@@ -39,7 +39,7 @@ class ConstitutionStudyPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const ConstitutionAnusuchiPage(),
+                    builder: (context) => ConstitutionAnusuchiPage(),
                   ),
                 );
               },

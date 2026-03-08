@@ -1,4 +1,4 @@
-import 'package:app/screens/constitution_quiz.dart';
+import 'constitution_quiz.dart';
 import 'package:flutter/material.dart';
 import 'constitution_study.dart';
 
