@@ -3,14 +3,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class NepalPolicePage2 extends StatefulWidget {
-  const NepalPolicePage2({super.key});
+class NepalPolicePage5 extends StatefulWidget {
+  const NepalPolicePage5({super.key});
 
   @override
-  State<NepalPolicePage2> createState() => _NepalPolicePage2State();
+  State<NepalPolicePage5> createState() => _NepalPolicePage5State();
 }
 
-class _NepalPolicePage2State extends State<NepalPolicePage2> {
+class _NepalPolicePage5State extends State<NepalPolicePage5> {
   List questions = [];
   int currentIndex = 0;
   int? selectedIndex;
@@ -35,7 +35,7 @@ class _NepalPolicePage2State extends State<NepalPolicePage2> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/nepal_police_question_pt2.json',
+      'assets/data/nepal_police_question_pt5.json',
     );
     final data = json.decode(response);
 

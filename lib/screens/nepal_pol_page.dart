@@ -35,7 +35,6 @@ class NepalPolPage extends StatelessWidget {
                 );
               },
             ),
-
             const SizedBox(height: 20),
 
             // MCQ Quiz Button

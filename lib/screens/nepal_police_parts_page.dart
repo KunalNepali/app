@@ -1,5 +1,9 @@
-import 'package:app/screens/nepal_police_gi_study.dart';
 import 'package:app/screens/nepal_police_gi_study1.dart';
+import 'package:app/screens/nepal_police_gi_study2.dart';
+import 'package:app/screens/nepal_police_gi_study3.dart';
+import 'package:app/screens/nepal_police_gi_study4.dart';
+import 'package:app/screens/nepal_police_gi_study5.dart';
+import 'package:app/screens/nepal_police_gi_study6.dart';
 import 'package:flutter/material.dart';
 
 class NepalPolicePartsStudyPage extends StatelessWidget {
@@ -24,22 +28,84 @@ class NepalPolicePartsStudyPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const NepalPoliceGIPage(),
+                    builder: (context) => const NepalPolice1GIPage(),
                   ),
                 );
               },
-              child: const StudyCard(title: "Part 1", content: "Part-1 Notes"),
+              child: const StudyCard(
+                title: "ऐतिहासिक पृष्ठभूमि",
+                content: "UNIT - 1",
+              ),
             ),
             GestureDetector(
               onTap: () {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const NepalPolice1GIPage(),
+                    builder: (context) => const NepalPolice2GIPage(),
                   ),
                 );
               },
-              child: const StudyCard(title: "Part - 2 ", content: "Part - 2"),
+              child: const StudyCard(
+                title: " ट्राफिक प्रहरीको इतिहा",
+                content: "UNIT - 2",
+              ),
+            ),
+            GestureDetector(
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const NepalPolice3GIPage(),
+                  ),
+                );
+              },
+              child: const StudyCard(
+                title: "संगठनात्मक संरचना",
+                content: "UNIT - 3",
+              ),
+            ),
+            GestureDetector(
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const NepalPolice4GIPage(),
+                  ),
+                );
+              },
+              child: const StudyCard(
+                title: "Nepal Police Ranks",
+                content: "नेपाल प्रहरी (दर्ज्यानी चिह्न)",
+              ),
+            ),
+            GestureDetector(
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const NepalPolice5GIPage(),
+                  ),
+                );
+              },
+              child: const StudyCard(
+                title: "प्रहरीका प्रदेश कार्यालय",
+                content: "UNIT - 5",
+              ),
+            ),
+            GestureDetector(
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const NepalPolice6GIPage(),
+                  ),
+                );
+              },
+              child: const StudyCard(
+                title: "प्रहरीमा पहिलो व्यक्तित्वहरू",
+                content: "UNIT - 6",
+              ),
             ),
           ],
         ),

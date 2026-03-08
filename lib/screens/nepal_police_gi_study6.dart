@@ -2,14 +2,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class NepalPolice1GIPage extends StatefulWidget {
-  const NepalPolice1GIPage({Key? key}) : super(key: key);
+class NepalPolice6GIPage extends StatefulWidget {
+  const NepalPolice6GIPage({Key? key}) : super(key: key);
 
   @override
-  State<NepalPolice1GIPage> createState() => _NepalPolice1GIPageState();
+  State<NepalPolice6GIPage> createState() => _NepalPolice6GIPageState();
 }
 
-class _NepalPolice1GIPageState extends State<NepalPolice1GIPage> {
+class _NepalPolice6GIPageState extends State<NepalPolice6GIPage> {
   List<Map<String, dynamic>> data = [];
 
   @override
@@ -20,7 +20,7 @@ class _NepalPolice1GIPageState extends State<NepalPolice1GIPage> {
 
   Future<void> loadData() async {
     final String response = await rootBundle.loadString(
-      'assets/data/nepal_police_gi_questions1.json',
+      'assets/data/nepal_police_gi_questions6.json',
     );
 
     print(response); // check if JSON prints

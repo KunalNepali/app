@@ -2,14 +2,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class NepalPolice1GIPage extends StatefulWidget {
-  const NepalPolice1GIPage({Key? key}) : super(key: key);
+class NepalPolice4GIPage extends StatefulWidget {
+  const NepalPolice4GIPage({Key? key}) : super(key: key);
 
   @override
-  State<NepalPolice1GIPage> createState() => _NepalPolice1GIPageState();
+  State<NepalPolice4GIPage> createState() => _NepalPolice4GIPageState();
 }
 
-class _NepalPolice1GIPageState extends State<NepalPolice1GIPage> {
+class _NepalPolice4GIPageState extends State<NepalPolice4GIPage> {
   List<Map<String, dynamic>> data = [];
 
   @override
@@ -20,7 +20,7 @@ class _NepalPolice1GIPageState extends State<NepalPolice1GIPage> {
 
   Future<void> loadData() async {
     final String response = await rootBundle.loadString(
-      'assets/data/nepal_police_gi_questions1.json',
+      'assets/data/nepal_police_gi_questions4.json',
     );
 
     print(response); // check if JSON prints
@@ -51,6 +51,32 @@ class _NepalPolice1GIPageState extends State<NepalPolice1GIPage> {
                 fontWeight: FontWeight.bold,
                 color: Colors.deepPurple,
               ),
+            ),
+          );
+        case 'rank_list':
+          final items = List<Map<String, dynamic>>.from(section['items'] ?? []);
+
+          return Padding(
+            padding: const EdgeInsets.only(bottom: 18),
+            child: Column(
+              children: items.map((rank) {
+                return Padding(
+                  padding: const EdgeInsets.only(bottom: 14),
+                  child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                      Image.asset(rank['image'], width: 50, height: 50),
+                      const SizedBox(width: 12),
+                      Expanded(
+                        child: Text(
+                          rank['text'],
+                          style: const TextStyle(fontSize: 15, height: 1.6),
+                        ),
+                      ),
+                    ],
+                  ),
+                );
+              }).toList(),
             ),
           );
 

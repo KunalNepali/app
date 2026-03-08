@@ -50,7 +50,7 @@ class HomePage extends StatelessWidget {
       HomeItem(
         title: "Institution",
         subtitle: "saarc, interpole, nato",
-        icon: "assets/icons/interpole.png",
+        icon: "assets/icons/saarc.png",
       ),
       HomeItem(
         title: "World News",

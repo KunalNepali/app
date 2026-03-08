@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Unit 4: नेपाल प्रहरीका दर्जा (Ranks)",
+    "sections": [
+      {
+        "type": "heading",
+        "content": "नेपाल प्रहरीको पदक्रम"
+      },
+      {
+        "type": "rank_list",
+        "items": [
+          {
+            "text": "प्रहरी महानिरीक्षक – Inspector General of Police (IGP)",
+            "image": "assets/ranks/IGP_Rank.png"
+          },
+          {
+            "text": "प्रहरी अतिरिक्त महानिरीक्षक – Additional Inspector General (AIG)",
+            "image": "assets/ranks/AIGP_rank.png"
+          },
+          {
+            "text": "प्रहरी नायव महानिरीक्षक – Deputy Inspector General (DIG)",
+            "image": "assets/ranks/DIGP.png"
+          },
+          {
+            "text": "प्रहरी वरिष्ठ उपरीक्षक – Senior Superintendent of Police (SSP)",
+            "image": "assets/ranks/SSP.png"
+          },
+          {
+            "text": "प्रहरी उपरीक्षक – Superintendent of Police (SP)",
+            "image": "assets/ranks/SP.png"
+          },
+          {
+            "text": "प्रहरी नायव उपरीक्षक – Deputy Superintendent of Police (DSP)",
+            "image": "assets/ranks/DSP.png"
+          },
+          {
+            "text": "प्रहरी निरीक्षक – Inspector",
+            "image": "assets/ranks/Ins.png"
+          },
+          {
+            "text": "प्रहरी वरिष्ठ नायव निरीक्षक – Senior Sub-Inspector",
+            "image": "assets/ranks/senior_sub_ins.png"
+          },
+          {
+            "text": "प्रहरी नायव निरीक्षक – Sub-Inspector",
+            "image": "assets/ranks/sub_ins.png"
+          },
+          {
+            "text": "प्रहरी सहायक निरीक्षक – Assistant Sub-Inspector",
+            "image": "assets/ranks/ASI.png"
+          },
+          {
+            "text": "प्रहरी वरिष्ठ हवल्दार – Senior Head Constable",
+            "image": "assets/ranks/senior_hawaldar.png"
+          },
+          {
+            "text": "प्रहरी हवल्दार – Head Constable",
+            "image": "assets/ranks/hawaldar.png"
+          },
+          {
+            "text": "प्रहरी जवान – Constable",
+            "image": "assets/ranks/jawan.png"
+          }
+        ]
+      }
+    ]
+  }
+]
