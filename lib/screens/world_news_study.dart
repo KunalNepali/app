@@ -3,7 +3,7 @@ import 'package:app/screens/world_news_gi_study_pt2.dart';
 import 'package:flutter/material.dart';
 
 class WorldNewsStudyPage extends StatelessWidget {
-  const WorldNewsStudyPage({Key? key}) : super(key: key);
+  const WorldNewsStudyPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -52,8 +52,7 @@ class StudyCard extends StatelessWidget {
   final String title;
   final String content;
 
-  const StudyCard({Key? key, required this.title, required this.content})
-    : super(key: key);
+  const StudyCard({super.key, required this.title, required this.content});
 
   @override
   Widget build(BuildContext context) {

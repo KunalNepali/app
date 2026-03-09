@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class GeneticsGIPage extends StatefulWidget {
-  const GeneticsGIPage({Key? key}) : super(key: key);
+  const GeneticsGIPage({super.key});
 
   @override
   State<GeneticsGIPage> createState() => _GeneticsGIPageState();
@@ -122,7 +122,7 @@ class _GeneticsGIPageState extends State<GeneticsGIPage> {
     return SingleChildScrollView(
       scrollDirection: Axis.horizontal,
       child: DataTable(
-        headingRowColor: MaterialStateProperty.all(Colors.grey.shade200),
+        headingRowColor: WidgetStateProperty.all(Colors.grey.shade200),
         columns: headers
             .map(
               (header) => DataColumn(

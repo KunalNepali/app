@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class UN1GIPage extends StatefulWidget {
-  const UN1GIPage({Key? key}) : super(key: key);
+  const UN1GIPage({super.key});
 
   @override
   State<UN1GIPage> createState() => _UN1GIPageState();
@@ -95,7 +95,7 @@ class _UN1GIPageState extends State<UN1GIPage> {
                   )
                   .toList(),
             );
-          }).toList(),
+          }),
         ],
       ),
     );
@@ -148,7 +148,7 @@ class _UN1GIPageState extends State<UN1GIPage> {
       child: SingleChildScrollView(
         scrollDirection: Axis.vertical,
         child: DataTable(
-          headingRowColor: MaterialStateProperty.all(Colors.grey.shade300),
+          headingRowColor: WidgetStateProperty.all(Colors.grey.shade300),
           columns: headers
               .map(
                 (header) => DataColumn(

@@ -5,7 +5,7 @@ import 'package:app/screens/nepal_police_quiz_third.dart';
 import 'package:flutter/material.dart';
 
 class NepalPoliceQuizPage extends StatelessWidget {
-  const NepalPoliceQuizPage({Key? key}) : super(key: key);
+  const NepalPoliceQuizPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -94,11 +94,11 @@ class StudyCard extends StatelessWidget {
   final String icon;
 
   const StudyCard({
-    Key? key,
+    super.key,
     required this.title,
     required this.content,
     required this.icon,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {

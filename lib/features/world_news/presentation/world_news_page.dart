@@ -3,7 +3,7 @@ import 'package:app/screens/world_news_study.dart';
 import 'package:flutter/material.dart';
 
 class WorldNewsPage extends StatelessWidget {
-  const WorldNewsPage({Key? key}) : super(key: key);
+  const WorldNewsPage({super.key});
 
   @override
   Widget build(BuildContext context) {

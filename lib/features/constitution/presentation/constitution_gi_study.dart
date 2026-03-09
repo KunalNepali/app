@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class ConstitutionGIPage extends StatefulWidget {
-  const ConstitutionGIPage({Key? key}) : super(key: key);
+  const ConstitutionGIPage({super.key});
 
   @override
   State<ConstitutionGIPage> createState() => _ConstitutionGIPageState();
@@ -95,7 +95,7 @@ class _ConstitutionGIPageState extends State<ConstitutionGIPage> {
                   )
                   .toList(),
             );
-          }).toList(),
+          }),
         ],
       ),
     );
@@ -148,7 +148,7 @@ class _ConstitutionGIPageState extends State<ConstitutionGIPage> {
       child: SingleChildScrollView(
         scrollDirection: Axis.vertical,
         child: DataTable(
-          headingRowColor: MaterialStateProperty.all(Colors.grey.shade300),
+          headingRowColor: WidgetStateProperty.all(Colors.grey.shade300),
           columns: headers
               .map(
                 (header) => DataColumn(

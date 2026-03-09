@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class NepalPoliceGIPage extends StatefulWidget {
-  const NepalPoliceGIPage({Key? key}) : super(key: key);
+  const NepalPoliceGIPage({super.key});
 
   @override
   State<NepalPoliceGIPage> createState() => _NepalPoliceGIPageState();
@@ -120,7 +120,7 @@ class _NepalPoliceGIPageState extends State<NepalPoliceGIPage> {
     return SingleChildScrollView(
       scrollDirection: Axis.horizontal,
       child: DataTable(
-        headingRowColor: MaterialStateProperty.all(Colors.grey.shade200),
+        headingRowColor: WidgetStateProperty.all(Colors.grey.shade200),
         columns: headers
             .map(
               (header) => DataColumn(

@@ -3,7 +3,7 @@ import 'package:app/screens/history_study_page.dart';
 import 'package:flutter/material.dart';
 
 class HistoryStudyMcqPage extends StatelessWidget {
-  const HistoryStudyMcqPage({Key? key}) : super(key: key);
+  const HistoryStudyMcqPage({super.key});
 
   @override
   Widget build(BuildContext context) {

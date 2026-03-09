@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class Technology2GIPage extends StatefulWidget {
-  const Technology2GIPage({Key? key}) : super(key: key);
+  const Technology2GIPage({super.key});
 
   @override
   State<Technology2GIPage> createState() => _Technology2GIPageState();
@@ -51,7 +51,7 @@ class _Technology2GIPageState extends State<Technology2GIPage> {
     return SingleChildScrollView(
       scrollDirection: Axis.horizontal,
       child: DataTable(
-        headingRowColor: MaterialStateProperty.all(Colors.grey.shade200),
+        headingRowColor: WidgetStateProperty.all(Colors.grey.shade200),
         columns: headers
             .map(
               (header) => DataColumn(
@@ -103,7 +103,7 @@ class _Technology2GIPageState extends State<Technology2GIPage> {
               child: Image.asset(
                 imagePath,
                 fit: BoxFit.contain,
-                errorBuilder: (_, __, ___) => const Padding(
+                errorBuilder: (_, _, _) => const Padding(
                   padding: EdgeInsets.all(16),
                   child: Text(
                     "Image not found",

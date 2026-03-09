@@ -3,7 +3,7 @@ import 'constitution_quiz_page2.dart';
 import 'package:flutter/material.dart';
 
 class ConstitutionQuizPartPage extends StatelessWidget {
-  const ConstitutionQuizPartPage({Key? key}) : super(key: key);
+  const ConstitutionQuizPartPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -55,8 +55,7 @@ class StudyCard extends StatelessWidget {
   final String title;
   final String content;
 
-  const StudyCard({Key? key, required this.title, required this.content})
-    : super(key: key);
+  const StudyCard({super.key, required this.title, required this.content});
 
   @override
   Widget build(BuildContext context) {

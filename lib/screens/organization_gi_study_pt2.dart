@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class Organization2GIPage extends StatefulWidget {
-  const Organization2GIPage({Key? key}) : super(key: key);
+  const Organization2GIPage({super.key});
 
   @override
   State<Organization2GIPage> createState() => _Organization2GIPageState();
@@ -122,7 +122,7 @@ class _Organization2GIPageState extends State<Organization2GIPage> {
     return SingleChildScrollView(
       scrollDirection: Axis.horizontal,
       child: DataTable(
-        headingRowColor: MaterialStateProperty.all(Colors.grey.shade200),
+        headingRowColor: WidgetStateProperty.all(Colors.grey.shade200),
         columns: headers
             .map(
               (header) => DataColumn(

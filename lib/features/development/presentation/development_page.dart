@@ -3,7 +3,7 @@ import 'package:app/screens/development_study.dart';
 import 'package:flutter/material.dart';
 
 class DevelopmentPage extends StatelessWidget {
-  const DevelopmentPage({Key? key}) : super(key: key);
+  const DevelopmentPage({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -3,7 +3,7 @@ import 'package:app/screens/geography_study_page.dart';
 import 'package:flutter/material.dart';
 
 class GeographyStudyMcqPage extends StatelessWidget {
-  const GeographyStudyMcqPage({Key? key}) : super(key: key);
+  const GeographyStudyMcqPage({super.key});
 
   @override
   Widget build(BuildContext context) {

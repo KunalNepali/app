@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class Environment2GIPage extends StatefulWidget {
-  const Environment2GIPage({Key? key}) : super(key: key);
+  const Environment2GIPage({super.key});
 
   @override
   State<Environment2GIPage> createState() => _Environment2GIPageState();
@@ -95,7 +95,7 @@ class _Environment2GIPageState extends State<Environment2GIPage> {
                   )
                   .toList(),
             );
-          }).toList(),
+          }),
         ],
       ),
     );
@@ -148,7 +148,7 @@ class _Environment2GIPageState extends State<Environment2GIPage> {
       child: SingleChildScrollView(
         scrollDirection: Axis.vertical,
         child: DataTable(
-          headingRowColor: MaterialStateProperty.all(Colors.grey.shade300),
+          headingRowColor: WidgetStateProperty.all(Colors.grey.shade300),
           columns: headers
               .map(
                 (header) => DataColumn(

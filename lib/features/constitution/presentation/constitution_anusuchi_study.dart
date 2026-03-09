@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class ConstitutionAnusuchiPage extends StatefulWidget {
-  const ConstitutionAnusuchiPage({Key? key}) : super(key: key);
+  const ConstitutionAnusuchiPage({super.key});
 
   @override
   State<ConstitutionAnusuchiPage> createState() =>
@@ -52,7 +52,7 @@ class _ConstitutionAnusuchiPageState extends State<ConstitutionAnusuchiPage> {
     return SingleChildScrollView(
       scrollDirection: Axis.horizontal,
       child: DataTable(
-        headingRowColor: MaterialStateProperty.all(Colors.grey.shade200),
+        headingRowColor: WidgetStateProperty.all(Colors.grey.shade200),
         columns: headers
             .map(
               (header) => DataColumn(
@@ -104,7 +104,7 @@ class _ConstitutionAnusuchiPageState extends State<ConstitutionAnusuchiPage> {
               child: Image.asset(
                 imagePath,
                 fit: BoxFit.contain,
-                errorBuilder: (_, __, ___) => const Padding(
+                errorBuilder: (_, _, _) => const Padding(
                   padding: EdgeInsets.all(16),
                   child: Text(
                     "Image not found",

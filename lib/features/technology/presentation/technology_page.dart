@@ -3,7 +3,7 @@ import 'package:app/screens/technology_study.dart';
 import 'package:flutter/material.dart';
 
 class TechnologyPage extends StatelessWidget {
-  const TechnologyPage({Key? key}) : super(key: key);
+  const TechnologyPage({super.key});
 
   @override
   Widget build(BuildContext context) {

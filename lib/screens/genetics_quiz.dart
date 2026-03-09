@@ -2,7 +2,7 @@ import 'package:app/screens/genetics_quiz_page.dart';
 import 'package:flutter/material.dart';
 
 class GeneticsQuizPartPage extends StatelessWidget {
-  const GeneticsQuizPartPage({Key? key}) : super(key: key);
+  const GeneticsQuizPartPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -54,8 +54,7 @@ class StudyCard extends StatelessWidget {
   final String title;
   final String content;
 
-  const StudyCard({Key? key, required this.title, required this.content})
-    : super(key: key);
+  const StudyCard({super.key, required this.title, required this.content});
 
   @override
   Widget build(BuildContext context) {

@@ -3,7 +3,7 @@ import 'package:app/screens/genetics_study.dart';
 import 'package:flutter/material.dart';
 
 class GeneticsPage extends StatelessWidget {
-  const GeneticsPage({Key? key}) : super(key: key);
+  const GeneticsPage({super.key});
 
   @override
   Widget build(BuildContext context) {
