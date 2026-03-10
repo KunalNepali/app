@@ -1,5 +1,5 @@
-import 'package:app/screens/history_page.dart';
-import 'package:app/screens/history_study_page.dart';
+import 'package:app/features/history/presentation/history_page.dart';
+import 'package:app/features/history/presentation/history_study_page.dart';
 import 'package:flutter/material.dart';
 
 class HistoryStudyMcqPage extends StatelessWidget {

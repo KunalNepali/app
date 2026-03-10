@@ -1,11 +1,11 @@
-import 'package:app/screens/climate_quiz_page.dart';
-import 'package:app/screens/continent_quiz_page.dart';
-import 'package:app/screens/forest_quiz_page.dart';
-import 'package:app/screens/mountain_range_quiz_page.dart';
-import 'package:app/screens/ocean_quiz_page.dart';
-import 'package:app/screens/river_stream_quiz_page.dart';
-import 'package:app/screens/quiz_page.dart';
-import 'package:app/screens/others_quiz_page.dart';
+import 'package:app/features/environment/presentation/climate_quiz_page.dart';
+import 'package:app/features/geography/presentation/continent_quiz_page.dart';
+import 'package:app/features/environment/presentation/forest_quiz_page.dart';
+import 'package:app/features/geography/presentation/mountain_range_quiz_page.dart';
+import 'package:app/features/geography/presentation/ocean_quiz_page.dart';
+import 'package:app/features/geography/presentation/river_stream_quiz_page.dart';
+import 'package:app/features/geography/presentation/quiz_page.dart';
+import 'package:app/features/geography/presentation/others_quiz_page.dart';
 
 import 'package:flutter/material.dart';
 

@@ -1,5 +1,5 @@
-import 'package:app/screens/genetics_quiz.dart';
-import 'package:app/screens/genetics_study.dart';
+import 'package:app/features/genetics/presentation/genetics_quiz.dart';
+import 'package:app/features/genetics/presentation/genetics_study.dart';
 import 'package:flutter/material.dart';
 
 class GeneticsPage extends StatelessWidget {

@@ -1,9 +1,9 @@
-import 'package:app/screens/nepal_police_gi_study1.dart';
-import 'package:app/screens/nepal_police_gi_study2.dart';
-import 'package:app/screens/nepal_police_gi_study3.dart';
-import 'package:app/screens/nepal_police_gi_study4.dart';
-import 'package:app/screens/nepal_police_gi_study5.dart';
-import 'package:app/screens/nepal_police_gi_study6.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_gi_study1.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_gi_study2.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_gi_study3.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_gi_study4.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_gi_study5.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_gi_study6.dart';
 import 'package:flutter/material.dart';
 
 class NepalPolicePartsStudyPage extends StatelessWidget {

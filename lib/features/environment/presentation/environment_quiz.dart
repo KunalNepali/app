@@ -1,15 +1,16 @@
-import 'package:app/screens/genetics_quiz_page.dart';
+import 'package:app/features/environment/presentation/environment1_quiz_page.dart';
+import 'package:app/features/environment/presentation/environment2_quiz_page.dart';
 import 'package:flutter/material.dart';
 
-class GeneticsQuizPartPage extends StatelessWidget {
-  const GeneticsQuizPartPage({super.key});
+class EnvironmentQuizPage extends StatelessWidget {
+  const EnvironmentQuizPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("Genetics Part Quiz"),
+        title: const Text("Environment Quiz"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -23,7 +24,7 @@ class GeneticsQuizPartPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const GeneticsQuizPage(),
+                    builder: (context) => const Environment1QuizPage(),
                   ),
                 );
               },
@@ -34,7 +35,7 @@ class GeneticsQuizPartPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const GeneticsQuizPage(),
+                    builder: (context) => const Environment2QuizPage(),
                   ),
                 );
               },

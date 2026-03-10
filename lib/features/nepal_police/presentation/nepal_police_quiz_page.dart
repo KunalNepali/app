@@ -1,7 +1,7 @@
-import 'package:app/screens/nepal_police_quiz.dart';
-import 'package:app/screens/nepal_police_quiz_fourth.dart';
-import 'package:app/screens/nepal_police_quiz_second.dart';
-import 'package:app/screens/nepal_police_quiz_third.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_quiz.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_quiz_fourth.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_quiz_second.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_quiz_third.dart';
 import 'package:flutter/material.dart';
 
 class NepalPoliceQuizPage extends StatelessWidget {

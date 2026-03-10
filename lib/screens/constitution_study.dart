@@ -1,6 +1,6 @@
 import 'package:app/features/constitution/presentation/constitution_anusuchi_study.dart';
 import 'package:flutter/material.dart';
-import 'constitution_gi_study.dart';
+import 'package:app/features/constitution/presentation/constitution_gi_study.dart';
 
 class ConstitutionStudyPage extends StatelessWidget {
   const ConstitutionStudyPage({super.key});

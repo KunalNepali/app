@@ -1,16 +1,16 @@
-import 'package:app/screens/un_gi_study_pt1.dart';
-import 'package:app/screens/un_gi_study_pt2.dart';
+import 'package:app/features/environment/presentation/environment_gi_study_pt1.dart';
+import 'package:app/features/environment/presentation/environment_gi_study_pt2.dart';
 import 'package:flutter/material.dart';
 
-class UNStudyPage extends StatelessWidget {
-  const UNStudyPage({super.key});
+class EnvironmentStudyPage extends StatelessWidget {
+  const EnvironmentStudyPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("UN Study"),
+        title: const Text("Environment Study"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -23,7 +23,9 @@ class UNStudyPage extends StatelessWidget {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => const UN1GIPage()),
+                  MaterialPageRoute(
+                    builder: (context) => const Environment1GIPage(),
+                  ),
                 );
               },
               child: const StudyCard(title: "Part 1", content: "Part-1 Notes"),
@@ -32,7 +34,9 @@ class UNStudyPage extends StatelessWidget {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => const UN2GIPage()),
+                  MaterialPageRoute(
+                    builder: (context) => const Environment2GIPage(),
+                  ),
                 );
               },
               child: const StudyCard(title: "Part - 2 ", content: "Part - 2"),

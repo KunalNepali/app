@@ -1,5 +1,5 @@
-import 'package:app/screens/un_quiz.dart';
-import 'package:app/screens/un_study.dart';
+import 'package:app/features/un/presentation/un_quiz.dart';
+import 'package:app/features/un/presentation/un_study.dart';
 import 'package:flutter/material.dart';
 
 class UNPage extends StatelessWidget {

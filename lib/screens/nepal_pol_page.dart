@@ -1,5 +1,5 @@
-import 'package:app/screens/nepal_police_parts_page.dart';
-import 'package:app/screens/nepal_police_quiz_page.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_parts_page.dart';
+import 'package:app/features/nepal_police/presentation/nepal_police_quiz_page.dart';
 import 'package:flutter/material.dart';
 
 class NepalPolPage extends StatelessWidget {

@@ -1,16 +1,15 @@
-import 'package:app/screens/technology_gi_study_pt1.dart';
-import 'package:app/screens/technology_gi_study_pt2.dart';
+import 'package:app/features/genetics/presentation/genetics_quiz_page.dart';
 import 'package:flutter/material.dart';
 
-class TechnologyStudyPage extends StatelessWidget {
-  const TechnologyStudyPage({super.key});
+class GeneticsQuizPartPage extends StatelessWidget {
+  const GeneticsQuizPartPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("Technology Study"),
+        title: const Text("Genetics Part Quiz"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -24,22 +23,25 @@ class TechnologyStudyPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const Technology1GIPage(),
+                    builder: (context) => const GeneticsQuizPage(),
                   ),
                 );
               },
-              child: const StudyCard(title: "Part 1", content: "Part-1 Notes"),
+              child: const StudyCard(title: "Part 1", content: "Part-1 Quiz"),
             ),
             GestureDetector(
               onTap: () {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const Technology2GIPage(),
+                    builder: (context) => const GeneticsQuizPage(),
                   ),
                 );
               },
-              child: const StudyCard(title: "Part - 2 ", content: "Part - 2"),
+              child: const StudyCard(
+                title: "Part - 2",
+                content: "Part - 2 Quiz",
+              ),
             ),
           ],
         ),

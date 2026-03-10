@@ -1,16 +1,16 @@
-import 'package:app/screens/world_news_quiz_page1.dart';
-import 'package:app/screens/world_news_quiz_page2.dart';
+import 'package:app/features/technology/presentation/technology_gi_study_pt1.dart';
+import 'package:app/features/technology/presentation/technology_gi_study_pt2.dart';
 import 'package:flutter/material.dart';
 
-class WorldNewsQuizPartPage extends StatelessWidget {
-  const WorldNewsQuizPartPage({super.key});
+class TechnologyStudyPage extends StatelessWidget {
+  const TechnologyStudyPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("World News Quiz"),
+        title: const Text("Technology Study"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -24,25 +24,22 @@ class WorldNewsQuizPartPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const WorldNewsQuizPage1(),
+                    builder: (context) => const Technology1GIPage(),
                   ),
                 );
               },
-              child: const StudyCard(title: "Part 1", content: "Part-1 Quiz"),
+              child: const StudyCard(title: "Part 1", content: "Part-1 Notes"),
             ),
             GestureDetector(
               onTap: () {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const WorldNewsQuizPage2(),
+                    builder: (context) => const Technology2GIPage(),
                   ),
                 );
               },
-              child: const StudyCard(
-                title: "Part - 2",
-                content: "Part - 2 Quiz",
-              ),
+              child: const StudyCard(title: "Part - 2 ", content: "Part - 2"),
             ),
           ],
         ),

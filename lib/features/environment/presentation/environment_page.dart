@@ -1,5 +1,5 @@
-import 'package:app/screens/environment_quiz.dart';
-import 'package:app/screens/environment_study.dart';
+import 'package:app/features/environment/presentation/environment_quiz.dart';
+import 'package:app/features/environment/presentation/environment_study.dart';
 import 'package:flutter/material.dart';
 
 class EnvironmentPage extends StatelessWidget {

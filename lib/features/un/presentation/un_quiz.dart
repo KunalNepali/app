@@ -1,16 +1,16 @@
-import 'package:app/screens/environment_gi_study_pt1.dart';
-import 'package:app/screens/environment_gi_study_pt2.dart';
+import 'package:app/features/un/presentation/un1_quiz_page.dart';
+import 'package:app/features/un/presentation/un2_quiz_page.dart';
 import 'package:flutter/material.dart';
 
-class EnvironmentStudyPage extends StatelessWidget {
-  const EnvironmentStudyPage({super.key});
+class UNQuizPage extends StatelessWidget {
+  const UNQuizPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("Environment Study"),
+        title: const Text("UN Quiz"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -23,23 +23,22 @@ class EnvironmentStudyPage extends StatelessWidget {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(
-                    builder: (context) => const Environment1GIPage(),
-                  ),
+                  MaterialPageRoute(builder: (context) => const UN1QuizPage()),
                 );
               },
-              child: const StudyCard(title: "Part 1", content: "Part-1 Notes"),
+              child: const StudyCard(title: "Part 1", content: "Part-1 Quiz"),
             ),
             GestureDetector(
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(
-                    builder: (context) => const Environment2GIPage(),
-                  ),
+                  MaterialPageRoute(builder: (context) => const UN2QuizPage()),
                 );
               },
-              child: const StudyCard(title: "Part - 2 ", content: "Part - 2"),
+              child: const StudyCard(
+                title: "Part - 2",
+                content: "Part - 2 Quiz",
+              ),
             ),
           ],
         ),

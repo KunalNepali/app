@@ -1,5 +1,5 @@
-import 'package:app/screens/world_news_quiz.dart';
-import 'package:app/screens/world_news_study.dart';
+import 'package:app/features/world_news/presentation/world_news_quiz.dart';
+import 'package:app/features/world_news/presentation/world_news_study.dart';
 import 'package:flutter/material.dart';
 
 class WorldNewsPage extends StatelessWidget {

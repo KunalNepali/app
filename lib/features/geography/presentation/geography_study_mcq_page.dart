@@ -1,5 +1,5 @@
-import 'package:app/screens/geography_quiz_page.dart';
-import 'package:app/screens/geography_study_page.dart';
+import 'package:app/features/geography/presentation/geography_quiz_page.dart';
+import 'package:app/features/geography/presentation/geography_study_page.dart';
 import 'package:flutter/material.dart';
 
 class GeographyStudyMcqPage extends StatelessWidget {

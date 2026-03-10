@@ -1,5 +1,5 @@
-import 'package:app/screens/organization_quiz_page.dart';
-import 'package:app/screens/organization_study_parts.dart';
+import 'package:app/features/organization/presentation/organization_quiz_page.dart';
+import 'package:app/features/organization/presentation/organization_study_parts.dart';
 import 'package:flutter/material.dart';
 
 class OrganizationPage extends StatelessWidget {

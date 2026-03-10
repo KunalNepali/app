@@ -1,16 +1,16 @@
-import 'package:app/screens/organization_gi_study_pt1.dart';
-import 'package:app/screens/organization_gi_study_pt2.dart';
+import 'package:app/features/development/presentation/development_gi_study_pt1.dart';
+import 'package:app/features/development/presentation/development_gi_study_pt2.dart';
 import 'package:flutter/material.dart';
 
-class OrganizationStudyPartsPage extends StatelessWidget {
-  const OrganizationStudyPartsPage({super.key});
+class DevelopmentStudyPage extends StatelessWidget {
+  const DevelopmentStudyPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("Organization Study"),
+        title: const Text("Development Study"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -24,7 +24,7 @@ class OrganizationStudyPartsPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const Organization1GIPage(),
+                    builder: (context) => const Development1GIPage(),
                   ),
                 );
               },
@@ -35,7 +35,7 @@ class OrganizationStudyPartsPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const Organization2GIPage(),
+                    builder: (context) => const Development2GIPage(),
                   ),
                 );
               },

@@ -1,5 +1,5 @@
-import 'package:app/screens/technology_quiz.dart';
-import 'package:app/screens/technology_study.dart';
+import 'package:app/features/technology/presentation/technology_quiz.dart';
+import 'package:app/features/technology/presentation/technology_study.dart';
 import 'package:flutter/material.dart';
 
 class TechnologyPage extends StatelessWidget {

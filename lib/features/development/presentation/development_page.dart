@@ -1,5 +1,5 @@
-import 'package:app/screens/development_quiz.dart';
-import 'package:app/screens/development_study.dart';
+import 'package:app/features/development/presentation/development_quiz.dart';
+import 'package:app/features/development/presentation/development_study.dart';
 import 'package:flutter/material.dart';
 
 class DevelopmentPage extends StatelessWidget {

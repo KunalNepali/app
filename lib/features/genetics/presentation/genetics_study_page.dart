@@ -1,16 +1,16 @@
-import 'package:app/screens/environment1_quiz_page.dart';
-import 'package:app/screens/environment2_quiz_page.dart';
+import 'package:app/features/environment/presentation/environment_gi_study_pt1.dart';
+import 'package:app/features/environment/presentation/environment_gi_study_pt2.dart';
 import 'package:flutter/material.dart';
 
-class EnvironmentQuizPage extends StatelessWidget {
-  const EnvironmentQuizPage({super.key});
+class GeneticsStudyPage extends StatelessWidget {
+  const GeneticsStudyPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("Environment Quiz"),
+        title: const Text("Genetics Study"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -24,25 +24,22 @@ class EnvironmentQuizPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const Environment1QuizPage(),
+                    builder: (context) => const Environment1GIPage(),
                   ),
                 );
               },
-              child: const StudyCard(title: "Part 1", content: "Part-1 Quiz"),
+              child: const StudyCard(title: "Part 1", content: "Part-1 Notes"),
             ),
             GestureDetector(
               onTap: () {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const Environment2QuizPage(),
+                    builder: (context) => const Environment2GIPage(),
                   ),
                 );
               },
-              child: const StudyCard(
-                title: "Part - 2",
-                content: "Part - 2 Quiz",
-              ),
+              child: const StudyCard(title: "Part - 2 ", content: "Part - 2"),
             ),
           ],
         ),

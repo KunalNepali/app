@@ -1,16 +1,16 @@
-import 'package:app/screens/un1_quiz_page.dart';
-import 'package:app/screens/un2_quiz_page.dart';
+import 'package:app/features/technology/presentation/technology1_quiz_page.dart';
+import 'package:app/features/technology/presentation/technology2_quiz_page.dart';
 import 'package:flutter/material.dart';
 
-class UNQuizPage extends StatelessWidget {
-  const UNQuizPage({super.key});
+class TechnologyQuizPage extends StatelessWidget {
+  const TechnologyQuizPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
       appBar: AppBar(
-        title: const Text("UN Quiz"),
+        title: const Text("Technology Quiz"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -23,7 +23,9 @@ class UNQuizPage extends StatelessWidget {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => const UN1QuizPage()),
+                  MaterialPageRoute(
+                    builder: (context) => const Tech1QuizPage(),
+                  ),
                 );
               },
               child: const StudyCard(title: "Part 1", content: "Part-1 Quiz"),
@@ -32,7 +34,9 @@ class UNQuizPage extends StatelessWidget {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => const UN2QuizPage()),
+                  MaterialPageRoute(
+                    builder: (context) => const Tech2QuizPage(),
+                  ),
                 );
               },
               child: const StudyCard(
