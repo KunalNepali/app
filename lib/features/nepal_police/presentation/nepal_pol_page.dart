@@ -51,6 +51,19 @@ class NepalPolPage extends StatelessWidget {
                 );
               },
             ),
+            buildOptionCard(
+              context,
+              title: "Past Questions",
+              subtitle: "MCQs of Recent years",
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const NepalPoliceQuizPage(),
+                  ),
+                );
+              },
+            ),
           ],
         ),
       ),
