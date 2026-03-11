@@ -35,7 +35,7 @@ class _QuizPageState extends State<QuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/location_questions.json',
+      'assets/data/geography/quiz/location_questions.json',
     );
     final data = json.decode(response);
 

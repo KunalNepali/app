@@ -1,0 +1,1989 @@
+[  
+  {
+    "question": "What is the total length of all rivers and streams in Nepal?",
+    "options": [
+      "50,000 km",
+      "40,000 km",
+      "45,000 km",
+      "42,500 km"
+    ],
+    "correctIndex": 2
+  },
+{
+    "question": "How much water flows from all rivers and streams of Nepal per second?",
+    "options": [
+      "200 cubic meters per second",
+      "150 cubic meters per second",
+      "170 cubic meters per second",
+      "100 cubic meters per second"
+    ],
+    "correctIndex": 2
+  },    
+  {
+    "question": "From where does the Dudh Koshi River originate?",
+    "options": [
+      "Dudhkunda",
+      "Gosaikunda",
+      "Manaslu",
+      "Makalu"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which region does the Tinau River flow through?",
+    "options": [
+      "Bagmati",
+      "Lumbini",
+      "Koshi",
+      "Gandaki"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which river comes from Mansarovar and flows in Humla?",
+    "options": [
+      "Arun",
+      "Tamakoshi",
+      "Karnali",
+      "Trishuli"
+    ],
+    "correctIndex": 2
+  },
+   {
+    "question": "The Koshi river basin lies between which Himalayan ranges?",
+    "options": [
+      "Langtang and Dhaulagiri",
+      "Dhaulagiri and Byas",
+      "Kanchenjunga and Langtang",
+      "Annapurna and Manaslu"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Gandaki river basin lies between which Himalayan ranges?",
+    "options": [
+      "Kanchenjunga and Langtang",
+      "Langtang and Dhaulagiri",
+      "Dhaulagiri and Byas",
+      "Annapurna and Api"
+    ],
+    "correctIndex": 1
+  },
+    {
+    "question": "Which district has the most rivers along its border?",
+    "options": [
+      "Dang",
+      "Kailali",
+      "Solukhumbu",
+      "Mustang"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which district has the least presence of rivers?",
+    "options": [
+      "Dang",
+      "Kailali",
+      "Chitwan",
+      "Baglung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Karnali river basin lies between which Himalayan ranges?",
+    "options": [
+      "Langtang and Dhaulagiri",
+      "Kanchenjunga and Langtang",
+      "Dhaulagiri and Byas",
+      "Mahabharat and Chure"
+    ],
+    "correctIndex": 2
+  }, 
+  {
+    "question": "What is the source of the Bagmati River called?",
+    "options": [
+      "Dudhkunda",
+      "Manaslu Glacier",
+      "Bagdwar",
+      "Rolwaling Glacier"
+    ],
+    "correctIndex": 2
+  },
+
+  {
+    "question": "Which rivers in Nepal originate from the Bhote side?",
+    "options": [
+      "Bagmati, Rapti, Karnali, Koshi",
+      "Arun, Tamakoshi, Sun Koshi, Tamor, Trishuli, Karnali",
+      "Tinau, Bheri, Seti, Karnali",
+      "Arun, Bagmati, Gandaki, Koshi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the highest river flowing from the highest point in Nepal?",
+    "options": [
+      "Koshi",
+      "Karnali",
+      "Bagmati",
+      "Arun"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the Tibetan name for Arun River?",
+    "options": [
+      "Yarlung Tsangpo",
+      "Phungchu",
+      "Sutlej",
+      "Tamur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is Karnali River called in India?",
+    "options": [
+      "Ganga",
+      "Yamuna",
+      "Saraswati",
+      "Ghaghara"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the hourly flow of the Koshi River?",
+    "options": [
+      "10 miles per hour",
+      "16 miles per hour",
+      "20 miles per hour",
+      "12 miles per hour"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the longest river in Nepal?",
+    "options": [
+      "Koshi",
+      "Karnali",
+      "Gandaki",
+      "Bagmati"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where does the Saptakoshi River meet the Ganga in India?",
+    "options": [
+      "Patna, Bihar",
+      "Varanasi, Uttar Pradesh",
+      "Karseela, Bihar",
+      "Sonepur, Bihar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which river forms Nepal's western border?",
+    "options": [
+      "Mechi River",
+      "Koshi River",
+      "Mahakali River",
+      "Gandaki River"
+    ],
+    "correctIndex": 2
+  },  
+{
+    "question": "Which is longest river of Nepal?",
+    "options": [
+      "Bagmati",
+      "Arun",
+      "Koshi",
+      "Karnali"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What are the three main river regions (major river systems) of Nepal?",
+    "options": ["Koshi, Gandaki, Karnali", "Bagmati, Rapti, Mahakali", "Mechi, Kankai, Kamala", "Seti, Bheri, Trishuli"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which major river system lies in Nepal's Eastern Region and is 702 km long?",
+    "options": ["Gandaki River", "Karnali River", "Koshi River", "Bagmati River"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which major river system lies in Nepal's Central Region and is 338 km long?",
+    "options": ["Koshi River", "Gandaki River", "Karnali River", "Mahakali River"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which major river system lies in Nepal's Western Region and is 507 km long?",
+    "options": ["Koshi River", "Gandaki River", "Karnali River", "Rapti River"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Koshi River system is formed by the combination of Tamor and which other river (as given in the dataset)?",
+    "options": ["Bheri", "Arun", "Trishuli", "Humla Karnali"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is listed as a tributary/sub-river under the Koshi River system in the dataset?",
+    "options": ["Budhi Gandaki", "Arun", "Humla Karnali", "Tila"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is listed as part of the Koshi system group in the dataset?",
+    "options": ["Indrawati", "Daraundi", "Madi", "Bheri"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river is identified as the 'largest tributary river' (ठूलो सहायक नदी) of the Koshi system in the dataset?",
+    "options": ["Tamor", "Arun", "Sunkoshi", "Dudhkoshi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which river is identified as the 'largest tributary river' (ठूलो सहायक नदी) of the Gandaki system in the dataset?",
+    "options": ["Kali Gandaki", "Trishuli", "Seti", "Budhi Gandaki"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following rivers is included under the Gandaki River system in the dataset?",
+    "options": ["Kali Gandaki", "Humla Karnali", "Tila", "Sunkoshi"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following rivers is listed in the dataset as part of the Sapta Gandaki (सप्त गण्डकी) area?",
+    "options": ["Seti", "Tamor", "Arun", "Mugu Karnali"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is listed as a tributary/sub-river under the Karnali River system in the dataset?",
+    "options": ["Bheri", "Trishuli", "Indrawati", "Tamor"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which region name is used for the area influenced by the Koshi River (नदीको आधारमा नेपालको विभाजन)?",
+    "options": ["Karnali Pradesh", "Gandaki Pradesh", "Koshi Pradesh", "Bagmati Pradesh"],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the dataset, Koshi Pradesh extends from which mountain in the east to which mountain in the west?",
+    "options": ["Langtang to Dhaulagiri", "Dhaulagiri to Byas Rishi Himal", "Kanchanjungha Himal to Langtang Himal", "Everest to Annapurna"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Koshi Pradesh is named after which sage (ऋषि) according to the dataset?",
+    "options": ["Byas Rishi", "Kaushik Rishi", "Gandib Rishi", "Valmiki Rishi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to the dataset, what is the river length of Koshi within Nepal (नेपालभित्र)?",
+    "options": ["152 km", "1713 km", "338 km", "507 km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which region name is used for the area influenced by the Gandaki River (नदीको आधारमा नेपालको विभाजन)?",
+    "options": ["Gandaki Pradesh", "Koshi Pradesh", "Karnali Pradesh", "Madhesh Pradesh"],
+    "correctIndex": 0
+  },
+  {
+    "question": "According to the dataset, Gandaki Pradesh extends from which mountain in the east to which mountain in the west?",
+    "options": ["Kanchanjungha to Langtang", "Langtang to Dhaulagiri", "Dhaulagiri to Byas Rishi Himal", "Api to Kanchenjunga"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gandaki Pradesh is named after which sage (ऋषि) according to the dataset?",
+    "options": ["Kaushik Rishi", "Gandib Rishi", "Byas Rishi", "Vishwamitra Rishi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the length of the Gandaki River given in the dataset?",
+    "options": ["702 km", "338 km", "507 km", "152 km"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the flow capacity (cum/sec) listed for the Gandaki region in the dataset (first value shown)?",
+    "options": ["1564 cum/sec", "1713 cum/sec", "1316 cum/sec", "702 cum/sec"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the flow capacity (cum/sec) listed for the Gandaki region in the dataset (second value shown)?",
+    "options": ["1316 cum/sec", "1713 cum/sec", "1564 cum/sec", "338 cum/sec"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the hydropower capacity (मे.वा.) listed for the Koshi region in the dataset?",
+    "options": ["22,000 MW", "21,000 MW", "32,000 MW", "13,16 MW"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the hydropower capacity (मे.वा.) listed for the Gandaki region in the dataset?",
+    "options": ["22,000 MW", "21,000 MW", "32,000 MW", "33,000 MW"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the irrigated area (सिञ्चित क्षेत्रफल) listed for the Koshi region in the dataset?",
+    "options": ["33,000 sq. km", "26,000 sq. km", "49,000 sq. km", "15,264 sq. km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the irrigated area (सिञ्चित क्षेत्रफल) listed for the Gandaki region in the dataset?",
+    "options": ["33,000 sq. km", "26,000 sq. km", "49,000 sq. km", "50,700 sq. km"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which river is listed as the main tributary (सहायक नदीहरू) under the Koshi system in the dataset?",
+    "options": ["Arun", "Kali Gandaki", "Seti Ganga", "Tila"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river is listed as a tributary (सहायक नदीहरू) under the Gandaki system in the dataset?",
+    "options": ["Sunkoshi", "Tamor", "Budhi Gandaki", "Dudhkoshi"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which region name is used for the area influenced by the Karnali River (नदीको आधारमा नेपालको विभाजन)?",
+    "options": ["Karnali Pradesh", "Koshi Pradesh", "Gandaki Pradesh", "Sudurpashchim Pradesh"],
+    "correctIndex": 0
+  },
+  {
+    "question": "According to the dataset, Karnali Pradesh extends from which mountain in the east to which mountain in the west?",
+    "options": ["Langtang to Dhaulagiri", "Kanchanjungha to Langtang", "Dhaulagiri to Byas Rishi Himal", "Everest to Kanchenjunga"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the length of the Karnali River given in the dataset?",
+    "options": ["338 km", "702 km", "507 km", "152 km"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the flow capacity (cum/sec) listed for the Karnali region in the dataset?",
+    "options": ["1564 cum/sec", "1713 cum/sec", "1316 cum/sec", "507 cum/sec"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the hydropower capacity (मे.वा.) listed for the Karnali region in the dataset?",
+    "options": ["22,000 MW", "21,000 MW", "32,000 MW", "13,16 MW"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the irrigated area (सिञ्चित क्षेत्रफल) listed for the Karnali region in the dataset?",
+    "options": ["33,000 sq. km", "26,000 sq. km", "49,000 sq. km", "15,200 sq. km"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is listed among the Karnali region rivers in the dataset?",
+    "options": ["Humla Karnali", "Indrawati", "Daraundi", "Tamor"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river is identified as the 'largest tributary river' (ठूलो सहायक नदी) for the Karnali region in the dataset?",
+    "options": ["Tila", "Humla Karnali", "Seti Ganga", "Sanobheri"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which set contains only rivers listed for the Karnali region in the dataset?",
+    "options": ["Tamor, Arun, Sunkoshi, Indrawati", "Trishuli, Marsyangdi, Madi, Daraundi", "Bagmati, Bishnumati, Manohara, Dhobikhola", "Humla Karnali, Mugu Karnali, Thulo Bheri, Sano Bheri"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is listed as a Karnali region river in the dataset along with Budhiganga and Seti Ganga?",
+    "options": ["Kali Gandaki","Tila", "Indrawati", "Tamakoशी"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which rivers meet at the confluence (दोभान) of Benighat, Dhading?",
+    "options": [ "Koshi and Karnali", "Trishuli and Budhi Gandaki", "Bagmati and Bishnumati", "Mahakali and Seti"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which streams form the confluence (दोभान) of Rati Khola and Modi Khola?",
+    "options": ["Seti Khola and Tinau Khola", "Indrawati Khola and Melamchi Khola", "Rati Khola and Modi Khola",  "Khorke Khola and Nikas Khola"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which rivers join together at the confluence (दोभान) of Damouli, Tanahun?",
+    "options": ["Tamor River and Arun River", "Seti River and Karnali River", "Indrawati River and Sunkoshi River", "Madi River and Seti River" ],
+    "correctIndex": 3
+  },
+  {
+    "question": "At Majuwa Khaireni (Tanahun), which two rivers form a confluence (दोभान)?",
+    "options": ["Daraundi and Marsyangdi", "Trishuli and Modi", "Kali Gandaki and Karnali", "Koshi and Kokaha"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which two rivers meet at the confluence known as Modi Beni (Parbat)?",
+    "options": [ "Karnali and Seti", "Arun and Sabha Khola", "Kali Gandaki and Modi", "Likhu Khola and Indrawati"],
+    "correctIndex": 2
+  },
+  {
+    "question": "At Ridi (Gulmi, Palpa and Syangja), which rivers form a confluence (दोभान)?",
+    "options": ["Kali Gandaki and Ridi Khola", "Kali Gandaki and Sunkoshi", "Koshi and Kokaha", "Trishuli and Budhi Gandaki"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which rivers meet at the confluence of Rudrabeni (Rudraganga and Kali Gandaki)?",
+    "options": [ "Kali Gandaki and Rati Khola", "Kali Gandaki and Myadi Khola","Madi River and Seti River", "Daraundi and Marsyangdi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which rivers meet at the confluence of Kali Gandaki and Badi Gaun (Rudraganga)?",
+    "options": ["Kali Gandaki and Ridi Khola", "Kali Gandaki and Badi Gaun (Rudraganga)", "Kali Gandaki and Myadi Khola", "Kali Gandaki and Modi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Nawalpur (Ramechhap–Okhaldhunga), which two rivers/streams meet at a confluence (दोभान)?",
+    "options": ["Indrawati and Sunkoshi", "Rati Khola and Modi Khola","Likhu Khola and Sunkoshi",  "Madi River and Seti River"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Near Barahakshetra (Sunsari), which rivers form a confluence (दोभान)?",
+    "options": ["Koshi River and Tamor River", "Karnali River and Bheri River", "Koka River and Koshi River", "Gandaki River and Trishuli River"],
+    "correctIndex": 2
+  },
+  {
+    "question": "At Tumlingtar (Sankhuwasabha), which rivers/streams meet at a confluence (दोभान)?",
+    "options": ["Arun River and Tamor River", "Trishuli River and Budhi Gandaki", "Daraundi and Marsyangdi", "Arun River and Sabha Khola"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which confluence location is associated with Trishuli River and Budhi Gandaki River?",
+    "options": ["Benighat (Dhading)", "Dolalghat (Kabhrepalanchok)", "Chame (Manang)", "Birendranagar (Surkhet)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which confluence location is associated with Rati Khola and Modi Khola?",
+    "options": [ "Barahakshetra (Sunsari)", "Dobilla (Parbat)","Tumlingtar (Sankhuwasabha)", "Ridi (Gulmi, Palpa and Syangja)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which confluence location is associated with Madi River and Seti River?",
+    "options": ["Rudrabeni","Damouli (Tanahun)",  "Modi Beni (Parbat)", "Benighat (Dhading)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which confluence location is associated with Daraundi River and Marsyangdi River?",
+    "options": ["Majuwa Khaireni (Tanahun)", "Ridi (Gulmi, Palpa and Syangja)", "Beni or Dobilla (Baglung)", "Nawalpur (Ramechhap-Okhaldhunga)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which confluence location is associated with Kali Gandaki River and Modi River?",
+    "options": [ "Benighat (Dhading)", "Damouli (Tanahun)", "Dobilla (Parbat)","Modi Beni (Parbat)"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which confluence location is associated with Kali Gandaki River and Ridi Khola?",
+    "options": [ "Chaurjahari", "Gajuri", "Gaighat", "Ridi (Gulmi, Palpa and Syangja)"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which confluence location is associated with Kali Gandaki River and Myadi Khola?",
+    "options": ["Modi Beni (Parbat)","Beni or Dobilla (Baglung)",  "Dobilla (Parbat)", "Damouli (Tanahun)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which confluence location name is linked with the meeting point of Kali Gandaki and Rudraganga?",
+    "options": [ "Kathmandu", "Pokhara", "Biratnagar","Rudrabeni"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which Nawalpur is known for the confluence of Likhu Khola and Sunkoshi?",
+    "options": [ "Nawalpur (Nawalparasi)", "Nawalpur (Ramechhap-Okhaldhunga)","Nawalpur (Chitwan)", "Nawalpur (Kaski)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which confluence location is associated with Koka River and Koshi River?",
+    "options": ["Barahakshetra (Sunsari)", "Benighat (Dhading)", "Ridi (Gulmi, Palpa and Syangja)", "Tumlingtar (Sankhuwasabha)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which confluence location is associated with Arun River and Sabha Khola?",
+    "options": [ "Damouli (Tanahun)", "Modi Beni (Parbat)", "Tumlingtar (Sankhuwasabha)","Dobilla (Parbat)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which rivers/streams are commonly referred to together as a pair in Nepal’s river geography?",
+    "options": [ "Bagmati River and Bishnumati", "Karnali River and Bheri", "Koshi River and Tamakoshi", "Marsyangdi River and Naradkhola"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which two rivers are paired together here?",
+    "options": ["Trishuli and Seti","Indrawati and Sunkoshi",  "Arun and Bheri", "Kali Gandaki and Mahakali"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pair correctly matches two eastern rivers mentioned together?",
+    "options": [ "Madi and Seti", "Tamor and Arun River","Budhi Gandaki and Trishuli", "Sunkoshi and Bagmati"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pair correctly matches two local streams (खोला) mentioned together?",
+    "options": ["Nikas Khola and Khorke Khola", "Melamchi Khola and Bagmati", "Tila and Mugu Karnali", "Modi and Trishuli"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which pair correctly matches two rivers mentioned together from western Nepal?",
+    "options": ["Tamakoshi and Sunkoshi", "Arun and Sabha", "Seti and Karnali", "Bakraha and Kesalya"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which pair correctly matches a major river and a stream mentioned together in Karnali area?",
+    "options": [ "Trishuli and Devighat", "Bagmati and Kathmandu", "Humla Karnali and Khaptad Khola","Mahakali and Dhangadhi"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which pair correctly matches two Karnali-region rivers named together?",
+    "options": ["Koshi and Kokaha", "Trishuli and Modi", "Balan Khola and Dunai","Humla Karnali and Mugu Karnali"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which pair correctly matches a river and a location name mentioned together?",
+    "options": ["Sano Bheri and Thulo Bheri","Thulo Bheri and Narsinghat",  "Tamor and Sunkoshi", "Indrawati and Melamchi Khola"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which two rivers are named together here?",
+    "options": [ "Arun and Koshi","Tamor and Sunkoshi", "Seti and Trishuli", "Karnali and Mahakali"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pair correctly matches the two Bheri rivers mentioned together?",
+    "options": ["Thulo Bheri and Marsyangdi", "Mugu Karnali and Tila", "Seti and Karnali","Sano Bheri and Thulo Bheri"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which river-and-stream pair is named together in Sindhupalchok?",
+    "options": [ "Bagmati and Bishnumati", "Koshi and Trishuli", "Indrawati and Melamchi Khola","Kali Gandaki and Trishuli"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a place in Manang district?",
+    "options": ["Chame (Manang)", "Dhulikhel (Kavre)", "Biratnagar (Morang)", "Bhairahawa (Rupandehi)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which place is in Kavrepalanchok district?",
+    "options": ["Dolalghat (Kabhrepalanchok)", "Dhangadhi (Kailali)", "Mahendranagar (Kanchanpur)", "Besisahar (Lamjung)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following place names is included here?",
+    "options": [ "Lalitpur", "Saksila","Hetauda", "Janakpur"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which place is the headquarters area of Surkhet district?",
+    "options": [ "Damak (Jhapa)","Birendranagar (Surkhet)", "Butwal (Rupandehi)", "Ghorahi (Dang)"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following place names is included from the Karnali area?",
+    "options": ["Pokhara (Kaski)", "Birgunj (Parsa)", "Balata (Karnali)", "Itahari (Sunsari)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following place names is included here?",
+    "options": ["Ghyanglu", "Bharatpur", "Dharan", "Dhulikhel"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following place names is included here?",
+    "options": [ "Gorkha", "Banepa", "Ilam","Bhirgaun"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following places is in Jajarkot?",
+    "options": [ "Gajuri, Dhading", "Dunai, Dolpa", "Dalli, Jajarkot","Tulsipur, Dang"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which location lies near Barahakshetra area?",
+    "options": [ "Panauti (Kavre)", "Gaighat (Udayapur)", "Bidur (Nuwakot)","Ahale (near Barahakshetra)"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which place is associated with the Rukum–Jajarkot area?",
+    "options": [ "Gamagadhi (Mugu)", "Jumli Khalanga (Jumla)", "Rimla (Rukum, Jajarkot)","Chaurjahari (Rukum West)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which town is located in Sindhupalchok district?",
+    "options": ["Melamchi (Sindhupalchok)", "Mugling (Chitwan)", "Jomsom (Mustang)", "Tumlingtar (Sankhuwasabha)"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following places is known as a riverside location mentioned here?",
+    "options": [ "Birgunj","Dhangadhi", "Tansen", "Dharan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a riverside place mentioned here?",
+    "options": ["Panauti", "Lumbini", "Bhaktapur", "Gaur"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a riverside place mentioned here?",
+    "options": [ "Halesi", "Chitlang", "Barahakshetra","Bandipur"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Kirtipur","Bara",  "Palpa", "Syangja"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": [ "Dhulikhel", "Janakpur", "Ilam","Birendranagar"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Diktel", "Gaur", "Rajbiraj","Besisahar"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Bhadrapur", "Mahendranagar", "Gorkha", "Tikapur"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": [ "Birtamod", "Khandbari", "Manthali","Sauraha"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Chaurjahari", "Bhojpur", "Gauradaha", "Ramgram"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": [ "Kusma", "Beni", "Ambu Khaireni","Lamahi"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": [ "Damak", "Gaighat","Tansen", "Dhangadhi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Gajuri", "Banepa", "Dharan", "Bharatpur"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Pokhara", "Biratnagar","Kathmandu",  "Nepalgunj"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": [ "Butwal", "Itahari", "Ghorahi","Gamagadhi"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Jumli Khalanga", "Banepa", "Dhankuta", "Dhulikhel"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Beni","Jomsom",  "Tansen", "Tikapur"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Dharan", "Damak", "Tulsipur", "Ilam"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Hetauda", "Diktel", "Bhadrapur","Damouli"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following places is mentioned here?",
+    "options": ["Lahan", "Khandbari", "Beni", "Lamahi"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river/stream name is 'Mohana'?",
+    "options": ["Mohana", "Trishuli", "Kali Gandaki", "Arun"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following names is included here?",
+    "options": ["Mustang", "Taplejung","Dhanusha",  "Dolpa"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which temple/place name is included here?",
+    "options": ["Pashupatinath","Hardinath",  "Muktinath", "Manakamana"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which two rivers are mentioned together as a combined name?",
+    "options": [ "Sunkoshi + Tamakoshi", "Seti + Madi", "Arun + Tamor","Padyawati + Leelawati"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following place names is included here?",
+    "options": [ "Chitwan", "Besisahar", "Dhunche","Putalikhet"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": ["Aandhikhola", "Karnali", "Bagmati", "Mahakali"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which pair is written together here?",
+    "options": ["Trishuli, Modi", "Modi, Kali Gandaki", "Koshi, Kokaha", "Narakhola, Marsyangdi"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following rivers is included here?",
+    "options": ["Karnali", "Seti", "Lalbakaiya", "Arun"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following place names is included here?",
+    "options": ["Baglung", "Dharan", "Ilam", "Bhadrapur"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following cities is included here?",
+    "options": [ "Pokhara","Biratnagar", "Lalitpur", "Dhangadhi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which river pair is written together here?",
+    "options": ["Kathekhola and Kali Gandaki", "Seti and Karnali", "Tamor and Arun", "Indrawati and Sunkoshi"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a stream (खोला) name included here?",
+    "options": [ "Bheri", "Tamor", "Trishuli","Nikas Khola"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a major river included here?",
+    "options": [ "Koshi", "Karnali", "Mahakali","Marsyangdi"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which two towns are written together as a pair here?",
+    "options": [ "Pokhara Lekhnath", "Butwal Bhairahawa","Beni Kusma", "Dhangadhi Attariya"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": ["Mahakali", "Bagmati", "Trishuli", "Arun"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following places is included here?",
+    "options": [ "Birendranagar", "Lahan","Pokhara", "Damouli"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": ["Tamakoshi", "Karnali", "Seti", "Bheri"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following place names is included here?",
+    "options": [ "Gajuri", "Gaighat","Dingla", "Gamagadhi"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which two rivers are written together here?",
+    "options": [ "Sano Bheri and Thulo Bheri", "Thuli Bheri and Marsyangdi","Indrawati and Melamchi", "Seti and Karnali"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following places is included here?",
+    "options": [ "Dolalghat", "Chame", "Jomsom","Mugling"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following place names is included here?",
+    "options": ["Dimmuwa", "Saksila", "Balata", "Bhirgaun"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": [ "Koshi", "Karnali","Triyuga", "Trishuli"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following place names is included here?",
+    "options": ["Barahakshetra", "Devighat", "Panauti", "Manthali"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": [ "Bagmati", "Trishuli","Seti", "Arun"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": ["Bagmati", "Karnali", "Koshi", "Mahakali"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following places is included here?",
+    "options": [ "Kathmandu", "Gajuri", "Gaighat","Bidur"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following places is included here?",
+    "options": [ "Pokhara","Kusma", "Dhangadhi", "Damouli"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which set lists three rivers written together here?",
+    "options": [ "Tamor, Arun, Sunkoshi", "Seti, Karnali, Bheri", "Trishuli, Madi, Marsyangdi","Bakraha, Kesalya, Sigiyā"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": ["Tinau", "Karnali", "Arun", "Mahakali"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river name appears more than once in the list?",
+    "options": ["Koshi", "Bagmati", "Seti","Tinau"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": [ "Tamor", "Bheri", "Seti","Sunkoshi"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": ["Arun", "Karnali", "Trishuli", "Bagmati"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which pair is written together here?",
+    "options": [ "Seti and Karnali", "Koshi and Arun", "Trishuli and Modi","Bagmati and Bishnumati"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": ["Trishuli", "Mahakali", "Karnali", "Koshi"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river name appears multiple times across the list?",
+    "options": [ "Tinau","Trishuli", "Triyuga", "Tila"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which river pair is written together here?",
+    "options": ["Modi and Kali Gandaki", "Tamor and Arun", "Indrawati and Sunkoshi", "Seti and Karnali"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a Karnali-basin river name included here?",
+    "options": [ "Koshi", "Mugu Karnali","Bagmati", "Trishuli"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following places is included here?",
+    "options": ["Besisahar", "Pokhara", "Chame", "Damouli"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which two water bodies are written together here?",
+    "options": [ "Indrawati + Melamchi", "Padyawati + Leelawati", "Modi + Kali Gandaki","Narakhola + Marsyangdi"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": [ "Thulo Bheri", "Seti", "Sani Bheri","Karnali"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following place names is included here?",
+    "options": ["Surkhet", "Kavre", "Manang","Jumla"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": ["Tila", "Trishuli", "Bagmati", "Arun"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": [ "Karnali","Kali Gandaki", "Koshi", "Mahakali"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following places is included here?",
+    "options": [ "Bidur", "Tumlingtar","Kusma", "Tulsipur"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which two water bodies are written together here?",
+    "options": [ "Tamor + Arun", "Seti + Karnali", "Indrawati + Sunkoshi","Arun + Sabha"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a stream/river name included here?",
+    "options": ["Patukhola", "Tinau", "Seti", "Triyuga"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following places is included here?",
+    "options": [ "Kathmandu", "Taulihawa","Biratnagar", "Pokhara"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": [ "Tamor","Madi", "Arun", "Trishuli"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following places is included here?",
+    "options": [ "Mugling", "Jomsom", "Dunai","Manthali"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a stream (खोला) name included here?",
+    "options": ["Balan Khola", "Bagmati", "Koshi", "Trishuli"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": [ "Karnali", "Arun", "Mahakali","Banganga"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a river name included here?",
+    "options": ["Thuli Bheri", "Sunkoshi", "Tinau", "Triyuga"],
+    "correctIndex": 0
+  },
+
+  {
+    "question": "In which district is Satyawati Lake (सत्यवती ताल) located?",
+    "options": [ "Kaski","Palpa", "Dang", "Jhapa"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In which district is Madan Lake (मदन ताल) located?",
+    "options": [ "Kaski", "Dang", "Palpa","Chitwan"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where is Dhukur Pokhari (ढुकुर पोखरी) located?",
+    "options": [ "Palpa", "Kaski","Dang", "Morang"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where is Bhirkune Pokhari (भिरकुने पोखरी) located?",
+    "options": [ "Kaski", "Palpa", "Sunsari","Dang"],
+    "correctIndex": 3
+  },
+  {
+    "question": "In which district is Balkund Pokhari (बालकुण्ड पोखरी) located?",
+    "options": ["Palpa", "Salyan", "Jajarkot", "Dang"],
+    "correctIndex": 0
+  },
+  {
+    "question": "In which district is Kubhinde Pokhari (कुभिण्डे पोखरी) located?",
+    "options": ["Salyan", "Palpa", "Surkhet", "Mugu"],
+    "correctIndex": 0
+  },
+  {
+    "question": "In which district is Syarpū Tal (स्यार्पु ताल) located?",
+    "options": [ "Dang", "Surkhet", "Dolpa","Salyan"],
+    "correctIndex": 3
+  },
+  {
+    "question": "In which district is Simarikhani Pokhari (सिमारीखानी पोखरी) located?",
+    "options": ["Surkhet", "Dang", "Palpa","Jajarkot"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Rara Lake (रारा ताल) is located in which district?",
+    "options": [ "Dolpa", "Jumla", "Mugu","Doti"],
+    "correctIndex": 2
+  },
+  {
+    "question": "In which district is Surma Sarobar Lake (सुर्मा सरोबर ताल) located?",
+    "options": [ "Dang", "Surkhet", "Jajarkot","Dolpa"],
+    "correctIndex": 2
+  },
+  {
+    "question": "In which district is Charange Tal (चरङ्गे ताल) located?",
+    "options": ["Surkhet", "Dang", "Salyan", "Makwanpur"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In which district is Bhote Pokhari (भोटे पोखरी) located?",
+    "options": ["Dang", "Doti", "Kanchanpur", "Taplejung"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Phoksundo Lake (फोक्सुण्डो ताल) is located in which district?",
+    "options": ["Mugu", "Dolpa", "Jumla", "Mustang"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In which district is Girinath Pokhari (गिरीनाथ पोखरी) located?",
+    "options": ["Surkhet", "Palpa", "Chitwan","Dang"],
+    "correctIndex": 3
+  },
+  {
+    "question": "In which district is Channanyanath Pokhari (चानन्यनाथ पोखरी) located?",
+    "options": ["Dolpa", "Mugu", "Sindhupalchok","Jumla"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Indra Sarobar (इन्द्र सरोबर ताल) is located in which district?",
+    "options": [ "Doti", "Kanchanpur", "Makwanpur","Kathmandu"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Khaptad Daha (खप्तड दह) is located in which district?",
+    "options": ["Doti", "Kanchanpur", "Dadhing", "Rasuwa"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Betkot Pokhari (बेतकोट पोखरी) is located in which district?",
+    "options": ["Taplejung","Kanchanpur",  "Ilam", "Panchthar"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sizma Tal (सिज्मा ताल) is located in which district?",
+    "options": [ "Kanchanpur", "Taplejung","Sankhuwasabha", "Tehrathum"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jor Pokhari (जोर पोखरी) is located in which district?",
+    "options": ["Panchthar", "Ilam", "Taplejung", "Kanchanpur"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Mai Pokhari (माई पोखरी) is located in which district?",
+    "options": ["Ilam", "Panchthar", "Taplejung", "Sankhuwasabha"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sabha Pokhari (सभा पोखरी) is located in which district?",
+    "options": ["Dhading", "Dhanusha","Sankhuwasabha",  "Sindhupalchok"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gyan Kund (ज्ञान कुण्ड) is located in which district?",
+    "options": ["Dhading", "Nuwakot", "Dhanusha", "Kathmandu"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Salpa Pokhari (साल्पा पोखरी) is located in which district?",
+    "options": [ "Tehrathum", "Sankhuwasabha","Udayapur", "Solukhumbu"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Siddha Pokhari (सिद्ध पोखरी) is located in which district?",
+    "options": ["Bhaktapur", "Kathmandu", "Chitwan","Tehrathum"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Dudh Pokhari (दुध पोखरी) is located in which district?",
+    "options": [ "Rautahat", "Khotang", "Rasuwa","Udayapur"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Rautahat’s Pokhari (रौतहाको पोखरी) is located in which district?",
+    "options": ["Rautahat", "Udayapur", "Dhanusha", "Makwanpur"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Baraha Tal (बराह ताल) is located in which district?",
+    "options": ["Khotang", "Solukhumbu", "Kathmandu", "Chitwan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gosaikunda (गोसाईकुण्ड) is located in which district?",
+    "options": [ "Sindhupalchok", "Nuwakot", "Rasuwa","Dhading"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nag Kund (नाग कुण्ड) is located in which district?",
+    "options": ["Rasuwa", "Nuwakot", "Kathmandu", "Doti"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ganga Jamuna Kund (गंगा जमुना कुण्ड) is located in which district?",
+    "options": [ "Nuwakot", "Sindhupalchok", "Dhading","Rasuwa"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Bhairav Kund (भैरव कुण्ड) is located in which district?",
+    "options": [ "Rasuwa","Nuwakot", "Dhading", "Kathmandu"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ganesh Kund (गणेश कुण्ड) is located in which district?",
+    "options": [ "Dhading", "Sindhupalchok","Rasuwa", "Kathmandu"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Panchpokhari (पाँचपोखरी) is located in which district?",
+    "options": [ "Rasuwa", "Dhading", "Nuwakot","Sindhupalchok"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Saraswati Kund (सरस्वती कुण्ड) is located in which district?",
+    "options": [ "Sindhupalchok", "Kathmandu", "Doti","Rasuwa"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Jata Pokhari (जटा पोखरी) is located in which district?",
+    "options": ["Kathmandu", "Bhaktapur", "Chitwan","Sindhupalchok"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Katuwal Dah (कटुवाल दह) is located in which district?",
+    "options": [ "Bhaktapur", "Kathmandu","Sindhupalchok", "Dhading"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tara Khaseko Pokhari (तारा खसेको पोखरी) is located in which district?",
+    "options": [ "Rasuwa", "Nuwakot","Sindhupalchok", "Makwanpur"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Taudaha (टौदह) is located in which district?",
+    "options": ["Bhaktapur", "Lalitpur", "Kathmandu", "Chitwan"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Narayani Pokhari (नारायणी पोखरी) is located in which district?",
+    "options": ["Sindhupalchok", "Kathmandu", "Bhaktapur", "Chitwan"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Rani Pokhari (रानी पोखरी) is located in which district?",
+    "options": ["Bhaktapur","Kathmandu",  "Lalitpur", "Chitwan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nag Pokhari (नाग पोखरी) is located in which district?",
+    "options": [ "Bhaktapur", "Kathmandu","Lalitpur", "Chitwan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pani Pokhari (पानी पोखरी) is located in which district?",
+    "options": [ "Bhaktapur", "Lalitpur", "Chitwan","Kathmandu"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Kamal Pokhari (कमल पोखरी) is located in which district?",
+    "options": ["Bhaktapur", "Kathmandu", "Lalitpur", "Chitwan"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Mujura Tal (मुजुरा ताल) is located in which district?",
+    "options": ["Parsa", "Lamjung", "Gorkha", "Chitwan"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nanda Bhauju Tal (नन्द भाउजु ताल) is located in which district?",
+    "options": ["Bhaktapur", "Parbat", "Chitwan", "Mustang"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gahana Pokhari (गहना पोखरी) is located in which district?",
+    "options": ["Bhaktapur", "Parsa", "Kathmandu", "Chitwan"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tamorghaila Tal (तमोरघैला ताल) is located in which district?",
+    "options": ["Mustang", "Kaski", "Chitwan", "Parbat"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Siddhi Pokhari (सिद्धि पोखरी) is located in which district?",
+    "options": ["Kaski", "Kathmandu", "Chitwan", "Bhaktapur"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Gaduwa Tal (गडुवा ताल) is located in which district?",
+    "options": ["Mustang", "Chitwan", "Lamjung", "Parsa"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kasara Tal (कसरा ताल) is located in which district?",
+    "options": ["Lamjung", "Parbat", "Chitwan", "Gorkha"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tilicho Lake (तिलिजो ताल) is located in which district?",
+    "options": ["Kaski", "Dolpa", "Mustang", "Mugu"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Kamini Dah (कामिनी दह) is located in which district?",
+    "options": ["Parsa", "Gorkha", "Lamjung", "Chitwan"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Dhoi Pokhari (ढोई पोखरी) is located in which district?",
+    "options": ["Gorkha", "Kaski", "Lamjung", "Parbat"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Kalchhuman Tal (कल्छुमन ताल) is located in which district?",
+    "options": ["Parsa", "Gorkha", "Lamjung", "Parbat"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Badr Pokhari (बद्र पोखरी) is located in which district?",
+    "options": ["Gorkha", "Parbat", "Lamjung", "Kaski"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ilim Pokhari (इलिम पोखरी) is located in which district?",
+    "options": ["Parsa", "Mustang", "Gorkha", "Lamjung"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Baujari Tal (बौजरी ताल) is located in which district?",
+    "options": ["Baglung", "Parbat", "Parsa", "Kaski"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Virendra Gufa (वीरेन्द्र गुफा) is associated with which district?",
+    "options": ["Kaski", "Baglung", "Chitwan", "Parbat"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Fewa Lake (फेवा ताल) is located in which district?",
+    "options": ["Parbat", "Lamjung", "Baglung", "Kaski"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Shankar Pokhari (शंकर पोखरी) is located in which district?",
+    "options": ["Kaski", "Baglung", "Parbat", "Arghakhanchi"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Rupa Lake (रुपा ताल) is located in which district?",
+    "options": ["Lamjung", "Gorkha", "Parbat", "Kaski"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Thuli Pokhari (ठूली पोखरी) is located in which district?",
+    "options": ["Kaski", "Baglung", "Arghakhanchi", "Parbat"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Begnas Lake (बेगनास ताल) is located in which district?",
+    "options": ["Lamjung", "Baglung", "Kaski", "Parbat"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dipang Tal (दिपाङ्ग ताल) is located in which district?",
+    "options": ["Mustang", "Parbat", "Chitwan", "Kaski"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Maidi Tal (मैदी ताल) is located in which district?",
+    "options": ["Parbat", "Kaski", "Arghakhanchi", "Baglung"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Rudra Tal (रुद्र ताल) is located in which district?",
+    "options": ["Parbat", "Baglung", "Lamjung", "Kaski"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Larpā Tal (लार्पा ताल) is located in which district?",
+    "options": ["Baglung", "Kaski", "Parbat", "Arghakhanchi"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Sayadhjalang Tal (सायाढजालाङ ताल) is located in which district?",
+    "options": ["Baglung", "Mustang", "Kaski", "Arghakhanchi"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Rivers with the shortest flow area in Nepal are found in which district?",
+    "options": ["Taplejung", "Dhading", "Dang", "Kaski"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nepal’s first electricity generation from Pharping happened in which year (B.S.)?",
+    "options": ["2007 B.S.", "2015 B.S.", "1968 B.S.", "1950 B.S."],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which was Nepal’s first private-sector hydropower project?",
+    "options": ["Kulekhani Hydroelectric Project", "Khimti Khola Hydroelectric Project", "Marsyangdi Hydroelectric Project", "Kaligandaki A Hydroelectric Project"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the installed capacity of the Khimti Khola Hydroelectric Project?",
+    "options": ["45 MW", "100 MW", "12 MW", "60 MW"],
+    "correctIndex": 3
+  },
+  {
+    "question": "About how much water flows per second from all rivers and streams of Nepal (as stated here)?",
+    "options": ["170 cubic meters per second", "45,000 cubic meters per second", "3.9 cubic meters per second", "170 अरब cubic meters per second"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the total combined length of Nepal’s rivers and streams?",
+    "options": ["40,000 km", "50,000 km", "33,000 km", "45,000 km"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Roughly what percentage of Nepal’s area is covered by water?",
+    "options": ["9.3%", "3.9%", "6.0%", "1.7%"],
+    "correctIndex": 1
+  },
+  {
+    "question": "After reaching Karseela in Bihar, the Saptakoshi eventually merges into which river?",
+    "options": ["Yamuna", "Brahmaputra", "Ganga", "Ghaghara"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the hourly flow speed of the Koshi River mentioned here?",
+    "options": ["12 miles per hour", "20 miles per hour", "8 miles per hour", "16 miles per hour"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is Nepal’s longest river?",
+    "options": ["Koshi", "Gandaki", "Bagmati", "Karnali"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is the longest glacier in Nepal?",
+    "options": ["Langtang Glacier", "Yala Glacier", "Khumbu Glacier", "Thulagi Glacier"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name used in India for the Karnali River (as stated here)?",
+    "options": ["Ghaghara", "Gandak", "Kosi", "Dhaandhara"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Dudhkoshi River originates from which lake?",
+    "options": ["Gosaikunda", "Dudhkunda", "Rara", "Phoksundo"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tinau River belongs to which zone (अञ्चल) of Nepal?",
+    "options": ["Koshi", "Gandaki", "Karnali", "Lumbini"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which river is said here to flow from Mansarovar and is known as Humla Karnali?",
+    "options": ["Seti", "Bheri", "Humla Karnali", "Trishuli"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the traditional name of the Bagmati River’s source?",
+    "options": ["Baglung", "Bagtal", "Bagbazar", "Bagdwar"],
+    "correctIndex": 3
+  },
+  {
+    "question": "How many rivers are listed here as originating in Tibet (Arun, Tamakoshi, Sunkoshi, Tamor, Trishuli, Karnali)?",
+    "options": ["5", "7", "8", "6"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which river is described here as the world’s highest-altitude flowing river?",
+    "options": ["Karnali River", "Koshi River", "Bagmati River", "Arun River"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What Tibetan name is given here for the Arun River?",
+    "options": ["Yarlung", "Tsangpo", "Fungla", "Phungchu"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Hyatung Waterfall (हयातुङ झरना) lies in which district?",
+    "options": ["Taplejung", "Palpa", "Dhading", "Tehrathum"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Tiptala Waterfall (तिप्तला झरना) lies in which district?",
+    "options": ["Tehrathum", "Palpa", "Kaski", "Taplejung"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Baikuntha Waterfall (बैकुण्ठ झरना) is in which district?",
+    "options": ["Dhading", "Dang", "Palpa", "Syangja"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Sahasradhara Waterfall (सहस्रधारा झरना) is in which district?",
+    "options": ["Dhading", "Parbat", "Panchthar", "Syangja"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Rupse Waterfall (रुपसे झरना) is in which district?",
+    "options": ["Parbat", "Okhaldhunga", "Syangja", "Kavre"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pokali Waterfall (पोकली झरना) is in which district?",
+    "options": ["Dang", "Kaski", "Doti", "Panchthar"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Gangajamuna Waterfall (गंगाजमुना झरना) is in which district?",
+    "options": ["Kaski", "Nuwakot", "Udayapur", "Dhading"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Seto Gulaf Waterfall (सेतो गुलाफ झरना) is in which district?",
+    "options": ["Parbat", "Sankhuwasabha", "Dang", "Okhaldhunga"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Puranadhara Waterfall (पुरनधारा झरना) is listed under which district here?",
+    "options": ["Doti", "Khotang", "Dolpa", "Dang"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Suligad Waterfall (सुलिगढ झरना) is in which district?",
+    "options": ["Okhaldhunga", "Parbat", "Panchthar", "Sankhuwasabha"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Ratmate Waterfall (रातमाटे झरना) is in which district?",
+    "options": ["Kaski", "Doti", "Manang", "Okhaldhunga"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Rajarani Waterfall (राजारानी झरना) lies in which district?",
+    "options": ["Arghakhanchi", "Kavre", "Udayapur", "Manang"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Til Kuwa Waterfall (तिल कुवा झरना) lies in which district?",
+    "options": ["Doti", "Kaski", "Nuwakot", "Arghakhanchi"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Jorpani Waterfall (जोरपानी झरना) lies in which district?",
+    "options": ["Kaski", "Kavre", "Sindhupalchok", "Doti"],
+    "correctIndex": 3
+  },
+  {
+    "question": "David Waterfall (डेभिड झरना) lies in which district?",
+    "options": ["Kavre", "Sindhupalchok", "Udayapur", "Kaski"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Gamchathal Waterfall (गम्चाथल झरना) lies in which district?",
+    "options": ["Sindhupalchok", "Udayapur", "Nuwakot", "Kavre"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Odari Waterfall (ओदारी झरना) lies in which district?",
+    "options": ["Nuwakot", "Khotang", "Doti", "Sindhupalchok"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Tin Duwai Waterfall (तीन दुवाई झरना) lies in which district?",
+    "options": ["Udayapur", "Nuwakot", "Khotang", "Sindhupalchok"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Bhairav Waterfall (भैरव झरना) lies in which district?",
+    "options": ["Udayapur", "Nuwakot", "Sindhupalchok", "Khotang"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Khwako Waterfall (ख्वाको झरना) lies in which district?",
+    "options": ["Nuwakot", "Khotang", "Dolpa", "Udayapur"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Chhahari Waterfall (छहारी झरना) lies in which district?",
+    "options": ["Khotang", "Doti", "Dang", "Nuwakot"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Thiprung Waterfall (थिप्रुङ्ग झरना) lies in which district?",
+    "options": ["Nuwakot", "Doti", "Dolpa", "Khotang"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Phung Phung Waterfall (फुङ्ग फुङ्ग झरना) lies in which district?",
+    "options": ["Khotang", "Dang", "Doti", "Nuwakot"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Haptung Waterfall (हाप्तुङ्ग झरना) lies in which district?",
+    "options": ["Doti", "Dang", "Dolpa", "Khotang"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Belchhed Waterfall (बेलछेद झरना) lies in which district?",
+    "options": ["Dang", "Dolpa", "Dailekh", "Doti"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Chamche Waterfall (चम्चे झरना) lies in which district?",
+    "options": ["Doti", "Dailekh", "Dolpa", "Dang"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Pauli Gaun Waterfall (पाउली गाऊँ झरना) lies in which district?",
+    "options": ["Dailekh", "Manang", "Panchthar", "Dolpa"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Duwai Khola Waterfall (दुवाईखोलाको झरना) lies in which district?",
+    "options": ["Dolpa", "Manang", "Panchthar", "Dailekh"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Shushang Waterfall (शुशाङ्ग झरना) lies in which district?",
+    "options": ["Manang", "Dolpa", "Dailekh", "Panchthar"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the Sanskrit name of the Arun River?",
+    "options": ["Varun","Mahaprabha",  "Tilottama", "Sapanatirtha"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the length of the Arun River within Nepal?",
+    "options": ["152 km", "256 km", "702 km", "36 km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the total length of the Arun River in Nepal and Tibet combined?",
+    "options": [ "152 km", "256 km", "720 km","507 km"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which river in Lalitpur district flows from south to north as stated here?",
+    "options": [ "Rapti","Karmanasha", "Tinau", "Likhu"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the source of the Bishnumati River called?",
+    "options": ["Bagdwar", "Dudhkunda","Sapanatirtha",  "Gyan Kund"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which river is described as flowing in two directions under the same name?",
+    "options": [ "Koshi", "Karnali", "Gandaki","Rapti"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the length of the Sunkoshi River?",
+    "options": [ "152 km", "338 km", "507 km","256 km"],
+    "correctIndex": 3
+  },
+  {
+    "question": "In glaciated areas, what is the deep well-like pit called (as stated here)?",
+    "options": [ "Daha","Kharpos", "Pokhari", "Kund"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which glacier is named here as flowing from Nepal’s higher region in Solukhumbu?",
+    "options": ["Khumbu Glacier", "Dojampa Glacier", "Langtang Glacier", "Yala Glacier"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is stated here as Nepal’s longest glacier (36 km long)?",
+    "options": ["Khumbu Glacier", "Dojampa Glacier", "Thulagi Glacier", "Langtang Glacier"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Dojampa Glacier lies in which district?",
+    "options": [ "Rasuwa", "Mustang", "Solukhumbu","Dolpa"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Dojampa Glacier is located in which Himalayan range as stated here?",
+    "options": ["Annapurna range", "Langtang range", "Kanchenjunga range","Cho Oyu range"],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to this information, the Dudhkoshi River starts from which glacier area?",
+    "options": [ "Khumbu Glacier", "Langtang Glacier", "Yala Glacier","Dojampa Glacier"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nepal is ranked second in the world (after which country) in terms of water resources as stated here?",
+    "options": ["Brazil", "China", "India", "Canada"],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Asia, what rank is Nepal placed in terms of water resources as stated here?",
+    "options": [ "Second", "Third", "First","Fourth"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Approximately how many rivers are said to be in Nepal?",
+    "options": [ "About 1000","More than 6000", "About 100", "About 600"],
+    "correctIndex": 1
+  },
+  {
+    "question": "About how many rivers longer than 160 km are said to be in Nepal?",
+    "options": ["More than 100", "About 60", "About 10", "About 1000"],
+    "correctIndex": 0
+  },
+  {
+    "question": "About how many rivers longer than 11 km are said to be in Nepal?",
+    "options": ["More than 6000","About 1000",  "More than 100", "About 160"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is stated here as the total length of Nepal’s rivers and streams?",
+    "options": [ "45,000 km", "42000 km", "83000 km","4500 km"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nepal’s theoretical hydropower potential is given as how many megawatts (as stated here)?",
+    "options": ["83,000 MW", "42,000 MW", "8,300 MW", "60 MW"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Based on economic and technical feasibility, Nepal’s hydropower production capacity is stated as how many megawatts?",
+    "options": ["83,000 MW", "8,300 MW", "42,000 MW", "2,200 MW"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who stated the 83,000 MW hydropower potential figure in 1967 (as mentioned here)?",
+    "options": ["Kaushik Rishi", "Gandib Rishi", "Byas Rishi","Hariman Shrestha"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nepal’s rivers are stated to have irrigation potential for about how many hectares of land?",
+    "options": ["8,000,000 hectares", "80,000 hectares", "800,000 hectares", "2,200,000 hectares"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What percentage of Nepal’s land area is said here to be occupied by rivers and streams?",
+    "options": ["0.7%","3.9%",  "2.27%", "5.67%"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What percentage of Nepal’s land area is said here to be covered by water only?",
+    "options": ["0.7%", "3.9%", "2.27%", "5.67%"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Brazil is stated here to hold what percentage of the world's water resources?",
+    "options": ["2.27%", "3.9%", "0.7%","5.67%"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nepal’s rivers and streams are stated here to account for what percentage of the world’s water resources?",
+    "options": [ "5.67%", "3.9%","2.27%", "0.7%"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nepal is ranked at what position in the world for losses caused by water-related disasters (as stated here)?",
+    "options": ["20th", "10th", "30th", "40th"],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to this information, how much water flows per second from all rivers of Nepal?",
+    "options": [ "170 अरब cubic meters per second", "45,000 cubic meters per second", "2,200 cubic meters per second","170 cubic meters per second"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Arun River is said here to flow from an altitude of about how many feet?",
+    "options": ["7,600 feet", "27,690 feet", "2,769 feet", "83,000 feet"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Arun River is called what name in China (as stated here)?",
+    "options": ["Mahaprabha","Phungchu",  "Varun", "Tilottama"],
+    "correctIndex": 1
+  },
+  {
+    "question": "The highest-altitude flowing glacier mentioned here (Khumbu) flows above approximately what height?",
+    "options": [ "2,769 m", "27,690 m","7,600 m", "152 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which river is described as carrying the most sand and frequently changing its course in Nepal?",
+    "options": ["Karnali", "Gandaki", "Bagmati","Koshi"],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Koshi River is described as the second-largest sand-carrying river in the world after which river (as stated here)?",
+    "options": [ "Ganga", "Huang He","Brahmaputra", "Amazon"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is stated here as the total water storage capacity of Nepal’s rivers (जलभण्डार क्षमता)?",
+    "options": ["202,000 million cubic meters", "83,000 million cubic meters", "42,000 million cubic meters", "170 million cubic meters"],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Betravati River lies between which two districts (as stated here)?",
+    "options": [ "Dhading and Nuwakot","Rasuwa and Nuwakot", "Kaski and Parbat", "Ilam and Panchthar"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nepal’s major rivers (Koshi, Gandaki, Karnali) ultimately merge into which river in India?",
+    "options": ["Yamuna River", "Ghaghara River", "Ganga River", "Brahmaputra River"],
+    "correctIndex": 2
+  },
+  {
+    "question": "About how much soil is said to be carried away from Nepal each year?",
+    "options": [ "202 million cubic meters", "83 million cubic meters", "42 million cubic meters","240 million cubic meters"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which island is said to be forming in the Bay of Bengal due to Nepal’s soil deposition (as stated here)?",
+    "options": [ "Sundarban", "Majuli", "Bhola","Newmor"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the Tibetan-language name of the Arun River (as stated here)?",
+    "options": [ "Mahaprabha", "Varun","Phungchu", "Sapanatirtha"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Likhu River is also known by what other name (as stated here)?",
+    "options": ["Mahaprabha River", "Tilottama River", "Varun River", "Phungchu River"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tinau (a second-order river) is also known by what other name (as stated here)?",
+    "options": ["Tilottama", "Varun", "Mahaprabha", "Karmanasha"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the dolphin found in the Koshi, Karnali, and Narayani rivers (as stated here)?",
+    "options": [ "Rani", "Sos","Kharpos", "Newmor"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the source of the Bagmati River?",
+    "options": ["Ladakh Himal", "Bagdwar", "Gosaikunda", "Panchpokhari Dah"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which river originates from Sapanatirtha?",
+    "options": ["Trishuli", "Vishnumati", "Likhu", "Kamala River"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which river is associated with Gosaikunda as its origin?",
+    "options": ["Indrawati", "Mahakali", "Seti", "Budhi Gandaki"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which river is said to originate from the Rolwaling Himal?",
+    "options": ["Mahakali", "Indrawati", "Daraundi", "Marsyangdi"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which river is said to originate from the Api Himal?",
+    "options": ["Mahakali", "Kali Gandaki", "Dudhkoshi", "Bheri"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which river is linked with Saipal Himal as its origin?",
+    "options": ["Kamala River", "Likhu", "West Seti", "Mechi"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tilicho Lake lies at approximately what elevation above sea level?",
+    "options": ["3,613 m", "4,919 m", "2,990 m", "4,360 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tilicho Lake is located in the lap of which mountain (as stated here)?",
+    "options": ["Kanjiroba Himal", "Kanjirawa Himal", "Phakche Himal", "Damodar Himal"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the approximate length of Tilicho Lake?",
+    "options": ["4 km", "5.2 km", "4.82 km", "3 km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the approximate width of Tilicho Lake?",
+    "options": ["1.6 km", "1.2 km", "2.4 km", "0.5 km"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the approximate maximum depth of Tilicho Lake?",
+    "options": ["167 m", "200 m", "100 m", "24 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Rara Lake has an approximate length of how many kilometers?",
+    "options": ["4.8 km", "5.2 km", "4.82 km", "3 km"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Rara Lake has an approximate width of how many kilometers?",
+    "options": ["2.4 km", "1.5 km", "1.61 km", "1.2 km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Rara Lake has an approximate depth of how many meters?",
+    "options": ["200 m", "167 m", "100 m", "24 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Rara Lake lies at approximately what elevation above sea level?",
+    "options": [ "4,919 m", "3,613 m", "2,990 m","2,990 m"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Rara Lake is also known by which other name?",
+    "options": [ "Karkotak Tal", "Kanjiroba Tal","Mahendratal", "Phakche Tal"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Phoksundo Lake is located in the lap of which mountain range mentioned here?",
+    "options": ["Kanjiroba Himal", "Phakche Himal", "Damodar Himal", "Api Himal"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Phoksundo Lake lies at approximately what elevation above sea level?",
+    "options": [ "3,613 m", "4,580 m","2,990 m", "701 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the approximate length of Phoksundo Lake?",
+    "options": [ "4 km", "5.2 km", "3 km", "4.82 km"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the approximate width of Phoksundo Lake?",
+    "options": ["1.2 km", "1.5 km", "1.61 km", "2.4 km"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tsho Rolpa Lake lies at approximately what elevation above sea level?",
+    "options": ["4,580 m", "4,360 m", "4,919 m", "3,613 m"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tsho Rolpa Lake has an approximate length of how many kilometers?",
+    "options": [ "4 km", "4.8 km","3 km", "5.2 km"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tsho Rolpa Lake has an approximate width of how many kilometers?",
+    "options": [ "1.2 km", "0.5 km","1.5 km", "1.61 km"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tsho Rolpa Lake has an approximate depth of how many meters?",
+    "options": [ "167 m", "100 m","200 m", "24 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Fewa Lake has an approximate length of how many kilometers?",
+    "options": ["4.82 km", "5.2 km", "4 km","4.8 km"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Fewa Lake has an approximate width of how many kilometers?",
+    "options": ["1.5 km", "1.61 km", "2.4 km", "1.2 km"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Fewa Lake has an approximate depth of how many meters?",
+    "options": [ "100 m", "167 m", "24 m","200 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Rani Pokhari was built by which ruler (as stated here)?",
+    "options": ["Mahendra", "Jung Bahadur Rana", "Pratap Malla","Amar Singh Thapa"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the approximate length of Rani Pokhari?",
+    "options": [ "140 m", "200 m", "96 m", "180 m"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the approximate width of Rani Pokhari?",
+    "options": ["180 m", "84 m", "140 m","120 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Rani Pokhari covers approximately how many ropani of area (as stated here)?",
+    "options": [ "84 ropani", "32 ropani","96 ropani", "120 ropani"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Taudaha is also known as the habitat of which serpent deity (as stated here)?",
+    "options": ["Karkotak Nag", "Basuki Nag", "Sheshnag", "Manasarovar Nag"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Taudaha has a water area of about how many ropani?",
+    "options": ["84 ropani", "96 ropani", "32 ropani", "120 ropani"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Taudaha spreads over about how many ropani of land in total (as stated here)?",
+    "options": [ "84 ropani", "32 ropani", "225 ropani", "96 ropani"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Ghodaghodi Lake covers approximately how much area (as stated here)?",
+    "options": ["225 hectares", "120 hectares", "4.5 hectares","1.5 hectares"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Begnas Lake lies at approximately what elevation above sea level?",
+    "options": ["701 m", "677 m", "2,990 m", "3,613 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the depth of Begnas Lake mentioned here?",
+    "options": ["75 m", "4.5 m", "24 m", "167 m"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Begnas Lake spreads over approximately how many hectares?",
+    "options": ["225 hectares", "120 hectares", "1.5 hectares", "96 hectares"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gosaikunda lies at approximately what elevation above sea level?",
+    "options": ["4,360 m", "4,580 m", "4,919 m", "3,613 m"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Rupa Lake lies at approximately what elevation above sea level?",
+    "options": [ "677 m", "2,990 m", "3,613 m","701 m"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Rupa Lake spreads over approximately how many hectares?",
+    "options": ["225 hectares", "84 hectares", "120 hectares", "32 hectares"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What depth of Rupa Lake is mentioned here?",
+    "options": [ "75 m","4.5 m", "24 m", "100 m"],
+    "correctIndex": 1
+  },
+ {
+    "question": "Area of Ghodaghodi Taal?",
+    "options": [
+      "1.5 Hecotr",
+      "2",
+      "3.5",
+      "None"
+    ],
+    "correctIndex": 0
+  }
+]

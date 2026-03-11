@@ -35,7 +35,7 @@ class _NepalPolicePage5State extends State<NepalPolicePage5> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/nepal_police_question_pt5.json',
+      'assets/data/nepal_police/quiz/nepal_police_question_pt5.json',
     );
     final data = json.decode(response);
 

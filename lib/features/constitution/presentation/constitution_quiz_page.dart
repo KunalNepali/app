@@ -34,7 +34,7 @@ class _ConstitutionQuizPageState extends State<ConstitutionQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/constitution_questions.json',
+      'assets/data/constitution/quiz/constitution_questions.json',
     );
     final data = json.decode(response);
 

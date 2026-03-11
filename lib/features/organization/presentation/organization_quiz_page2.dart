@@ -34,7 +34,7 @@ class _OrganizationQuizPage2State extends State<OrganizationQuizPage2> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/organization_quiz_questions.json',
+      'assets/data/organization/quiz/organization_quiz_questions.json',
     );
     final data = json.decode(response);
 

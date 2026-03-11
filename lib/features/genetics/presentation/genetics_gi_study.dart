@@ -21,7 +21,7 @@ class _GeneticsGIPageState extends State<GeneticsGIPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/genetics_gi_questions.json',
+        'assets/data/genetics/notes/genetics_gi_questions.json',
       );
 
       final List<dynamic> decoded = json.decode(response);

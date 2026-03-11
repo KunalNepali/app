@@ -21,7 +21,7 @@ class _Technology2GIPageState extends State<Technology2GIPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/technology2_gi_study.json',
+        'assets/data/technology/notes/technology2_gi_study.json',
       );
 
       final List<dynamic> decoded = json.decode(response);

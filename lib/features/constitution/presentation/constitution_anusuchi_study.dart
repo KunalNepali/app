@@ -22,7 +22,7 @@ class _ConstitutionAnusuchiPageState extends State<ConstitutionAnusuchiPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/constitution_anusuchi_study.json',
+        'assets/data/constitution/notes/constitution_anusuchi_study.json',
       );
 
       final List<dynamic> decoded = json.decode(response);

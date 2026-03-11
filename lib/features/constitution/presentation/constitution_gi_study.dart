@@ -21,7 +21,7 @@ class _ConstitutionGIPageState extends State<ConstitutionGIPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/constitution_gi_study.json',
+        'assets/data/constitution/notes/constitution_gi_study.json',
       );
 
       final List<dynamic> decoded = json.decode(response);

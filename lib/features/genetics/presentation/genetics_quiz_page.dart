@@ -34,7 +34,7 @@ class _GeneticsQuizPageState extends State<GeneticsQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/genetics_quiz_questions.json',
+      'assets/data/genetics/quiz/genetics_quiz_questions.json',
     );
     final data = json.decode(response);
 

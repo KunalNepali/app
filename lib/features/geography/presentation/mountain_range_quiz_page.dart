@@ -35,7 +35,7 @@ class _MountainRangeQuizPageState extends State<MountainRangeQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/mountain_questions.json',
+      'assets/data/geography/quiz/mountain_questions.json',
     );
     final data = json.decode(response);
 

@@ -21,7 +21,7 @@ class _UN2GIPageState extends State<UN2GIPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/technology2_gi_study.json',
+        'assets/data/un/study/un2_gi_study.json',
       );
 
       final List<dynamic> decoded = json.decode(response);

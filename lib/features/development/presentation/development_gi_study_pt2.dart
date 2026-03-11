@@ -21,7 +21,7 @@ class _Development2GIPageState extends State<Development2GIPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/development2_gi_study.json',
+        'assets/data/development/notes/development2_gi_study.json',
       );
 
       final List<dynamic> decoded = json.decode(response);

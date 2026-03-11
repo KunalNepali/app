@@ -35,7 +35,7 @@ class _ClimateQuizPageState extends State<ClimateQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/climate_questions.json',
+      'assets/data/geography/quiz/climate_questions.json',
     );
     final data = json.decode(response);
 

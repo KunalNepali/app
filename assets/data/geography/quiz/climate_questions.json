@@ -1,0 +1,172 @@
+[
+  {
+    "question": "Up to which altitude is Subtropical Monsoon Climate found in Nepal?",
+    "options": [
+      "600m",
+      "1200m",
+      "2100m",
+      "3000m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which climate zone lies between 3351m and 5000m altitude?",
+    "options": [
+      "Cool Temperate Climate",
+      "Warm Temperate Climate",
+      "Alpine Climate",
+      "Tundra Climate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the altitude range of Warm Temperate Climate in Nepal?",
+    "options": [
+      "1201m – 2100m",
+      "2101m – 3350m",
+      "3351m – 5000m",
+      "5001m and above"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which climate zone is found above 5001m altitude in Nepal?",
+    "options": [
+      "Alpine Climate",
+      "Cool Temperate Climate",
+      "Tundra Climate",
+      "Subtropical Climate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Nepal, Alpine (लेकाली) climate is found approximately between which altitude range?",
+    "options": ["0–1,200 m", "1,201–2,100 m", "3,351–5,000 m", "5,001–8,848.86 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Tundra/Polar (हिमाली/ध्रुवीय/टुन्ड्रा) climate in Nepal begins above which altitude?",
+    "options": ["2,100 m", "3,351 m", "5,001 m", "8,000 m"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which climate zone covers Nepal’s highest areas up to 8,848.86 m (as listed)?",
+    "options": ["Warm temperate climate", "Cool temperate climate", "Alpine (लेकाली) climate", "Tundra/Polar (टुन्ड्रा) climate"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Sub-tropical monsoon climate in Nepal is mainly found up to which altitude?",
+    "options": ["Up to 1,200 m", "Up to 2,100 m", "Up to 3,350 m", "Up to 5,000 m"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which areas are specifically mentioned as having Sub-tropical monsoon climate?",
+    "options": [
+      "Bhaktapur, Dhulikhel, Nagarkot, Pokhara",
+      "Biratnagar, Janakpur, Hetauda, Banepa",
+      "Bhairahawa, Nepalgunj, Kailali, Dang, Surkhet",
+      "Jomsom, Manang, Muktinath, Namche"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Nepal’s Sub-tropical monsoon climate, summer temperature can reach up to?",
+    "options": ["31°C", "42°C", "20°C", "10°C"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Nepal’s Sub-tropical monsoon climate, winter temperature can fall to?",
+    "options": ["10°C", "5°C", "0°C", "-5°C"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Warm temperate climate in Nepal is mainly found between which altitudes?",
+    "options": ["0–1,200 m", "1,200–2,100 m", "2,100–3,350 m", "3,351–5,000 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Warm temperate climate is said to occur around which landform zones?",
+    "options": ["Tarai plains only", "Chure hills and Mahabharat range", "Inner Himalayas only", "High Himalayan snowline only"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Nepal’s Warm temperate climate, the summer temperature may reach?",
+    "options": ["20°C", "31°C", "42°C", "10°C"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Nepal’s Warm temperate climate, the winter temperature may drop to?",
+    "options": ["5°C", "10°C", "0°C", "-10°C"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Warm temperate climate is stated to receive rainfall up to?",
+    "options": ["10 cm", "250 cm", "0 mm", "100 cm"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cool temperate climate in Nepal is mainly found between which altitudes?",
+    "options": ["1,201–2,100 m", "2,101–3,350 m", "3,351–5,000 m", "5,001–8,848.86 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cool temperate climate is stated to occur mainly around which mountain range?",
+    "options": ["Chure range", "Mahabharat range", "Andes range", "Alps range"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Nepal’s Cool temperate climate, summer temperature can reach?",
+    "options": ["10°C", "20°C", "31°C", "42°C"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Nepal’s Cool temperate climate, winter temperature can reach down to?",
+    "options": ["0°C", "5°C", "10°C", "-20°C"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How much rainfall is stated for Nepal’s Cool temperate climate?",
+    "options": ["10 cm", "250 cm", "0 mm", "42 cm"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Alpine (लेकाली) climate is described as belonging to which region of Nepal?",
+    "options": ["Tarai region", "Himalayan (high mountain) region", "Only river basins", "Coastal region"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Alpine (लेकाली) climate, in which Nepali months does the temperature rise up to about 10°C?",
+    "options": ["Ashwin–Kartik–Mangsir", "Chaitra–Baisakh–Jestha", "Shrawan–Bhadra–Ashoj", "Poush–Magh–Falgun"],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Alpine (लेकाली) climate, for roughly how many months can the temperature stay around 0°C?",
+    "options": ["About 3 months", "About 6 months", "About 9 months", "About 12 months"],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Tundra/Polar climate of Nepal is also referred to by which term?",
+    "options": ["Oceanic climate", "Himalayan desert climate", "Equatorial climate", "Mediterranean climate"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Above 5,001 m, the temperature is stated to remain mostly below which value?",
+    "options": ["10°C", "5°C", "0°C", "-20°C"],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the Tundra/Polar zone, which condition is mentioned to occur after midday?",
+    "options": ["Heavy rainfall", "Severe snowstorm/wind", "Heat wave", "Thunderstorm"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which altitude range is matched correctly with 'Warm temperate climate' (न्यानो समशीतोष्ण)?",
+    "options": ["0–1,200 m", "1,201–2,100 m", "2,101–3,350 m", "3,351–5,000 m"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which altitude range is matched correctly with 'Cool temperate climate' (ठण्डा/उन्डा समशीतोष्ण)?",
+    "options": ["0–1,200 m", "1,201–2,100 m", "2,101–3,350 m", "3,351–5,000 m"],
+    "correctIndex": 2
+  }
+]

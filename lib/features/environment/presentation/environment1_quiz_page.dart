@@ -34,7 +34,7 @@ class _Environment1QuizPageState extends State<Environment1QuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/environment1_questions.json',
+      'assets/data/environment/quiz/environment1_questions.json',
     );
     final data = json.decode(response);
 

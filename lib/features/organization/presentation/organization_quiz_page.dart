@@ -1,5 +1,5 @@
-import 'package:app/features/world_news/presentation/world_news_quiz_page1.dart';
-import 'package:app/features/world_news/presentation/world_news_quiz_page2.dart';
+import 'package:app/features/organization/presentation/organization_quiz_page1.dart';
+import 'package:app/features/organization/presentation/organization_quiz_page2.dart';
 import 'package:flutter/material.dart';
 
 class OrganizationQuizPartPage extends StatelessWidget {
@@ -24,7 +24,7 @@ class OrganizationQuizPartPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const WorldNewsQuizPage1(),
+                    builder: (context) => const OrganizationQuizPage1(),
                   ),
                 );
               },
@@ -35,7 +35,7 @@ class OrganizationQuizPartPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const WorldNewsQuizPage2(),
+                    builder: (context) => const OrganizationQuizPage2(),
                   ),
                 );
               },
