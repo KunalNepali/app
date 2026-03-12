@@ -34,7 +34,7 @@ class _UN1QuizPageState extends State<UN1QuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/un/quiz/un1_quiz_questions.json',
+      'assets/data/un1_quiz_questions.json',
     );
     final data = json.decode(response);
 

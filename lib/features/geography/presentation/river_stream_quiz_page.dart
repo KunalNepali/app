@@ -35,7 +35,7 @@ class _RiverStreamQuizPageState extends State<RiverStreamQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/geography/quiz/river_stream_questions.json',
+      'assets/data/river_stream_questions.json',
     );
     final data = json.decode(response);
 

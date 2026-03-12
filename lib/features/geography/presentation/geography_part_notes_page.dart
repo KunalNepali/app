@@ -1,15 +1,16 @@
-import 'package:app/features/geography/presentation/climate_notes_page.dart';
-import 'package:app/features/geography/presentation/continent_notes_page.dart';
-import 'package:app/features/geography/presentation/forest_notes_page.dart';
-import 'package:app/features/geography/presentation/location_notes_page.dart';
-import 'package:app/features/geography/presentation/mountain_range_notes_page.dart';
-import 'package:app/features/geography/presentation/ocean_notes_page.dart';
-import 'package:app/features/geography/presentation/others_notes_page.dart';
-import 'package:app/features/geography/presentation/river_stream_notes_page.dart';
+import 'package:app/features/environment/presentation/climate_quiz_page.dart';
+import 'package:app/features/geography/presentation/continent_quiz_page.dart';
+import 'package:app/features/environment/presentation/forest_quiz_page.dart';
+import 'package:app/features/geography/presentation/mountain_range_quiz_page.dart';
+import 'package:app/features/geography/presentation/ocean_quiz_page.dart';
+import 'package:app/features/geography/presentation/river_stream_quiz_page.dart';
+import 'package:app/features/geography/presentation/location_quiz_page.dart';
+import 'package:app/features/geography/presentation/others_quiz_page.dart';
+
 import 'package:flutter/material.dart';
 
-class GeographyMcqPage extends StatelessWidget {
-  const GeographyMcqPage({super.key});
+class GeographyNotesPageOverview extends StatelessWidget {
+  const GeographyNotesPageOverview({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -63,53 +64,49 @@ class GeoCard extends StatelessWidget {
         if (item.title == "Location") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => const LocationGIPage()),
+            MaterialPageRoute(builder: (context) => const QuizPage()),
           );
         }
         if (item.title == "Climate") {
           Navigator.push(
             context,
-            MaterialPageRoute(
-              builder: (context) => const ClimateNotesGIPage1(),
-            ),
+            MaterialPageRoute(builder: (context) => const ClimateQuizPage()),
           );
         }
         if (item.title == "Mountains") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => MountainRangeGIPage()),
+            MaterialPageRoute(builder: (context) => MountainRangeQuizPage()),
           );
         }
         if (item.title == "Rivers & Lakes") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => RiverStreamGIPage()),
+            MaterialPageRoute(builder: (context) => RiverStreamQuizPage()),
           );
         }
         if (item.title == "Forests") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => const ForestNotesGIPage2()),
+            MaterialPageRoute(builder: (context) => const ForestQuizPage()),
           );
         }
         if (item.title == "Continents") {
           Navigator.push(
             context,
-            MaterialPageRoute(
-              builder: (context) => const ContinentNotesGIPage2(),
-            ),
+            MaterialPageRoute(builder: (context) => const ContinentQuizPage()),
           );
         }
         if (item.title == "Ocean") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => OceanGIPage()),
+            MaterialPageRoute(builder: (context) => OceanQuizPage()),
           );
         }
         if (item.title == "Others") {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => OthersGIPage()),
+            MaterialPageRoute(builder: (context) => OthersQuizPage()),
           );
         }
       },

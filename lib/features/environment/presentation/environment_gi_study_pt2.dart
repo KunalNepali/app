@@ -21,7 +21,7 @@ class _Environment2GIPageState extends State<Environment2GIPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/environment/notes/environment2_gi_study.json',
+        'assets/data/environment2_gi_study.json',
       );
 
       final List<dynamic> decoded = json.decode(response);

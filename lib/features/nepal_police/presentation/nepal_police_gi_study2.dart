@@ -20,7 +20,7 @@ class _NepalPolice2GIPageState extends State<NepalPolice2GIPage> {
 
   Future<void> loadData() async {
     final String response = await rootBundle.loadString(
-      'assets/data/nepal_police/notes/nepal_police_gi_questions2.json',
+      'assets/data/nepal_police_gi_questions2.json',
     );
 
     print(response); // check if JSON prints

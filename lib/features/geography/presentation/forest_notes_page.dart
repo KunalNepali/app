@@ -2,14 +2,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class Organization2GIPage extends StatefulWidget {
-  const Organization2GIPage({super.key});
+class ForestNotesGIPage2 extends StatefulWidget {
+  const ForestNotesGIPage2({super.key});
 
   @override
-  State<Organization2GIPage> createState() => _Organization2GIPageState();
+  State<ForestNotesGIPage2> createState() => _ForestNotesGIPage2();
 }
 
-class _Organization2GIPageState extends State<Organization2GIPage> {
+class _ForestNotesGIPage2 extends State<ForestNotesGIPage2> {
   List<Map<String, dynamic>> data = [];
 
   @override
@@ -21,7 +21,7 @@ class _Organization2GIPageState extends State<Organization2GIPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/organization_gi_questions.json',
+        'assets/data/forest_notes_questions.json',
       );
 
       final List<dynamic> decoded = json.decode(response);
@@ -151,7 +151,7 @@ class _Organization2GIPageState extends State<Organization2GIPage> {
     return Scaffold(
       backgroundColor: const Color(0xFFF4F6F8),
       appBar: AppBar(
-        title: const Text("SAARC, BIMSTEC, NATO, INTERPOLE"),
+        title: const Text("Genetics & Forensic Science"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,

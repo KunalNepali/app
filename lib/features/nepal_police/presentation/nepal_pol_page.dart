@@ -51,6 +51,8 @@ class NepalPolPage extends StatelessWidget {
                 );
               },
             ),
+            const SizedBox(height: 20),
+
             buildOptionCard(
               context,
               title: "Past Questions",

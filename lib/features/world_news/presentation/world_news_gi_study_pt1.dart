@@ -21,7 +21,7 @@ class _WorldNews1GIPageState extends State<WorldNews1GIPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/world_news/notes/world_news_gi_questions.json',
+        'assets/data/world_news_gi_questions.json',
       );
 
       final List<dynamic> decoded = json.decode(response);

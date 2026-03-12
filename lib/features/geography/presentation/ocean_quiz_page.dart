@@ -35,7 +35,7 @@ class _OceanQuizPageState extends State<OceanQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/geography/quiz/ocean_questions.json',
+      'assets/data/ocean_questions.json',
     );
     final data = json.decode(response);
 

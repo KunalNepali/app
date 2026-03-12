@@ -1,7 +1,7 @@
 import 'package:app/features/development/presentation/development_page.dart';
 import 'package:app/features/environment/presentation/environment_page.dart';
 import 'package:app/features/genetics/presentation/genetics_page.dart';
-import 'package:app/features/geography/presentation/geography_study_mcq_page.dart';
+import 'package:app/features/geography/presentation/geography_overview_page.dart';
 import 'package:app/features/history/presentation/history_study_mcq_page.dart';
 import 'package:app/features/nepal_police/presentation/nepal_pol_page.dart';
 import 'package:app/features/organization/presentation/organization_page.dart';
@@ -106,7 +106,7 @@ class HomeCard extends StatelessWidget {
           Navigator.push(
             context,
             MaterialPageRoute(
-              builder: (context) => const GeographyStudyMcqPage(),
+              builder: (context) => const GeographyOverviewPage(),
             ),
           );
         }

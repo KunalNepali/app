@@ -2,14 +2,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class Organization2GIPage extends StatefulWidget {
-  const Organization2GIPage({super.key});
+class OthersGIPage extends StatefulWidget {
+  const OthersGIPage({super.key});
 
   @override
-  State<Organization2GIPage> createState() => _Organization2GIPageState();
+  State<OthersGIPage> createState() => _OthersGIPage();
 }
 
-class _Organization2GIPageState extends State<Organization2GIPage> {
+class _OthersGIPage extends State<OthersGIPage> {
   List<Map<String, dynamic>> data = [];
 
   @override
@@ -19,19 +19,17 @@ class _Organization2GIPageState extends State<Organization2GIPage> {
   }
 
   Future<void> loadData() async {
-    try {
-      final String response = await rootBundle.loadString(
-        'assets/data/organization_gi_questions.json',
-      );
+    final String response = await rootBundle.loadString(
+      'assets/data/others_gi_questions.json',
+    );
 
-      final List<dynamic> decoded = json.decode(response);
+    print(response); // check if JSON prints
 
-      setState(() {
-        data = decoded.cast<Map<String, dynamic>>();
-      });
-    } catch (e) {
-      debugPrint('Error loading JSON: $e');
-    }
+    final List<dynamic> decoded = json.decode(response);
+
+    setState(() {
+      data = decoded.cast<Map<String, dynamic>>();
+    });
   }
 
   // ---------------- SECTION BUILDER ----------------
@@ -151,7 +149,7 @@ class _Organization2GIPageState extends State<Organization2GIPage> {
     return Scaffold(
       backgroundColor: const Color(0xFFF4F6F8),
       appBar: AppBar(
-        title: const Text("SAARC, BIMSTEC, NATO, INTERPOLE"),
+        title: const Text("Nepal Police Related Information"),
         backgroundColor: Colors.transparent,
         elevation: 0,
         foregroundColor: Colors.black,

@@ -21,7 +21,7 @@ class _Organization1GIPageState extends State<Organization1GIPage> {
   Future<void> loadData() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/organization/notes/organization_gi_questions.json',
+        'assets/data/organization_gi_questions.json',
       );
 
       final List<dynamic> decoded = json.decode(response);

@@ -4,7 +4,7 @@ import 'package:app/features/environment/presentation/forest_quiz_page.dart';
 import 'package:app/features/geography/presentation/mountain_range_quiz_page.dart';
 import 'package:app/features/geography/presentation/ocean_quiz_page.dart';
 import 'package:app/features/geography/presentation/river_stream_quiz_page.dart';
-import 'package:app/features/geography/presentation/quiz_page.dart';
+import 'package:app/features/geography/presentation/location_quiz_page.dart';
 import 'package:app/features/geography/presentation/others_quiz_page.dart';
 
 import 'package:flutter/material.dart';

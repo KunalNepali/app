@@ -34,7 +34,7 @@ class _Tech2QuizPageState extends State<Tech2QuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/technology/notes/technology2_quiz_questions.json',
+      'assets/data/technology2_quiz_questions.json',
     );
     final data = json.decode(response);
 

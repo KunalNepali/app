@@ -34,7 +34,7 @@ class _WorldNewsQuizPage2State extends State<WorldNewsQuizPage2> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/world_news/quiz/world_news_quiz_questions.json',
+      'assets/data/world_news_quiz_questions.json',
     );
     final data = json.decode(response);
 

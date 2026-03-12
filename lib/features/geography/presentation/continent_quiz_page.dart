@@ -35,7 +35,7 @@ class _ContinentQuizPageState extends State<ContinentQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/geography/quiz/continent_questions.json',
+      'assets/data/continent_questions.json',
     );
     final data = json.decode(response);
 

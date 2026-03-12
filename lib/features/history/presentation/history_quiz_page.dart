@@ -35,7 +35,7 @@ class _HistoryQuizPageState extends State<HistoryQuizPage> {
 
   Future<void> loadQuestions() async {
     final String response = await rootBundle.loadString(
-      'assets/data/history/quiz/history_questions.json',
+      'assets/data/history_questions.json',
     );
     final data = json.decode(response);
 

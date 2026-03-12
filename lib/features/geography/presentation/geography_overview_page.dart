@@ -1,9 +1,9 @@
-import 'package:app/features/geography/presentation/geography_quiz_page.dart';
+import 'package:app/features/geography/presentation/geography_part_notes_page.dart';
 import 'package:app/features/geography/presentation/geography_study_page.dart';
 import 'package:flutter/material.dart';
 
-class GeographyStudyMcqPage extends StatelessWidget {
-  const GeographyStudyMcqPage({super.key});
+class GeographyOverviewPage extends StatelessWidget {
+  const GeographyOverviewPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -30,7 +30,7 @@ class GeographyStudyMcqPage extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const GeographyQuizPage(),
+                    builder: (context) => const GeographyNotesPageOverview(),
                   ),
                 );
               },
